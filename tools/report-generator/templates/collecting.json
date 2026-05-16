@@ -40,7 +40,10 @@
     }
   ],
   "search_strategy": {
-    "platform_quota": {"xhs": 12, "douyin": 8},
+    "platform_quota": {
+      "xhs": 10,
+      "douyin": 3
+    },
     "keyword_templates": [
       "{hobby} 入门",
       "{hobby} 真假 辨别",

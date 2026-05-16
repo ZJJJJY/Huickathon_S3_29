@@ -24,6 +24,9 @@ from pathlib import Path
 from typing import Any
 
 from dotenv import load_dotenv
+
+load_dotenv()  # 必须在 import lib.agent 之前,否则 ANTHROPIC_MODEL 读不到
+
 from pydantic import ValidationError
 
 from crawlers.base import TimeWindow
@@ -39,8 +42,6 @@ from lib.templates import (
 )
 from tools import TOOLS_SCHEMA, Tools
 
-load_dotenv()
-
 ROOT = Path(__file__).resolve().parent
 PROJECT_ROOT = ROOT.parent.parent
 HOBBIES_JSON = PROJECT_ROOT / "src" / "data" / "hobbies.json"
@@ -51,7 +52,7 @@ REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 COLLECT_SYSTEM = """你是社交媒体素材采集 agent。给定一个爱好 + 必搜关键词模板,
-你的任务是用提供的工具搜集 20-30 条高质量帖子作为后续报告的素材。
+你的任务是用提供的工具搜集 10-15 条高质量帖子作为后续报告的素材。
 
 策略:
 - 第一轮: 严格按提供的「必搜关键词」逐个搜索(小红书 + 抖音都覆盖)
@@ -76,9 +77,9 @@ def collect_prompt(hobby_name: str, template: CategoryTemplate, time_window: Tim
 - 优先选高赞 / 高评论数的帖子{tw_hint}
 
 # 流程
-1. 把上面 4 个关键词,各调一次 search_xhs 和一次 search_douyin
+1. 把上面的关键词,各调一次 search_xhs 和一次 search_douyin
 2. 看完结果后,自由补充搜索(关键词可以更具体,如某个装备名、某种玩法)
-3. 选 2-3 条最值得深挖的高赞帖子,调 get_comments 拿热评
+3. 选最值得深挖的高赞 xhs 帖子,调 get_comments 拿热评 —— **xhs get_comments 整轮最多调用 3 次,超过会被工具层拒绝**
 4. 最后输出一段简短总结(不是报告,只是说明覆盖了哪些角度)
 """
 

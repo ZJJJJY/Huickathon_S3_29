@@ -40,7 +40,10 @@
     }
   ],
   "search_strategy": {
-    "platform_quota": {"xhs": 8, "douyin": 12},
+    "platform_quota": {
+      "xhs": 10,
+      "douyin": 3
+    },
     "keyword_templates": [
       "{hobby} 入门",
       "{hobby} 工作室",

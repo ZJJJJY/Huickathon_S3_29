@@ -60,6 +60,7 @@ TOOLS_SCHEMA: list[dict] = [
         "description": (
             "拿某条帖子的热评 top N。评论区经常比正文更真实,"
             "适合在 agent 觉得某条帖子重要、想深挖时调用。"
+            "注意: xhs 平台每个 hobby 最多调 3 次, 超过会返回空列表。"
         ),
         "input_schema": {
             "type": "object",
@@ -118,11 +119,14 @@ class Tools:
     search_xhs / search_douyin 会带上这个 time_window 调爬虫。
     """
 
+    XHS_GET_COMMENTS_LIMIT = 3  # 每个 hobby 最多对 3 条 xhs 帖子调 get_comments
+
     def __init__(self, time_window: TimeWindow = "unlimited"):
         self.time_window = time_window
         self.xhs = XhsCrawler(headless=True)
-        self.douyin = DouyinCrawler(headless=True)
+        self.douyin = DouyinCrawler(headless=False)  # 抖音 headless 会被风控吐空, 用有头
         self.store = PostStore()
+        self._xhs_comment_calls = 0
 
     async def __aenter__(self):
         await self.xhs.start()
@@ -149,6 +153,13 @@ class Tools:
         post = self.store.get(post_id)
         if post is None:
             return [f"未找到 {post_id}"]
+        if post.platform == "xhs":
+            if self._xhs_comment_calls >= self.XHS_GET_COMMENTS_LIMIT:
+                print(
+                    f"  [warn] xhs get_comments 已达上限 {self.XHS_GET_COMMENTS_LIMIT} 次，跳过 {post_id}"
+                )
+                return []
+            self._xhs_comment_calls += 1
         crawler = self.xhs if post.platform == "xhs" else self.douyin
         native_id = post_id.split("_", 1)[1]
         comments = await crawler.get_comments(native_id, limit=limit)
