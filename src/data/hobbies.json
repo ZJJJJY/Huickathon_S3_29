@@ -1,0 +1,122 @@
+[
+  {
+    "category": "skill_growth",
+    "label": "技能成长型",
+    "hobbies": [
+      {
+        "id": "guitar",
+        "name": "吉他",
+        "emoji": "🎸",
+        "one_liner": "从一首副歌开始，每天 15 分钟",
+        "neon_color": "#3EE8FF"
+      },
+      {
+        "id": "second_language",
+        "name": "第二外语",
+        "emoji": "🗣️",
+        "one_liner": "三个月开口说一段自我介绍",
+        "neon_color": "#3EE8FF"
+      }
+    ]
+  },
+  {
+    "category": "physical",
+    "label": "体能体验型",
+    "hobbies": [
+      {
+        "id": "ski",
+        "name": "滑雪",
+        "emoji": "🎿",
+        "one_liner": "一节体验课，决定要不要办季卡",
+        "neon_color": "#FF6B35"
+      },
+      {
+        "id": "frisbee",
+        "name": "飞盘",
+        "emoji": "🥏",
+        "one_liner": "周末公园局，零门槛社交",
+        "neon_color": "#FF6B35"
+      }
+    ]
+  },
+  {
+    "category": "crafting",
+    "label": "创作手工型",
+    "hobbies": [
+      {
+        "id": "pottery",
+        "name": "陶艺",
+        "emoji": "🏺",
+        "one_liner": "两小时捏一个能用的杯子",
+        "neon_color": "#FFD23F"
+      },
+      {
+        "id": "woodworking",
+        "name": "木工",
+        "emoji": "🪚",
+        "one_liner": "做一块属于自己的小桌板",
+        "neon_color": "#FFD23F"
+      }
+    ]
+  },
+  {
+    "category": "collecting",
+    "label": "收藏鉴赏型",
+    "hobbies": [
+      {
+        "id": "figure",
+        "name": "手办",
+        "emoji": "🧸",
+        "one_liner": "从第一个本命角色开始",
+        "neon_color": "#A855F7"
+      },
+      {
+        "id": "sneaker",
+        "name": "球鞋",
+        "emoji": "👟",
+        "one_liner": "懂行情比抢到更重要",
+        "neon_color": "#A855F7"
+      }
+    ]
+  },
+  {
+    "category": "outdoor",
+    "label": "自然户外型",
+    "hobbies": [
+      {
+        "id": "fishing",
+        "name": "野钓",
+        "emoji": "🎣",
+        "one_liner": "一杆一椅，半天独处",
+        "neon_color": "#34D399"
+      },
+      {
+        "id": "camping",
+        "name": "露营",
+        "emoji": "⛺",
+        "one_liner": "周末逃离城市，靠近星空",
+        "neon_color": "#34D399"
+      }
+    ]
+  },
+  {
+    "category": "social_competitive",
+    "label": "社交竞技型",
+    "hobbies": [
+      {
+        "id": "badminton",
+        "name": "羽毛球",
+        "emoji": "🏸",
+        "one_liner": "找球友比找教练更重要",
+        "neon_color": "#FF3EA5"
+      },
+      {
+        "id": "jubensha",
+        "name": "剧本杀",
+        "emoji": "🕵️",
+        "one_liner": "一晚演完一个人生",
+        "neon_color": "#FF3EA5"
+      }
+    ]
+  }
+]
