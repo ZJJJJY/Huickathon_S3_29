@@ -1,10 +1,13 @@
 import { NextResponse } from "next/server";
-import { hobbiesData } from "@/lib/hobbies";
+import { loadHobbies } from "@/lib/hobbies";
 
 // GET /api/hobbies -> HobbiesJSON
-// Returns the full category + hobby manifest used by the pick page.
+// Read fresh from disk each request so dev edits show up without restart.
+export const dynamic = "force-dynamic";
+
 export async function GET() {
-  return NextResponse.json(hobbiesData, {
-    headers: { "Cache-Control": "public, max-age=3600" },
+  const data = await loadHobbies();
+  return NextResponse.json(data, {
+    headers: { "Cache-Control": "no-store" },
   });
 }

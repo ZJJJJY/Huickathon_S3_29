@@ -19,4 +19,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="zh-CN">
       <body className="bg-bg text-text font-sans">
-        <main className="mx-auto max-w-md min-h-screen relative">{children}</main>
+        <main className="mx-auto max-w-4xl min-h-screen relative">{children}</main>
+      </body>
+    </html>
+  );
+}

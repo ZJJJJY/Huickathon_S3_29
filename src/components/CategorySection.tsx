@@ -28,7 +28,7 @@ export function CategorySection({ group, baseIndex, order }: CategorySectionProp
       >
         {group.label}
       </motion.h2>
-      <div className="grid grid-cols-2 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {group.hobbies.map((hobby, i) => (
           <HobbyCard key={hobby.id} hobby={hobby} index={baseIndex + i} />
         ))}

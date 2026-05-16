@@ -25,19 +25,19 @@ export function HobbyCard({ hobby, index }: HobbyCardProps) {
           scale: 1.03,
           boxShadow: `0 0 18px ${hobby.neon_color}`,
         }}
-        className="relative rounded-2xl bg-bgCard p-4 cursor-pointer h-full flex flex-col gap-2 border"
+        className="relative rounded-xl bg-bgCard p-2.5 cursor-pointer h-full flex flex-col gap-1 border"
         style={{
           borderColor: `${hobby.neon_color}55`,
         }}
       >
-        <div className="text-3xl leading-none">{hobby.emoji}</div>
+        <div className="text-2xl leading-none">{hobby.emoji}</div>
         <div
-          className="font-semibold text-base"
+          className="font-semibold text-sm leading-tight"
           style={{ color: hobby.neon_color }}
         >
           {hobby.name}
         </div>
-        <div className="text-textMuted text-xs leading-snug">
+        <div className="text-textMuted text-[10px] leading-snug line-clamp-2">
           {hobby.one_liner}
         </div>
       </motion.div>

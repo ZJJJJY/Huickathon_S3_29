@@ -38,4 +38,84 @@ export interface Evidence {
 // 6 种 content 形态 (按 content_type 区分)
 export interface MarkdownContent {
   type: "markdown";
-  text: s
+  text: string;
+}
+
+export interface BudgetTier {
+  name: string;
+  price_range: string;
+  items: string[];
+  note: string;
+}
+export interface BudgetTiersContent {
+  type: "budget_tiers";
+  tiers: BudgetTier[];
+}
+
+export interface TimelineEntry {
+  label: string;
+  title: string;
+  detail: string;
+}
+export interface TimelineContent {
+  type: "timeline";
+  entries: TimelineEntry[];
+}
+
+export interface ChecklistItem {
+  title: string;
+  detail: string;
+}
+export interface ChecklistContent {
+  type: "checklist";
+  items: ChecklistItem[];
+}
+
+export interface Card {
+  title: string;
+  description: string;
+  meta: string;
+  url: string | null;
+}
+export interface CardsContent {
+  type: "cards";
+  cards: Card[];
+}
+
+export interface QAItem {
+  q: string;
+  a: string;
+}
+export interface QAContent {
+  type: "qa";
+  items: QAItem[];
+}
+
+export type SectionContent =
+  | MarkdownContent
+  | BudgetTiersContent
+  | TimelineContent
+  | ChecklistContent
+  | CardsContent
+  | QAContent;
+
+export type ContentType = SectionContent["type"];
+
+export interface ReportSection {
+  id: string;
+  title: string;
+  content: SectionContent;
+  citations: string[]; // Post id 列表
+}
+
+export interface Report {
+  hobby_id: string;
+  hobby_name: string;
+  category: HobbyCategory;
+  neon_color: string;
+  sections: ReportSection[];
+  evidence: Record<string, Evidence>;
+}
+
+// ---------- profile ----------
+export type Profile = Record<string, string | number | undefined>;

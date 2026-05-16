@@ -2,9 +2,10 @@ import { NextResponse } from "next/server";
 import { getAllHobbies } from "@/lib/hobbies";
 
 // GET /api/random -> { hobby_id }
-// Picks one hobby uniformly at random from the full manifest.
+export const dynamic = "force-dynamic";
+
 export async function GET() {
-  const all = getAllHobbies();
+  const all = await getAllHobbies();
   if (all.length === 0) {
     return NextResponse.json(
       { error: "no hobbies available" },
