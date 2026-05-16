@@ -1,0 +1,15 @@
+{
+  "hobby_id": "guitar",
+  "hobby_name": "吉他",
+  "category": "skill_growth",
+  "neon_color": "#3EE8FF",
+  "content": {
+    "note": "T7 阶段会替换为正式结构。此为占位 demo，证明跳转 + 渲染链路打通。",
+    "todo": [
+      "买一把 300-500 元入门吉他",
+      "下载 GuitarTuna 调弦",
+      "学会 G/C/D 三个和弦",
+      "练《Knockin' on Heaven's Door》"
+    ]
+  }
+}
