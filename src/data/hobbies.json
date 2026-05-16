@@ -8,14 +8,24 @@
         "name": "吉他",
         "emoji": "🎸",
         "one_liner": "从一首副歌开始，每天 15 分钟",
-        "neon_color": "#3EE8FF"
+        "neon_color": "#3EE8FF",
+        "time_window": "unlimited"
       },
       {
         "id": "second_language",
         "name": "第二外语",
         "emoji": "🗣️",
         "one_liner": "三个月开口说一段自我介绍",
-        "neon_color": "#3EE8FF"
+        "neon_color": "#3EE8FF",
+        "time_window": "unlimited"
+      },
+      {
+        "id": "video_creation",
+        "name": "视频创作",
+        "emoji": "🎬",
+        "one_liner": "拍一条 30 秒的生活切片",
+        "neon_color": "#3EE8FF",
+        "time_window": "1y"
       }
     ]
   },
@@ -28,14 +38,24 @@
         "name": "滑雪",
         "emoji": "🎿",
         "one_liner": "一节体验课，决定要不要办季卡",
-        "neon_color": "#FF6B35"
+        "neon_color": "#FF6B35",
+        "time_window": "1y"
       },
       {
         "id": "frisbee",
         "name": "飞盘",
         "emoji": "🥏",
         "one_liner": "周末公园局，零门槛社交",
-        "neon_color": "#FF6B35"
+        "neon_color": "#FF6B35",
+        "time_window": "2y"
+      },
+      {
+        "id": "bungee",
+        "name": "蹦极",
+        "emoji": "🪂",
+        "one_liner": "一跳换一辈子谈资",
+        "neon_color": "#FF6B35",
+        "time_window": "unlimited"
       }
     ]
   },
@@ -48,14 +68,32 @@
         "name": "陶艺",
         "emoji": "🏺",
         "one_liner": "两小时捏一个能用的杯子",
-        "neon_color": "#FFD23F"
+        "neon_color": "#FFD23F",
+        "time_window": "unlimited"
       },
       {
         "id": "woodworking",
         "name": "木工",
         "emoji": "🪚",
         "one_liner": "做一块属于自己的小桌板",
-        "neon_color": "#FFD23F"
+        "neon_color": "#FFD23F",
+        "time_window": "unlimited"
+      },
+      {
+        "id": "perler_beads",
+        "name": "拼豆",
+        "emoji": "🧩",
+        "one_liner": "像素世界的解压治愈",
+        "neon_color": "#FFD23F",
+        "time_window": "unlimited"
+      },
+      {
+        "id": "silver_smithing",
+        "name": "手工银饰",
+        "emoji": "💍",
+        "one_liner": "亲手敲一枚独一无二的戒指",
+        "neon_color": "#FFD23F",
+        "time_window": "unlimited"
       }
     ]
   },
@@ -68,14 +106,32 @@
         "name": "手办",
         "emoji": "🧸",
         "one_liner": "从第一个本命角色开始",
-        "neon_color": "#A855F7"
+        "neon_color": "#A855F7",
+        "time_window": "1y"
       },
       {
         "id": "sneaker",
         "name": "球鞋",
         "emoji": "👟",
         "one_liner": "懂行情比抢到更重要",
-        "neon_color": "#A855F7"
+        "neon_color": "#A855F7",
+        "time_window": "6m"
+      },
+      {
+        "id": "porcelain",
+        "name": "瓷器",
+        "emoji": "🍶",
+        "one_liner": "在器物里读千年审美",
+        "neon_color": "#A855F7",
+        "time_window": "unlimited"
+      },
+      {
+        "id": "stamp",
+        "name": "邮票",
+        "emoji": "📮",
+        "one_liner": "一张方寸纸，藏一段历史",
+        "neon_color": "#A855F7",
+        "time_window": "unlimited"
       }
     ]
   },
@@ -88,14 +144,24 @@
         "name": "野钓",
         "emoji": "🎣",
         "one_liner": "一杆一椅，半天独处",
-        "neon_color": "#34D399"
+        "neon_color": "#34D399",
+        "time_window": "1y"
       },
       {
         "id": "camping",
         "name": "露营",
         "emoji": "⛺",
         "one_liner": "周末逃离城市，靠近星空",
-        "neon_color": "#34D399"
+        "neon_color": "#34D399",
+        "time_window": "1y"
+      },
+      {
+        "id": "hiking",
+        "name": "爬山",
+        "emoji": "🏔️",
+        "one_liner": "登顶那一刻，所有累都值得",
+        "neon_color": "#34D399",
+        "time_window": "1y"
       }
     ]
   },
@@ -108,14 +174,24 @@
         "name": "羽毛球",
         "emoji": "🏸",
         "one_liner": "找球友比找教练更重要",
-        "neon_color": "#FF3EA5"
+        "neon_color": "#FF3EA5",
+        "time_window": "unlimited"
       },
       {
         "id": "jubensha",
         "name": "剧本杀",
         "emoji": "🕵️",
         "one_liner": "一晚演完一个人生",
-        "neon_color": "#FF3EA5"
+        "neon_color": "#FF3EA5",
+        "time_window": "6m"
+      },
+      {
+        "id": "tea_gathering",
+        "name": "围炉煮茶",
+        "emoji": "🍵",
+        "one_liner": "慢下来，把朋友约到一起",
+        "neon_color": "#FF3EA5",
+        "time_window": "1y"
       }
     ]
   }

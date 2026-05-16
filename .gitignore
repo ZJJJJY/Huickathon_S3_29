@@ -9,3 +9,12 @@ dist/
 .DS_Store
 .vscode/
 .idea/
+
+# 离线工具 tools/report-generator/
+tools/report-generator/.venv/
+tools/report-generator/.cookies/
+tools/report-generator/cache/
+tools/report-generator/__pycache__/
+tools/report-generator/**/__pycache__/
+tools/report-generator/.ruff_cache/
+tools/report-generator/uv.lock

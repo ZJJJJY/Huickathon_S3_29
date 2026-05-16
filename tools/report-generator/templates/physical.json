@@ -1,0 +1,51 @@
+{
+  "category": "physical",
+  "label": "体能体验型",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content_type": "markdown",
+      "prompt_hint": "200-300 字介绍这项运动 / 体验的体感、刺激点、适合人群、为什么近几年火。"
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content_type": "budget_tiers",
+      "prompt_hint": "分入门 / 进阶 / 进阶三档,每档包含场地费 / 课程 / 必要装备的预估总花销。"
+    },
+    {
+      "id": "venue",
+      "title": "场地",
+      "content_type": "cards",
+      "prompt_hint": "推荐 3-5 个场地 / 雪场 / 公园,每张卡片包含名称、所在城市、开放时间或季节、特色 / 适合人群。"
+    },
+    {
+      "id": "gear",
+      "title": "装备",
+      "content_type": "budget_tiers",
+      "prompt_hint": "按入门 / 进阶 / 进阶三档,每档说明该价位下推荐租赁还是购买、代表型号、价格区间。和总预算 section 是不同维度,聚焦装备本身。"
+    },
+    {
+      "id": "first_try",
+      "title": "第一次怎么玩",
+      "content_type": "checklist",
+      "prompt_hint": "5-8 条清单,从「出发前要准备的东西」到「现场流程」,新手照做能完整玩下来。"
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content_type": "qa",
+      "prompt_hint": "5-7 个新手最关心的问题,优先安全 / 受伤 / 体能门槛类。"
+    }
+  ],
+  "search_strategy": {
+    "platform_quota": {"xhs": 8, "douyin": 12},
+    "keyword_templates": [
+      "{hobby} 入门",
+      "{hobby} 新手 装备",
+      "{hobby} 体验",
+      "{hobby} 避坑"
+    ]
+  }
+}

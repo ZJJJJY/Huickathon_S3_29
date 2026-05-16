@@ -1,0 +1,51 @@
+{
+  "category": "crafting",
+  "label": "创作手工型",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content_type": "markdown",
+      "prompt_hint": "200-300 字介绍这门手艺的核心乐趣、能产出什么作品、为什么这两年受年轻人欢迎。"
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content_type": "budget_tiers",
+      "prompt_hint": "分一次体验 / 进阶课程 / 长期投入(买工具自己玩)三档,每档说明价格和能得到什么。"
+    },
+    {
+      "id": "where",
+      "title": "在哪做",
+      "content_type": "cards",
+      "prompt_hint": "推荐 3-5 个工作室 / DIY 店 / 在家方案,每张卡片包含名称或方案、所在城市或形式、价格区间、特色。"
+    },
+    {
+      "id": "first_session",
+      "title": "第一次体验流程",
+      "content_type": "timeline",
+      "prompt_hint": "用「进门 / 选样 / 制作 / 烧制或干燥 / 取件」之类的步骤节点,每步说明耗时和注意点。"
+    },
+    {
+      "id": "progression",
+      "title": "进阶路径",
+      "content_type": "timeline",
+      "prompt_hint": "从一次性体验,到周末爱好者,再到长期玩家,各阶段的时间投入、能做出什么作品、需要什么装备。"
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content_type": "qa",
+      "prompt_hint": "5-7 个新手最常问的问题,涵盖手残怎么办、作品怎么保存、能否在家做等。"
+    }
+  ],
+  "search_strategy": {
+    "platform_quota": {"xhs": 8, "douyin": 12},
+    "keyword_templates": [
+      "{hobby} 入门",
+      "{hobby} 工作室",
+      "{hobby} 新手 教程",
+      "{hobby} 作品"
+    ]
+  }
+}

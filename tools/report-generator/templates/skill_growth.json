@@ -1,0 +1,51 @@
+{
+  "category": "skill_growth",
+  "label": "技能成长型",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content_type": "markdown",
+      "prompt_hint": "200-300 字介绍这个技能的价值、学了能做什么、和相关技能的区别。语气活泼,带点鼓励。"
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content_type": "budget_tiers",
+      "prompt_hint": "分入门 / 进阶 / 进阶三档,每档给价格区间和代表配置(教材/课程/工具)。重点是「最少花多少能开始」。"
+    },
+    {
+      "id": "learning_curve",
+      "title": "学习路径",
+      "content_type": "timeline",
+      "prompt_hint": "用 1 周 / 1 个月 / 3 个月 / 半年 几个时间节点,各节点能达到什么具体水平。要可量化,不要「有所提升」这种空话。"
+    },
+    {
+      "id": "resources",
+      "title": "学习资源推荐",
+      "content_type": "cards",
+      "prompt_hint": "推荐 3-5 个具体资源,每张卡片包含资源名称、类型(教材/app/课程/老师)、适用阶段、特点。"
+    },
+    {
+      "id": "milestone",
+      "title": "第一个里程碑",
+      "content_type": "markdown",
+      "prompt_hint": "明确描述第一个能让新手「炫耀一下」的成就(比如吉他弹一首副歌、外语完成自我介绍)。包括达成时间预期和动作清单。"
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content_type": "qa",
+      "prompt_hint": "5-7 个新手最常问的问题。基于素材里的真实疑问,不要泛泛而谈。"
+    }
+  ],
+  "search_strategy": {
+    "platform_quota": {"xhs": 12, "douyin": 8},
+    "keyword_templates": [
+      "{hobby} 入门",
+      "{hobby} 新手 教程",
+      "{hobby} 学习 资源",
+      "{hobby} 避坑"
+    ]
+  }
+}

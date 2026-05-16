@@ -1,0 +1,51 @@
+{
+  "category": "collecting",
+  "label": "收藏鉴赏型",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content_type": "markdown",
+      "prompt_hint": "200-300 字介绍这个品类的文化背景、收藏的乐趣点、和「单纯买东西」的区别。"
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content_type": "budget_tiers",
+      "prompt_hint": "分入门(浅尝)、进阶(认真玩)、顶配(玩家级)三档,每档给预算范围和代表藏品。"
+    },
+    {
+      "id": "where_to_buy",
+      "title": "去哪买",
+      "content_type": "cards",
+      "prompt_hint": "推荐 3-5 个渠道,每张卡片包含渠道名(正版店 / 二手平台 / 拍卖)、特点、适合预算、注意事项。"
+    },
+    {
+      "id": "anti_fake",
+      "title": "辨真假 / 防坑",
+      "content_type": "checklist",
+      "prompt_hint": "5-8 条具体可执行的辨真假 / 防坑要点。要具体到「看哪里」「问什么」,不要泛泛而谈。"
+    },
+    {
+      "id": "care",
+      "title": "保养 / 收纳",
+      "content_type": "checklist",
+      "prompt_hint": "5-7 条保养和收纳要点,涵盖防潮 / 防晒 / 展示 / 清洁。"
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content_type": "qa",
+      "prompt_hint": "5-7 个新手常问问题,如「会不会贬值」「需要懂多少才能买第一件」。"
+    }
+  ],
+  "search_strategy": {
+    "platform_quota": {"xhs": 12, "douyin": 8},
+    "keyword_templates": [
+      "{hobby} 入门",
+      "{hobby} 真假 辨别",
+      "{hobby} 购买 渠道",
+      "{hobby} 避坑"
+    ]
+  }
+}

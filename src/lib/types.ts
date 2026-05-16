@@ -1,12 +1,15 @@
 import type { HobbyCategory } from "./theme";
 
-// Schema for data/hobbies.json
+// ---------- hobbies.json ----------
+export type TimeWindow = "6m" | "1y" | "2y" | "unlimited";
+
 export interface HobbyMeta {
   id: string;
   name: string;
   emoji: string;
   one_liner: string;
   neon_color: string;
+  time_window: TimeWindow;
 }
 
 export interface CategoryGroup {
@@ -17,18 +20,22 @@ export interface CategoryGroup {
 
 export type HobbiesJSON = CategoryGroup[];
 
-// Schema for data/reports/<hobby_id>.json
-// ReportContent is intentionally `unknown` — the final report structure is
-// not yet decided, so the rest of the app treats it as an opaque blob.
-export type ReportContent = unknown;
+// ---------- reports/<hobby_id>.json ----------
+// 与 tools/report-generator/lib/schemas.py 保持同步。
 
-export interface Report {
-  hobby_id: string;
-  hobby_name: string;
-  category: HobbyCategory;
-  neon_color: string;
-  content: ReportContent;
+export type Platform = "xhs" | "douyin";
+
+export interface Evidence {
+  platform: Platform;
+  url: string;
+  title: string;
+  author: string;
+  likes: number;
+  snippet: string;
+  cover: string | null;
 }
 
-// Profile (survey answers) is stored in localStorage. Schema is open for now.
-export type Profile = Record<string, string | number | undefined>;
+// 6 种 content 形态 (按 content_type 区分)
+export interface MarkdownContent {
+  type: "markdown";
+  text: s
