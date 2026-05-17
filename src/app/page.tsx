@@ -42,7 +42,7 @@ export default function HomePage() {
           <span>Three-Minute Spark</span>
         </div>
         <h1 className="text-5xl font-bold leading-tight mb-4 tracking-tight">
-          三分钟<span className="text-neon-pink">热度</span>
+          即刻<span className="text-neon-pink">心动</span>
         </h1>
         <p className="text-textMuted text-base mb-12 max-w-xs mx-auto">
           刷到一个爱好，<br />30 秒看它适不适合你
