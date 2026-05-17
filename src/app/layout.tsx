@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "三分钟热度",
+  title: "即刻心动",
   description: "刷到一个爱好，30 秒看它适不适合你",
 };
 
