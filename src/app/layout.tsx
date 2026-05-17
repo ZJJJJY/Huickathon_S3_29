@@ -18,8 +18,8 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="zh-CN">
-      <body className="text-text font-sans">
-        <main className="mx-auto max-w-4xl min-h-screen">{children}</main>
+      <body className="bg-bg text-text font-sans">
+        <main className="mx-auto max-w-4xl min-h-screen relative">{children}</main>
       </body>
     </html>
   );
