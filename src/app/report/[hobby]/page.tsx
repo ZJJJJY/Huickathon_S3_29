@@ -74,7 +74,7 @@ export default function ReportPage() {
           src={bgSrc}
           alt=""
           className="w-full h-full object-cover"
-          style={{ opacity: 0.15, filter: "blur(8px)" }}
+          style={{ opacity: 0.3, filter: "blur(6px)" }}
         />
       </div>
 
