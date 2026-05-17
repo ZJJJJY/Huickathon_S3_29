@@ -16,7 +16,9 @@
         "xhs_68c3d86e000000001c012746",
         "xhs_6663f80f000000000c019078"
       ],
-      "video_refs": []
+      "video_refs": [
+        "douyin_7500585749051854089"
+      ]
     },
     {
       "id": "budget",
@@ -63,7 +65,9 @@
         "xhs_68c3d86e000000001c012746",
         "xhs_6959fde300000000210321bb"
       ],
-      "video_refs": []
+      "video_refs": [
+        "douyin_7593791124486229274"
+      ]
     },
     {
       "id": "learning_curve",
@@ -99,7 +103,9 @@
         "xhs_6959fde300000000210321bb",
         "xhs_68249cb8000000002300c786"
       ],
-      "video_refs": []
+      "video_refs": [
+        "douyin_7563758100056280335"
+      ]
     },
     {
       "id": "resources",
@@ -144,7 +150,9 @@
         "xhs_68c3d86e000000001c012746",
         "xhs_6959fde300000000210321bb"
       ],
-      "video_refs": []
+      "video_refs": [
+        "douyin_7273113642130836792"
+      ]
     },
     {
       "id": "milestone",
@@ -202,7 +210,9 @@
         "xhs_68c3d86e000000001c012746",
         "xhs_6760077a0000000014027673"
       ],
-      "video_refs": []
+      "video_refs": [
+        "douyin_7612537624436147633"
+      ]
     }
   ],
   "evidence": {
@@ -279,5 +289,51 @@
       "cover": "http://sns-webpic-qc.xhscdn.com/202605170525/93be567ba7e69930c5e34a35e959b179/spectrum/1040g0k031qtib8uj70005q9npjgdobac8svvsl0!nc_n_webp_mw_1"
     }
   },
-  "videos": {}
+  "videos": {
+    "douyin_7500585749051854089": {
+      "id": "douyin_7500585749051854089",
+      "url": "https://www.douyin.com/video/7500585749051854089",
+      "title": "新手拿到吉他第一步练什么？\n#零基础学吉他 #弹吉他 #吉他教学 #零基础吉他教学 #吉他自学教程",
+      "author": "kt文吉他教学",
+      "likes": 84615,
+      "cover": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e6c25549dc7dee7ba3a5706b50dc29ec~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&card_type=153&column_n=0&from=327834062&l=20260517120305C1C6B8EDB69C35B61286&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=cover&se=false&x-expires=2094350400&x-signature=oI6aLSgtldXdxpp3BSj7FLecZ3g%3D",
+      "publish_time": "2025-05-04T13:43:42+00:00"
+    },
+    "douyin_7593791124486229274": {
+      "id": "douyin_7593791124486229274",
+      "url": "https://www.douyin.com/video/7593791124486229274",
+      "title": "七分钟告诉你为啥学吉他半途而废！和学习乐器的底层逻辑 #吉他教学 #吉他新手教学 #吉他新手 #七分钟烫发 \n要上吉他课",
+      "author": "大清Lantsaich",
+      "likes": 51782,
+      "cover": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3a9d18d3eed881b731bf629a0624ed22~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&card_type=153&column_n=0&from=327834062&l=2026051712153204A5C699880C45DB8776&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=cover&se=false&x-expires=2094350400&x-signature=c4hul%2BZLLZBg4hxl1yeVv0cAwg0%3D",
+      "publish_time": "2026-01-10T17:48:53+00:00"
+    },
+    "douyin_7563758100056280335": {
+      "id": "douyin_7563758100056280335",
+      "url": "https://www.douyin.com/video/7563758100056280335",
+      "title": "吉他自学速成教程#抖音上学吉他#吉他教学#零基础吉他教学#自学吉他流程 #新手吉他入门教程",
+      "author": "吉他邪修大法师",
+      "likes": 257552,
+      "cover": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c447b6bc0c5a35ed3a496b9e9512ffce~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&card_type=153&column_n=0&from=327834062&l=20260517121615346CA23C2FEB29ACEAD7&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=cover&se=false&x-expires=2094350400&x-signature=oWvnEBJDTeOrwoX8tXW4YrDAHuc%3D",
+      "publish_time": "2025-10-21T19:25:32+00:00"
+    },
+    "douyin_7273113642130836792": {
+      "id": "douyin_7273113642130836792",
+      "url": "https://www.douyin.com/video/7273113642130836792",
+      "title": "【零基础/全免费】吉他自学教程03 G调音阶 吉他指法  #自学吉他 #自学吉他零基础  #吉他教学 #吉他教学入门零基",
+      "author": "赤邑文化-吉他教学",
+      "likes": 15783,
+      "cover": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/27564cea3bd6933233f112999475d973~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&card_type=153&column_n=0&from=327834062&l=202605171217008296FB9788367ED89974&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=cover&se=false&x-expires=2094350400&x-signature=j%2BDcsxYrGm7BVMRqXLWat2oj6%2F0%3D",
+      "publish_time": "2023-08-30T13:55:45+00:00"
+    },
+    "douyin_7612537624436147633": {
+      "id": "douyin_7612537624436147633",
+      "url": "https://www.douyin.com/video/7612537624436147633",
+      "title": "零基础免费吉他教程它来了！赶快拿起你的吉他跟着贝老师学起来吧！#吉他入门  #零基础学吉他 #吉他弹唱 #贝老师吉他课 ",
+      "author": "贝应铭（开课中）",
+      "likes": 12468,
+      "cover": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/815c02fe5888e9226546479c22c4061d~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&card_type=153&column_n=0&from=327834062&l=2026051712185413FC8C35C982ACD4B34E&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=cover&se=false&x-expires=2094350400&x-signature=mXfvkeE2Ox82yX31GhPErBxYFfs%3D",
+      "publish_time": "2026-03-02T06:13:56+00:00"
+    }
+  }
 }

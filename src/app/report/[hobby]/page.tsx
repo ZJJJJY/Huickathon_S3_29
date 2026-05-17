@@ -177,6 +177,7 @@ function ReportView({ report }: { report: Report }) {
               key={section.id}
               section={section}
               evidence={report.evidence}
+              videos={report.videos ?? {}}
               neonColor={report.neon_color}
               index={i}
             />

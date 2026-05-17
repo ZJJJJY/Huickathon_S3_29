@@ -106,6 +106,17 @@ export interface ReportSection {
   title: string;
   content: SectionContent;
   citations: string[]; // Post id 列表
+  video_refs: string[]; // VideoRef id 列表
+}
+
+export interface VideoRef {
+  id: string;
+  url: string;
+  title: string;
+  author: string;
+  likes: number;
+  cover: string | null;
+  publish_time: string | null;
 }
 
 export interface Report {
@@ -115,6 +126,7 @@ export interface Report {
   neon_color: string;
   sections: ReportSection[];
   evidence: Record<string, Evidence>;
+  videos: Record<string, VideoRef>;
 }
 
 // ---------- profile ----------

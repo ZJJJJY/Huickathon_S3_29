@@ -79,8 +79,10 @@ class DouyinCrawler(BaseCrawler):
                 return
             try:
                 data = await resp.json()
-            except Exception:
+            except Exception as e:
+                print(f"[douyin probe] json parse error: {e}")
                 return
+            print(f"[douyin probe] status_code={data.get('status_code')} data_len={len(data.get('data') or [])}")
             if data.get("data"):
                 ok_seen.set()
 
@@ -91,7 +93,8 @@ class DouyinCrawler(BaseCrawler):
                     "https://www.douyin.com/search/test?type=general",
                     wait_until="domcontentloaded",
                 )
-            except Exception:
+            except Exception as e:
+                print(f"[douyin probe] goto error: {e}")
                 return False
             elapsed = 0.0
             while elapsed < timeout_s:
@@ -99,6 +102,7 @@ class DouyinCrawler(BaseCrawler):
                     return True
                 await asyncio.sleep(0.5)
                 elapsed += 0.5
+            print("[douyin probe] timeout, search API never fired with data")
             return False
         finally:
             page.remove_listener("response", on_response)

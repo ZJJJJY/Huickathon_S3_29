@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import type { Evidence, ReportSection } from "@/lib/types";
+import type { Evidence, ReportSection, VideoRef } from "@/lib/types";
 import MarkdownBlock from "./MarkdownBlock";
 import BudgetTiers from "./BudgetTiers";
 import Timeline from "./Timeline";
@@ -9,10 +9,12 @@ import Checklist from "./Checklist";
 import Cards from "./Cards";
 import QA from "./QA";
 import Citations from "./Citations";
+import VideoRefCard from "./VideoRefCard";
 
 interface Props {
   section: ReportSection;
   evidence: Record<string, Evidence>;
+  videos: Record<string, VideoRef>;
   neonColor: string;
   index: number;
 }
@@ -20,6 +22,7 @@ interface Props {
 export default function SectionRenderer({
   section,
   evidence,
+  videos,
   neonColor,
   index,
 }: Props) {
@@ -58,6 +61,12 @@ export default function SectionRenderer({
         evidence={evidence}
         neonColor={neonColor}
       />
+
+      {section.video_refs?.map((vid) =>
+        videos[vid] ? (
+          <VideoRefCard key={vid} video={videos[vid]} sectionTitle={section.title} neonColor={neonColor} />
+        ) : null
+      )}
     </motion.section>
   );
 }
