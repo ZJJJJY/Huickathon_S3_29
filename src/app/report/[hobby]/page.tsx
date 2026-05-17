@@ -7,6 +7,7 @@ import { motion } from "framer-motion";
 import { ArrowLeft, Dices, Loader2 } from "lucide-react";
 import type { Report } from "@/lib/types";
 import { categoryLabels } from "@/lib/theme";
+import SectionRenderer from "@/components/report/SectionRenderer";
 
 type FetchState =
   | { status: "loading" }
@@ -157,26 +158,31 @@ function ReportView({ report }: { report: Report }) {
         <h1 className="text-3xl font-bold">{report.hobby_name}</h1>
       </motion.div>
 
-      {/* Content: opaque JSON until T7 defines ReportContent */}
-      <motion.section
-        initial={{ opacity: 0, y: 12 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.1, duration: 0.4 }}
-        className="rounded-2xl bg-bgCard border border-textMuted/15 p-4"
-      >
-        <h2 className="text-sm font-semibold text-textMuted mb-3 uppercase tracking-widest">
-          report payload
-        </h2>
-        {report.content === null || report.content === undefined ? (
-          <p className="text-textMuted text-sm">
-            报告占位内容为空。T7 阶段会注入结构化字段，届时此区域替换为正式卡片。
-          </p>
+      {/* Sections */}
+      <div>
+        {report.sections.length === 0 ? (
+          <motion.section
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.1, duration: 0.4 }}
+            className="rounded-2xl bg-bgCard border border-textMuted/15 p-4"
+          >
+            <p className="text-textMuted text-sm">
+              报告还没有 sections，可能离线脚本尚未跑完。
+            </p>
+          </motion.section>
         ) : (
-          <pre className="text-xs text-text/90 overflow-x-auto whitespace-pre-wrap break-words">
-            {JSON.stringify(report.content, null, 2)}
-          </pre>
+          report.sections.map((section, i) => (
+            <SectionRenderer
+              key={section.id}
+              section={section}
+              evidence={report.evidence}
+              neonColor={report.neon_color}
+              index={i}
+            />
+          ))
         )}
-      </motion.section>
+      </div>
     </div>
   );
 }

@@ -129,14 +129,14 @@ def build_report(
 
     # 第一次尝试
     payload = call_json(prompt, system=REPORT_SYSTEM)
-    sections, vr = validate_report_payload(payload, template)
+    sections, vr, _ = validate_report_payload(payload, template)
 
     if not vr.ok:
         # retry 一次,prompt 里附上具体错误
         print(f"  ⚠ 校验失败: missing={vr.missing_ids}, wrong_type={vr.wrong_content_type}")
         retry_prompt = prompt + "\n\n" + retry_prompt_suffix(vr)
         payload = call_json(retry_prompt, system=REPORT_SYSTEM)
-        sections, vr = validate_report_payload(payload, template)
+        sections, vr, _ = validate_report_payload(payload, template)
 
     if not vr.ok:
         raise RuntimeError(

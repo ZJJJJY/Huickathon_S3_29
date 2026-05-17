@@ -141,16 +141,26 @@ def _short(d: dict, n: int = 80) -> str:
 
 
 # 单次同步调用（用于第二阶段「基于素材生成结构化 JSON」），不需要 tool。
-def call_json(prompt: str, system: str | None = None, model: str = DEFAULT_MODEL) -> dict:
+def call_json(
+    prompt: str,
+    system: str | None = None,
+    model: str = DEFAULT_MODEL,
+    max_tokens: int = 16384,
+) -> dict:
     client = Anthropic()
     kwargs: dict[str, Any] = dict(
         model=model,
-        max_tokens=8192,
+        max_tokens=max_tokens,
         messages=[{"role": "user", "content": prompt}],
     )
     if system:
         kwargs["system"] = system
     resp = client.messages.create(**kwargs)
+    if resp.stop_reason == "max_tokens":
+        # 输出被截断,JSON 必然不完整,提前抛错好过乱 parse
+        raise RuntimeError(
+            f"LLM 输出被 max_tokens={max_tokens} 截断,需要更大的 token 上限"
+        )
     text = _extract_text(resp)
     # 模型可能用 ```json ... ``` 包裹
     text = _strip_code_fence(text)

@@ -129,6 +129,19 @@ class ReportSection(BaseModel):
     title: str
     content: SectionContent
     citations: list[str] = Field(default_factory=list)  # Post.id 列表
+    video_refs: list[str] = Field(default_factory=list)  # VideoRef.id 列表
+
+
+class VideoRef(BaseModel):
+    """抖音视频引用,给 ReportSection.video_refs 解析用。"""
+
+    id: str  # "douyin_<aweme_id>"
+    url: str
+    title: str
+    author: str
+    likes: int
+    cover: str | None = None
+    publish_time: str | None = None
 
 
 class Report(BaseModel):
@@ -138,3 +151,4 @@ class Report(BaseModel):
     neon_color: str
     sections: list[ReportSection]
     evidence: dict[str, Evidence]
+    videos: dict[str, VideoRef] = Field(default_factory=dict)

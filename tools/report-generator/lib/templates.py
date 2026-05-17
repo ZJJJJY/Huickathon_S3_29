@@ -127,8 +127,14 @@ def build_report_prompt(
 
 2. 每个 section 的 content 必须严格匹配对应 content_type 的 JSON 结构(见上方示例)。
 3. 每个 section 的 citations 必须列出至少 2 条素材 id(从素材池里挑),最多 5 条。
-4. 内容**必须**基于素材池,不得编造。如某段内容没有素材支持,宁可写得简短一些。
-5. 直接输出 JSON,不要任何 markdown 包裹和解释。
+4. 内容**必须**基于素材池,不得编造。
+   如某段内容没有素材支持,宁可写得简短一些。
+5. 每个 section 加一个 `video_query` 字段,值是字符串或 null:
+   - 想给这个 section 配抖音视频参考时,填一个适合搜索抖音的中文短关键词
+     (2-6 字,通常包含 hobby 名,例如 "吉他 入门"、"陶艺 教程"、"露营 装备")
+   - 不需要视频参考的 section(纯文字介绍 / Q&A 等)填 null
+   - 总数无强制上限,但建议挑最该配视频的几个 section,空 query 直接 null
+6. 直接输出 JSON,不要任何 markdown 包裹和解释。
 
 # 输出 schema
 {{
@@ -137,7 +143,8 @@ def build_report_prompt(
       "id": "<section id>",
       "title": "<section title>",
       "content": {{ "type": "<content_type>", ... }},
-      "citations": ["<post_id>", ...]
+      "citations": ["<post_id>", ...],
+      "video_query": "<keyword>" | null
     }}
   ]
 }}
@@ -161,17 +168,21 @@ class ValidationReport(BaseModel):
 
 def validate_report_payload(
     payload: dict[str, Any], template: CategoryTemplate
-) -> tuple[list[ReportSection], ValidationReport]:
+) -> tuple[list[ReportSection], ValidationReport, dict[str, str | None]]:
     """把 LLM 输出的 dict 校验成 list[ReportSection]。
 
-    返回 (sections, report)。report.ok 为 False 时不要采用 sections。
+    返回 (sections, report, video_queries)。
+    - sections: list[ReportSection]
+    - report.ok 为 False 时不要采用 sections
+    - video_queries: section_id -> 该 section 的 video_query (LLM 提的抖音关键词,
+      stage 3 用完就丢,不在 ReportSection 字段里)
     """
     report = ValidationReport(ok=True)
     raw_sections = payload.get("sections", [])
     if not isinstance(raw_sections, list):
         report.ok = False
         report.pydantic_errors.append("sections 不是数组")
-        return [], report
+        return [], report, {}
 
     got_ids = [s.get("id", "") for s in raw_sections]
     required = template.required_section_ids
@@ -196,16 +207,28 @@ def validate_report_payload(
             report.wrong_content_type.append((sid, spec.content_type, got_type or "<missing>"))
             report.ok = False
 
+    # 抽出 video_query 并从 raw 里移除(ReportSection 不认这个字段)
+    video_queries: dict[str, str | None] = {}
+    cleaned: list[dict] = []
+    for raw in raw_sections:
+        sid = raw.get("id", "")
+        vq = raw.get("video_query")
+        if isinstance(vq, str) and vq.strip():
+            video_queries[sid] = vq.strip()
+        else:
+            video_queries[sid] = None
+        cleaned.append({k: v for k, v in raw.items() if k != "video_query"})
+
     # Pydantic 校验
     sections: list[ReportSection] = []
-    for raw in raw_sections:
+    for raw in cleaned:
         try:
             sections.append(ReportSection.model_validate(raw))
         except ValidationError as e:
             report.pydantic_errors.append(f"section {raw.get('id', '?')}: {e}")
             report.ok = False
 
-    return sections, report
+    return sections, report, video_queries
 
 
 def retry_prompt_suffix(v: ValidationReport) -> str:
