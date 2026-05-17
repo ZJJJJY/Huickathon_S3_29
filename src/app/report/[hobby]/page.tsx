@@ -60,8 +60,24 @@ export default function ReportPage() {
     }
   }
 
+  const bgSrc = `/bg/${hobbyId}.jpg`;
+
   return (
-    <div className="min-h-screen px-5 pt-6 pb-32">
+    <div className="min-h-screen px-5 pt-6 pb-32 relative">
+      {/* Fixed background image */}
+      <div
+        aria-hidden
+        className="fixed inset-0 -z-10 pointer-events-none"
+        style={{ transform: "scale(1.05)" }}
+      >
+        <img
+          src={bgSrc}
+          alt=""
+          className="w-full h-full object-cover"
+          style={{ opacity: 0.15, filter: "blur(8px)" }}
+        />
+      </div>
+
       <div className="flex items-center justify-between mb-4">
         <Link
           href="/pick"
