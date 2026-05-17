@@ -64,17 +64,24 @@ export default function ReportPage() {
 
   return (
     <div className="min-h-screen px-5 pt-6 pb-32 relative">
-      {/* Fixed background image */}
+      {/* Fixed background: blurred cover fill + contained full image on top */}
       <div
         aria-hidden
-        className="fixed inset-0 -z-10 pointer-events-none"
-        style={{ transform: "scale(1.05)" }}
+        className="fixed inset-0 -z-10 pointer-events-none overflow-hidden"
       >
         <img
           src={bgSrc}
           alt=""
-          className="w-full h-full object-cover"
-          style={{ opacity: 0.3, filter: "blur(6px)" }}
+          aria-hidden
+          className="absolute inset-0 w-full h-full object-cover scale-110"
+          style={{ opacity: 0.35, filter: "blur(24px)" }}
+        />
+        <img
+          src={bgSrc}
+          alt=""
+          aria-hidden
+          className="absolute inset-0 w-full h-full object-contain"
+          style={{ opacity: 0.35, filter: "blur(4px)" }}
         />
       </div>
 
