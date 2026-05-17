@@ -1,0 +1,333 @@
+{
+  "hobby_id": "figure",
+  "hobby_name": "手办",
+  "category": "collecting",
+  "neon_color": "#A855F7",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 手办：不只是「买玩具」\n\n手办（Figure）是以动漫、游戏、影视等二次元 IP 为原型制作的精细立体造型艺术品，涵盖从 **普通动漫手办、潮玩盲盒** 到高度定制化的 **BJD（球形关节人偶）** 等多种类型。\n\n### 文化背景\n手办文化发源于日本，随二次元浪潮席卷全球。国内潮玩行业已形成以泡泡玛特为代表的多家龙头企业，品牌生态日趋丰富，从顶级雕塑感的 **限定款** 到亲民的 **9.8 元扭蛋小手办**，覆盖了极宽的受众层次。\n\n### 收藏的乐趣点\n- **情感链接**：每一件手办背后都有让你共鸣的角色故事，摆在桌上就像把「本命」带在身边。\n- **收藏增值**：部分限定款或断货款价格随时间水涨船高，兼具玩赏与投资属性。\n- **审美体验**：从开箱、拍照到展示陈列，整个过程都是视觉与仪式感的满足。\n- **社群认同**：手办圈拥有活跃的交流社区，晒图、比较、讨论成为玩家日常乐趣。\n\n### 和「单纯买东西」的区别\n手办玩家追求的是 **对 IP 的深度认同** 与 **审美品味的表达**，而不是单纯的功能消费。当一件手办被精心陈列在展示柜里、配上合适的灯光，它就成了你生活空间里的「微型美术馆」。"
+      },
+      "citations": [
+        "xhs_666027f80000000015012e57",
+        "xhs_684edc09000000000c0391f9",
+        "xhs_69290fd70000000019027f81"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门（浅尝）",
+            "price_range": "¥10-200",
+            "items": [
+              "扭蛋 / 盲盒小手办（约 9.8-69 元）",
+              "国产普通动漫小摆件",
+              "泡泡玛特基础款盲盒"
+            ],
+            "note": "低风险试水，感受开箱乐趣，不需要大量预算即可入圈，适合不确定自己会不会持续玩的新手。"
+          },
+          {
+            "name": "进阶（认真玩）",
+            "price_range": "¥200-1500",
+            "items": [
+              "日系正版授权手办（GSC / ALTER 等品牌 1/8 比例）",
+              "国内二次元品牌中端款",
+              "潮玩限定系列"
+            ],
+            "note": "开始追求做工与版权品质，涉及预售等待（可能长达半年以上），需要有计划地管理消费节奏。"
+          },
+          {
+            "name": "顶配（玩家级）",
+            "price_range": "¥1500 以上",
+            "items": [
+              "BJD 球形关节人偶（含换装、配件）",
+              "限定版 / 展会独占手办",
+              "二手市场稀有断货款"
+            ],
+            "note": "BJD 仅本体入门即需数百至数千元，加上假发、眼珠、服装等配件费用可观；限定款二手溢价明显，需理性评估。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6856871a000000001703440d",
+        "xhs_69290fd70000000019027f81",
+        "xhs_695c9c8b0000000022033fc4",
+        "xhs_695266c2000000001d038787"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where_to_buy",
+      "title": "去哪买",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "官方正版授权电商（天猫 / 京东官方旗舰店）",
+            "description": "各大手办品牌官方旗舰店，正品有保障，支持预售订购，是购买日系手办和国内潮玩的主要渠道。",
+            "meta": "适合预算 ¥200 以上 · 正版首选 · 需注意预售周期较长",
+            "url": null
+          },
+          {
+            "title": "潮玩龙头品牌线下门店（泡泡玛特等）",
+            "description": "国内潮玩八大龙头企业均设有线下门店，可现场体验盲盒抽取乐趣，部分门店有独家限定款。",
+            "meta": "适合预算 ¥69-500 · 现场体验感强 · 留意门店独家款",
+            "url": null
+          },
+          {
+            "title": "二手交易平台（闲鱼 / 转转）",
+            "description": "可以用低于原价的价格淘到九成新手办，也是寻找断货款的好去处；同时也能在此出手自己不喜欢的藏品。",
+            "meta": "适合所有预算 · 价格灵活 · 需仔细验货防山寨",
+            "url": null
+          },
+          {
+            "title": "日系代购 / 海淘（代购渠道、万代官网）",
+            "description": "针对日本限定款、展会独占款，通过代购或转运购入，价格含代购费和运费，适合追求原版正品的进阶玩家。",
+            "meta": "适合预算 ¥500 以上 · 品种最全 · 注意时间成本与税费",
+            "url": null
+          },
+          {
+            "title": "某宝第三方店铺",
+            "description": "价格区间极宽，正版与山寨混杂，需要具备一定辨别能力。适合购买低单价扭蛋或小摆件，高价手办建议谨慎。",
+            "meta": "适合预算 ¥10-300 · 选择多 · 山寨风险高，务必看清授权",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_684edc09000000000c0391f9",
+        "xhs_68494e3a0000000023015b07",
+        "xhs_68bfd73f000000001d02ca80"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "anti_fake",
+      "title": "辨真假 / 防坑",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "看包装上的官方授权标识",
+            "detail": "正版手办包装盒上必须印有原版权方（如万代、GSC 等）的授权 Logo 及条形码，山寨品通常字体模糊、色差明显或授权标识缺失。"
+          },
+          {
+            "title": "对比官方售价，警惕「超低价」",
+            "detail": "正版日系手办一般不会以官方售价三折以下出售，某宝若出现明显低价应第一时间怀疑是否为山寨仿品。"
+          },
+          {
+            "title": "购买前搜索「正版 vs 山寨」对比帖",
+            "detail": "小红书、微博等平台有大量玩家发布的真假对比图，重点看脸部涂装细腻度、关节处理和底座印字清晰度，购买前务必比对。"
+          },
+          {
+            "title": "二手购买务必要求卖家提供多角度实物照",
+            "detail": "要求卖家拍摄包含底座品牌字样、关节细节、脸部特写的实物照，而非只提供官图或网图，防止以图代物。"
+          },
+          {
+            "title": "BJD 购买认准官方授权店或官网",
+            "detail": "BJD 价格高，山寨问题尤为严重。应优先在品牌官网或官方授权经销商处购买，并核对官方在售型号列表。"
+          },
+          {
+            "title": "盲盒 / 扭蛋避免购买「保底指定款」的非官方服务",
+            "detail": "部分商家声称可「指定隐藏款」，此类服务多为欺骗，正版盲盒无法内定款式，遇到此类宣传应直接绕开。"
+          },
+          {
+            "title": "收到货后立即开箱拍摄视频，留存维权证据",
+            "detail": "尤其是预售款或二手购买，收货后全程录像开箱，如遇问题（如断头、配件缺损等）可作为售后凭证，避免扯皮。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_695c9c8b0000000022033fc4",
+        "xhs_69bfd2f700000000230161b5",
+        "xhs_68bfd73f000000001d02ca80",
+        "xhs_6841b538000000002300f5a3"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "care",
+      "title": "保养 / 收纳",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "避免阳光直射，防止褪色与材质老化",
+            "detail": "长期紫外线照射会导致手办 PVC 材质发黄、涂装褪色，展示位置应避开窗边直射光，或加装防 UV 隔离板。"
+          },
+          {
+            "title": "控制展示环境湿度，防止发霉与腐蚀",
+            "detail": "潮湿环境会导致手办接缝处发霉、金属配件氧化。展示柜内可放置干燥剂，保持相对湿度在 40%-60% 为宜。"
+          },
+          {
+            "title": "定期用软毛刷或气吹除尘",
+            "detail": "避免用湿布直接擦拭涂装面，推荐使用摄影用气吹或干净软毛刷轻扫缝隙灰尘，防止细小颗粒划伤表面。"
+          },
+          {
+            "title": "BJD 定期检查松紧度并进行「上松紧」维护",
+            "detail": "BJD 的橡皮筋长期使用后会松弛，导致关节无力。建议每隔一段时间检查并由专业人士或参考教程更换弹力绳。"
+          },
+          {
+            "title": "长期不展示时原盒收纳，避免挤压变形",
+            "detail": "放回原厂包装盒是最安全的存放方式，注意原盒中的泡沫固定件不要丢弃，防止配件和脆弱部位（如细长附件）在移动中受压折断。"
+          },
+          {
+            "title": "注意防猫防儿童，物理隔离是根本",
+            "detail": "带有细小零件或高重心的手办极易被碰倒摔碎，建议使用带门展示柜，避免因外力导致断裂损坏。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_695c9c8b0000000022033fc4",
+        "xhs_69290fd70000000019027f81",
+        "xhs_695266c2000000001d038787"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "手办会升值吗？值得买来当投资吗？",
+            "a": "部分限定款、断货款确实存在二手溢价，但绝大多数普通款会随时间贬值或与发售价持平。不建议以投资为主要目的入坑，以喜爱为出发点才不容易踩坑。"
+          },
+          {
+            "q": "完全不懂二次元，可以买手办吗？",
+            "a": "完全可以。潮玩（盲盒、扭蛋）不依赖 IP 认知，纯粹以造型和审美吸引人；对 IP 有感情的玩家则更适合从自己喜欢的角色入手，两种方式都有大量受众。"
+          },
+          {
+            "q": "预售要等多久？等待过程中会有什么风险？",
+            "a": "日系手办预售周期通常在 3-6 个月，甚至更长。期间存在厂家延期、品控问题（如断头、配件缺损）等风险，建议选择口碑好的品牌并保留购买凭证。"
+          },
+          {
+            "q": "某宝上便宜的手办能买吗？",
+            "a": "价格明显低于市价的手办大概率是山寨仿品。如需在某宝购买，建议选择官方旗舰店或有授权资质的店铺，并提前搜索该商品的真假对比评测。"
+          },
+          {
+            "q": "BJD 和普通手办有什么区别，适合新手吗？",
+            "a": "BJD（球形关节人偶）可高度定制，包括妆面、发型、服装、眼珠等，可玩性极高，但入门门槛和费用都明显更高。建议先玩普通手办再考虑入坑 BJD。"
+          },
+          {
+            "q": "手办摆多了放不下怎么办？",
+            "a": "可以通过以下方式解决：①购置带门展示柜分层摆放；②定期筛选，将不再喜欢的通过闲鱼出手；③以「只买本命」原则控制数量，避免冲动消费。"
+          },
+          {
+            "q": "家长 / 室友不理解怎么沟通？",
+            "a": "可以从「这是艺术品 / 收藏品」的角度解释，强调其审美价值与文化背景；同时设定合理的月度预算，以实际行动证明自己在理性消费而非无节制购买。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68bfd73f000000001d02ca80",
+        "xhs_69290fd70000000019027f81",
+        "xhs_695c9c8b0000000022033fc4",
+        "xhs_69bfd2f700000000230161b5"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_695c9c8b0000000022033fc4": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/695c9c8b0000000022033fc4?xsec_token=ABxLQX7VYn3SjyGzyc8_Kz6V4C-0_v3Cy04F2vGdpFHrI=&xsec_source=pc_search",
+      "title": "等了半年的断头手办",
+      "author": "香菜天天打瞌睡ovo",
+      "likes": 13510,
+      "snippet": "等了半年的断头手办",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170653/a669a9f86eeb29edc20337b5cbec6763/note_pre_post_uhdr/1040g3r031r049tinga0g5pjffs21ohorbq0lgf0!nc_n_webp_mw_1"
+    },
+    "xhs_69bfd2f700000000230161b5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69bfd2f700000000230161b5?xsec_token=ABDAFQrhh6EMA4yMxn-g1x_zgGeIuLA9QWfMcSZWeX7GM=&xsec_source=pc_search",
+      "title": "天天上一当 当当不一样 还我血汗钱！！",
+      "author": "核桃爱吃谷",
+      "likes": 13071,
+      "snippet": "天天上一当 当当不一样 还我血汗钱！！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170653/966171844a3c003858d65394a57c9b04/1040g2sg31u10kmvin2dg5pqs8e0m2ljuad7gogo!nc_n_webp_mw_1"
+    },
+    "xhs_6856871a000000001703440d": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6856871a000000001703440d?xsec_token=ABiyR2LVuuqVCqMdd8mkeHbaLkUGJzVmJZaEKE-fgqArc=&xsec_source=pc_search",
+      "title": "斥巨资9.8💰买了个小孤独",
+      "author": "卡酷桑",
+      "likes": 5729,
+      "snippet": "斥巨资9.8💰买了个小孤独",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170649/a2ead8fa4f2667b6e916945d7e45f626/notes_pre_post/1040g3k831j050ol11g105nupfrbg8q3hrm8bt18!nc_n_webp_mw_1"
+    },
+    "xhs_684edc09000000000c0391f9": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/684edc09000000000c0391f9?xsec_token=ABQXk9egF87FK070pAESzPYEegAybXjFvDyQe02MZi4co=&xsec_source=pc_search",
+      "title": "一篇吃透风口行业：潮玩谷子八大龙头公司",
+      "author": "行业科普（商业科技）",
+      "likes": 4521,
+      "snippet": "一篇吃透风口行业：潮玩谷子八大龙头公司",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170651/709f9ca933d4503091e54867bd1328df/1040g00831ip8jghg146g5naqahog94c3a1ut8to!nc_n_webp_mw_1"
+    },
+    "xhs_68bfd73f000000001d02ca80": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68bfd73f000000001d02ca80?xsec_token=ABEtR1aBjgqpnwpN93y0lR_zrYbewtSQ84xDMQnAp14Sk=&xsec_source=pc_search",
+      "title": "儿子某宝买手办，过于暴露，我要咋办",
+      "author": "汪导有空了",
+      "likes": 3807,
+      "snippet": "儿子某宝买手办，过于暴露，我要咋办",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170651/453922f6955285163a18257aadb339f1/1040g00831m718kji68005oautjh0kbat9r2dgb8!nc_n_webp_mw_1"
+    },
+    "xhs_695266c2000000001d038787": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/695266c2000000001d038787?xsec_token=ABwYY8oqatn3BHB-ZY1AyKZvzt3CGwxvJ49cjNeu8G1p8=&xsec_source=pc_search",
+      "title": "散姐的钱就那么好赚",
+      "author": "社交重度恐惧",
+      "likes": 1894,
+      "snippet": "散姐的钱就那么好赚",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170653/733561790b7fd0b5faaff31d5e27e455/notes_pre_post/1040g3k031qm593segm0g5nmabucg8srvel9nuug!nc_n_webp_mw_1"
+    },
+    "xhs_69290fd70000000019027f81": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69290fd70000000019027f81?xsec_token=ABcKa-T-PkfkOTsmNMU2NKSQMDGcbz6bzwo-7Wf8HsvIw=&xsec_source=pc_search",
+      "title": "BJD入门教程丨组成和尺寸的选择‼️",
+      "author": "每天都困",
+      "likes": 1099,
+      "snippet": "BJD入门教程丨组成和尺寸的选择‼️",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170648/42f24503305df3037eb593f4098e963f/notes_pre_post/1040g3k831pcr32l72o9g5q52to16cdemmnq7hs0!nc_n_webp_mw_1"
+    },
+    "xhs_6841b538000000002300f5a3": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6841b538000000002300f5a3?xsec_token=ABW-ZyGjSlhKtfS9B4HyM3lzZu9p-nV-I1BkXo9SWtrts=&xsec_source=pc_search",
+      "title": "一个对比的帖子",
+      "author": "阿盟也要吸猫",
+      "likes": 1077,
+      "snippet": "一个对比的帖子",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170649/e4a865f1b761e9da31f2dc6b1541ba2e/1040g00831ibm9mkrni005n2rheknatl4ods5m3o!nc_n_webp_mw_1"
+    },
+    "xhs_68494e3a0000000023015b07": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68494e3a0000000023015b07?xsec_token=ABKe9LXS7M3J5C09YC1qdzdmJZ6ozr95jMKPJVaB9WE3E=&xsec_source=pc_search",
+      "title": "💥二次元品牌金字塔 | 谁是你的本命？",
+      "author": "大厂冲浪boy",
+      "likes": 1012,
+      "snippet": "💥二次元品牌金字塔 | 谁是你的本命？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170651/de12e0ba06354505537b8fd454fc0234/spectrum/1040g34o31ij904o6ni105p747cqgac0gda0dmn8!nc_n_webp_mw_1"
+    },
+    "xhs_666027f80000000015012e57": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/666027f80000000015012e57?xsec_token=AB6nOwYrO8QN-mRMO9h-mnxH-9DArtNj-gDVoYisb9CE8=&xsec_source=pc_search",
+      "title": "🇲🇾 原来手办还分这么多类型 😱",
+      "author": "AnimeHub",
+      "likes": 906,
+      "snippet": "🇲🇾 原来手办还分这么多类型 😱",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170648/54b695410ccb92110142fe8990d91cee/1040g008313lj3t1m1m6g5pelku6heb97lmham30!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

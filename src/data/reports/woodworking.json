@@ -1,0 +1,317 @@
+{
+  "hobby_id": "woodworking",
+  "hobby_name": "木工",
+  "category": "crafting",
+  "neon_color": "#FFD23F",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 木工：用双手创造真实物件的手艺\n\n木工是一门以木材为主要材料，通过锯、刨、凿、雕等工艺将原木或板材变成实用器物或艺术品的传统手艺。从一把小凳子、一个书架，到精美的榫卯结构家具、木雕摆件，木工玩家能亲手做出真实存在、可以触摸使用的作品，这种满足感是数字娱乐无法替代的。\n\n木工的细分方向相当丰富：**家具木工**（桌椅、收纳架）、**木雕**（人物、动物、花卉浮雕）、**榫卯结构**（传统无钉连接）、**自然手工**（用树枝做秋千、水车等趣味小物）……无论是追求精密工艺还是享受随性创作，都能找到适合自己的切入点。\n\n近两年木工在年轻人中迅速走红，原因有几点：第一，\"离职 gap\" 文化兴起，越来越多人选择用学习手艺来充电和疗愈；第二，家居改造需求旺盛，能自己动手做家具或修缮让人很有成就感；第三，木工内容在小红书、B站大量涌现，自学门槛显著降低。一首歌的时间就能完成一次家居改造，这种即时反馈让新手也容易上瘾。"
+      },
+      "citations": [
+        "xhs_664446ff000000001e030a25",
+        "xhs_68551e0a0000000012032c50",
+        "xhs_67c9a6e3000000002901ecc2"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "一次体验",
+            "price_range": "¥200-500",
+            "items": [
+              "木工体验课（工作室提供工具和木料）",
+              "完成1件小作品（如小凳、托盘、木雕摆件）"
+            ],
+            "note": "无需准备任何工具，跟老师走完完整流程，适合判断自己是否真的喜欢"
+          },
+          {
+            "name": "进阶课程",
+            "price_range": "¥1500-5000",
+            "items": [
+              "系统木工课（数天至数周）",
+              "榫卯结构专项课",
+              "木雕技法课"
+            ],
+            "note": "能系统学习刀法、连接技巧、木板修复等核心技能，结业后可独立完成中等难度作品"
+          },
+          {
+            "name": "长期投入（自购工具）",
+            "price_range": "¥3000-20000+",
+            "items": [
+              "基础手工具套装（锯、凿、刨、木槌）",
+              "电动工具（电钻、曲线锯、砂光机）",
+              "工作台",
+              "木料耗材"
+            ],
+            "note": "在家或租用工位长期创作，能制作家具、木雕等复杂作品；工具一次性投入，后续主要是木料成本"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_664446ff000000001e030a25",
+        "xhs_69e20ac8000000001b000a3a",
+        "xhs_68dd03510000000005003e05"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "在哪做",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "线下木工体验工作室",
+            "description": "全国各大城市均有木工体验店，提供工具、木料和老师指导，适合零基础新手第一次上手，当天即可带走作品",
+            "meta": "全国各城市 · 随时可约 · ¥200-500/次",
+            "url": null
+          },
+          {
+            "title": "系统木工课（离职/gap 模式）",
+            "description": "以数天到数周为单位的沉浸式学习，适合有大段空闲时间、想系统掌握技能的人，如帖子中提到的「离职 gap 去学了木工」",
+            "meta": "线下工坊 · 数天至数周 · ¥1500-5000",
+            "url": "https://www.xiaohongshu.com/explore/664446ff000000001e030a25?xsec_token=ABpLMUEICddYQVXRIivFRku0T36dTxSGT25qPpx1xHbA4=&xsec_source=pc_search"
+          },
+          {
+            "title": "B站自学 + 在家实践",
+            "description": "参考小红书推荐的B站高质量木工UP主，在家购置基础工具自学，适合动手能力强、喜欢自主节奏的人",
+            "meta": "线上学习 + 居家 · 随时 · 仅工具和材料成本",
+            "url": "https://www.xiaohongshu.com/explore/67c9a6e3000000002901ecc2?xsec_token=ABeSGxrFQ9YU5r8hla6sJ5g3_jO6j_xMVBcAV47XHSzBw=&xsec_source=pc_search"
+          },
+          {
+            "title": "共享工作台 / Makerspace",
+            "description": "租用共享木工工位，配备专业电动工具和工作台，无需自购大型设备，适合有一定基础但家中空间有限的玩家",
+            "meta": "城市创客空间 · 按次或按月 · ¥50-200/次",
+            "url": null
+          },
+          {
+            "title": "亲子自然手工（户外/家中）",
+            "description": "用树枝、一次性筷子等天然材料制作秋千、水车等趣味小物，几乎零成本，适合带孩子或初级尝试",
+            "meta": "户外/家中 · 随时 · ¥0-50",
+            "url": "https://www.xiaohongshu.com/explore/68255270000000002001c4ee?xsec_token=AB1_13Vh6TH8ID88gFaKou134UGUD94XyyPFC88XyUN6M=&xsec_source=pc_search"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_664446ff000000001e030a25",
+        "xhs_67c9a6e3000000002901ecc2",
+        "xhs_69e20ac8000000001b000a3a",
+        "xhs_68255270000000002001c4ee"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_session",
+      "title": "第一次体验流程",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "0-15 分钟",
+            "title": "进门 & 安全须知",
+            "detail": "到达工作室后，老师介绍基本工具（锯、凿、砂纸等）和安全规范，了解哪些操作需要防护眼镜和手套，切勿跳过这步。"
+          },
+          {
+            "label": "15-30 分钟",
+            "title": "选款式 & 认识木料",
+            "detail": "从工作室提供的样品中选择想做的作品类型（小凳、托盘、木雕摆件等），了解所用木材特性，软木易雕但易损，硬木耐用但费力。"
+          },
+          {
+            "label": "30-120 分钟",
+            "title": "动手制作",
+            "detail": "在老师指导下完成锯切、打孔、雕刻或榫卯组合等核心步骤。木工连接和木板修复有专门技巧，第一次跟着老师慢慢来，不要急于求成。"
+          },
+          {
+            "label": "最后 20-30 分钟",
+            "title": "打磨 & 上油/上漆",
+            "detail": "用不同目数砂纸由粗到细打磨表面，消除毛刺，再涂抹木蜡油或水性漆保护木材。这步决定作品最终手感和光泽，要耐心。"
+          },
+          {
+            "label": "结束",
+            "title": "晾干 & 带走",
+            "detail": "若涂了漆需等待晾干（通常30分钟到数小时），部分工作室可当场带走，复杂作品可能需要次日取件。带走后避免暴晒和长期泡水。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69f8aac1000000001f0032b0",
+        "xhs_68dd03510000000005003e05",
+        "xhs_664446ff000000001e030a25"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "progression",
+      "title": "进阶路径",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "第 1 次",
+            "title": "一次性体验",
+            "detail": "参加工作室体验课，完成1件小作品（木雕摆件、小托盘等），感受木工的基本流程和手感，判断是否值得继续投入。作品可直接带回家使用或摆放。"
+          },
+          {
+            "label": "1-3 个月",
+            "title": "周末爱好者",
+            "detail": "报名系统入门课或木雕专项课，学习基础刀法、榫卯结构（如燕尾榫、直榫等三种常见结构）、木板连接与修复技巧。每周末抽时间练习，可制作小型家居摆件或收纳小物。建议同步在B站跟高质量UP主学理论。装备：基础手工具套装即可。"
+          },
+          {
+            "label": "3-12 个月",
+            "title": "进阶玩家",
+            "detail": "开始挑战有一定复杂度的作品：工作台、小型家具、木雕系列（如木雕入坑后第11个作品级别）。需要添置电动工具，或租用共享工位使用大型设备。开始建立自己的素材库和工具收纳体系。"
+          },
+          {
+            "label": "1 年以上",
+            "title": "长期玩家 / 家居改造达人",
+            "detail": "能独立设计并制作家具、完成家居改造项目，甚至探索可持续木雕（利用废弃木料）等进阶方向。部分玩家会开始分享教程或接受定制订单。工具体系完善，在家拥有独立工作角落。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_66a1e05f0000000027010125",
+        "xhs_67bed7ad000000002903f0db",
+        "xhs_68551e0a0000000012032c50",
+        "xhs_67c9a6e3000000002901ecc2"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全没有动手基础，手很笨，能学木工吗？",
+            "a": "完全可以。木工体验课专门为零基础设计，老师会全程指导，工具也会提前调整好。很多人第一次体验就能完成一件像样的作品。手艺是练出来的，第一次慢一点没关系。"
+          },
+          {
+            "q": "家里没有工具和空间，怎么入坑？",
+            "a": "最低门槛方案：先去线下工作室参加一次体验课，工具、木料、场地全包，什么都不用准备。如果喜欢再考虑购置工具或租用共享工作台。也可以先从树枝、一次性筷子等天然材料做简单自然手工，几乎零成本。"
+          },
+          {
+            "q": "自学可以吗？有哪些好的学习资源？",
+            "a": "可以自学。小红书上有博主整理了B站高质量木工UP主推荐，涵盖工具使用、榫卯结构、木雕刀法等内容，适合系统自学。搭配购置基础手工具，在家就能练习。"
+          },
+          {
+            "q": "木工会不会很危险？",
+            "a": "有一定风险，但可控。锯、凿等工具操作时需戴手套和防护眼镜，第一次建议在老师指导下进行。掌握正确姿势和用力方式后，日常操作安全风险很低。工作室体验课通常会在开始前专门讲解安全须知。"
+          },
+          {
+            "q": "做出来的作品怎么保存和保养？",
+            "a": "木制品怕暴晒、怕长期潮湿。制作完成后涂抹木蜡油或水性漆可以有效保护木材，延长使用寿命。日常避免直接暴露在阳光下或放置在潮湿环境中，定期补涂木蜡油可保持光泽。"
+          },
+          {
+            "q": "木雕和木工家具哪个更适合新手？",
+            "a": "两者都适合新手入门，方向不同。木雕（如用刻刀雕出小摆件）工具简单、占用空间小，更适合在家练习；木工家具（如凳子、托盘）更有实用感，但需要更多工具和空间。建议先各体验一次，再决定主攻方向。"
+          },
+          {
+            "q": "学木工大概要多久才能做出像样的东西？",
+            "a": "第一次体验课（2-3小时）就能带走一件完整小作品。坚持练习1-3个月后，可以独立完成有榫卯结构的中等难度作品。持续投入1年以上的玩家，已经可以做工作台、小家具等复杂项目，甚至能挑战木雕系列创作。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_664446ff000000001e030a25",
+        "xhs_67c9a6e3000000002901ecc2",
+        "xhs_68255270000000002001c4ee",
+        "xhs_68dd03510000000005003e05"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_68551e0a0000000012032c50": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68551e0a0000000012032c50?xsec_token=AB1iRcWIEJ39D5-WHpYxEThRUW_kH-zrYb91gtr2NKGKk=&xsec_source=pc_search",
+      "title": "一首歌时间，逼自己学会家居改造，爽翻了✅",
+      "author": "汤汤是小生活家",
+      "likes": 21463,
+      "snippet": "一首歌时间，逼自己学会家居改造，爽翻了✅",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170625/358b85e24a1c320309fa2357a3e44611/spectrum/1040g0k031uqrg6fujm0g46077ldkrplb2f6cbeg!nc_n_webp_mw_1"
+    },
+    "xhs_66a1e05f0000000027010125": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66a1e05f0000000027010125?xsec_token=ABZES43NRiLbcPV7Osom53tSUlxIvN25iZjIQd7UEo4e4=&xsec_source=pc_search",
+      "title": "入坑木雕第十一个作品",
+      "author": "亮亮",
+      "likes": 6099,
+      "snippet": "入坑木雕第十一个作品",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170625/118d08d7ed2ea74e116936daa601832b/1040g008315los18fgo6g5nq54qi09e5nvi99pco!nc_n_webp_mw_1"
+    },
+    "xhs_664446ff000000001e030a25": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/664446ff000000001e030a25?xsec_token=ABpLMUEICddYQVXRIivFRku0T36dTxSGT25qPpx1xHbA4=&xsec_source=pc_search",
+      "title": "离职gap去学了木工",
+      "author": "河马呱呱",
+      "likes": 4197,
+      "snippet": "离职gap去学了木工",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170631/cab0a26f990a76c3a2841ae0114e98c9/1040g008312qbe7kuje1g5nf1tam08un9440rus0!nc_n_webp_mw_1"
+    },
+    "xhs_69f8aac1000000001f0032b0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69f8aac1000000001f0032b0?xsec_token=ABRcbB8mDcISOKQW8eHnxfyC7OqnT7mCc6CMxfiNH42xY=&xsec_source=pc_search",
+      "title": "木工连接技巧以及木板修复技巧！",
+      "author": "猪猪侠讲解",
+      "likes": 3857,
+      "snippet": "木工连接技巧以及木板修复技巧！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170629/df93d93491b7ec0ef11668a474812594/spectrum/1040g0k031voh2i3k3m005q31u2hn91umvhkhat8!nc_n_webp_mw_1"
+    },
+    "xhs_67c9a6e3000000002901ecc2": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67c9a6e3000000002901ecc2?xsec_token=ABeSGxrFQ9YU5r8hla6sJ5g3_jO6j_xMVBcAV47XHSzBw=&xsec_source=pc_search",
+      "title": "自学木工｜B站高质量UP主推荐",
+      "author": "不失木",
+      "likes": 2951,
+      "snippet": "自学木工｜B站高质量UP主推荐",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170625/b2aa1c0da12c4883552c56d3fef5aaa2/1040g00831emjrmqvku5g5o7mlck0br8aqormngg!nc_n_webp_mw_1"
+    },
+    "xhs_68255270000000002001c4ee": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68255270000000002001c4ee?xsec_token=AB1_13Vh6TH8ID88gFaKou134UGUD94XyyPFC88XyUN6M=&xsec_source=pc_search",
+      "title": "学会100个自然手工|树枝秋千(1/100)",
+      "author": "蚊子老师的野趣课堂",
+      "likes": 2109,
+      "snippet": "学会100个自然手工|树枝秋千(1/100)",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170631/e2e8df767d035fc9b052b50639f1467e/1040g2sg31hg4hgu7jse05pobfjt7e4o333l0kio!nc_n_webp_mw_1"
+    },
+    "xhs_68dd03510000000005003e05": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68dd03510000000005003e05?xsec_token=ABQvkEZNUv0DgKqrBdMpY6nKzsU7y_FT-OUhT_aP4q_uA=&xsec_source=pc_search",
+      "title": "木雕新手入门刀法（一） Ⅰ 可持续木雕3",
+      "author": "蓝野木作",
+      "likes": 1863,
+      "snippet": "木雕新手入门刀法（一） Ⅰ 可持续木雕3",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170625/10ab45b3cae7a791d243fae77e805051/1040g2sg31n3fg8ifmgi05n1sfgihi7sd1icakng!nc_n_webp_mw_1"
+    },
+    "xhs_69e20ac8000000001b000a3a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69e20ac8000000001b000a3a?xsec_token=ABi1la7sng_qb3T_YSiIp5AEoAM6VzQU7n7sp34uu_uBQ=&xsec_source=pc_search",
+      "title": "加入挑战，跟发一个工作台",
+      "author": "四眼仔的快乐屋",
+      "likes": 1556,
+      "snippet": "加入挑战，跟发一个工作台",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170627/4a29b9a577ba1aa3bf2717d180123554/notes_uhdr/1040g3qo31v2e1pje3m704a6c92ion125qh52gi0!nc_n_webp_mw_1"
+    },
+    "xhs_67bed7ad000000002903f0db": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67bed7ad000000002903f0db?xsec_token=ABWP5CL-RbQKj0PJ6kBKh2RQ_rcqyFVxvdthAZekySOb4=&xsec_source=pc_search",
+      "title": "木工技巧大揭秘｜三种常见榫卯结构详解",
+      "author": "不失木",
+      "likes": 1490,
+      "snippet": "木工技巧大揭秘｜三种常见榫卯结构详解",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170629/be2c18be0c12cbaecf43709e2317868c/1040g00831ec228vrh6605o7mlck0br8aedst7b8!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

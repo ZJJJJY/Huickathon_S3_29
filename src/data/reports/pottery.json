@@ -1,0 +1,343 @@
+{
+  "hobby_id": "pottery",
+  "hobby_name": "陶艺",
+  "category": "crafting",
+  "neon_color": "#FFD23F",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 陶艺：用双手捏出一件属于自己的作品\n\n陶艺是以黏土为材料，通过手捏、拉坯、雕刻等方式塑形，再经高温烧制定型的手工艺。它的魅力在于**整个创作过程完全由双手掌控**——从一团泥巴开始，到最终端上桌面的杯子、碗、花瓶，每一件都独一无二。\n\n### 能做出哪些作品？\n- **日用器皿**：马克杯、茶杯、碗、盘子（素材中有「手作自用杯」「月亮碗」等实例）\n- **装饰摆件**：花瓶、小动物（如手捏小猫、苹果造型）\n- **IP 联名风**：星之卡比杯、Jellycat 花瓶等二次元/潮玩风格陶瓷\n\n### 为什么年轻人爱上陶艺？\n1. **解压感极强**：揉泥的触感和专注状态类似冥想，能快速切断数字噪音\n2. **低门槛高成就感**：新手第一次体验就能带走自己的作品\n3. **社交属性**：适合和朋友、情侣一起去工作室打卡，小红书上随手一拍就是高质量内容\n4. **个性化定制**：可以做专属 IP 形象、定制礼物，满足年轻人「独一份」的心理需求\n\n近两年景德镇、上海、北京等城市的陶艺工作室密度迅速上升，越来越多新手以「一次体验」为起点，逐渐发展成每周固定去打卡的周末爱好。"
+      },
+      "citations": [
+        "xhs_67ece74d000000001c00bdaa",
+        "xhs_67b98f4d000000002602fba5",
+        "xhs_67b34d15000000001701f5e0",
+        "xhs_68eb8008000000000402149f",
+        "xhs_67ce6469000000001201f030"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "一次体验",
+            "price_range": "¥100-300",
+            "items": [
+              "工作室单次体验课（含泥料、工具、烧制费）",
+              "可带走 1 件成品作品",
+              "老师全程指导"
+            ],
+            "note": "适合第一次接触陶艺，感受手捏或拉坯乐趣，多数工作室无需预备任何知识直接上手"
+          },
+          {
+            "name": "进阶课程",
+            "price_range": "¥800-3000",
+            "items": [
+              "系统课程（6-12 节课）",
+              "涵盖手捏、拉坯、上釉等多种技法",
+              "每节课作品烧制费用（部分工作室含在内）",
+              "景德镇游学班（含食宿可达上限）"
+            ],
+            "note": "适合已体验过、想系统学习的玩家；景德镇有专门的新手通关游学路线，性价比较高"
+          },
+          {
+            "name": "长期投入（在家自玩）",
+            "price_range": "¥3000-15000+",
+            "items": [
+              "家用小型电窑（¥3000-8000）",
+              "拉坯机（¥2000-6000）",
+              "泥料、釉料耗材（每月约 ¥200-500）",
+              "工具套装（¥200-500）",
+              "通风改造或专用空间"
+            ],
+            "note": "适合已确认长期热爱、想在家建立个人工作室的玩家；前期设备投入较大，但长期单件成本大幅降低"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6972daa9000000001a01db14",
+        "xhs_68a202c8000000001d0153e1",
+        "xhs_68ae8cc6000000001c0065c7",
+        "xhs_67c6ce9f000000002503e027"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "在哪做",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "景德镇陶艺工作室",
+            "description": "中国陶瓷之都，工作室密度极高，有专门面向新手的「一命通关」游学路线，可体验从手捏、拉坯到烧制的完整流程，氛围浓厚，适合专程出行打卡。",
+            "meta": "江西景德镇 · 全年可去 · 单次体验 ¥100-300，游学班 ¥1500-3000",
+            "url": "https://www.xiaohongshu.com/explore/6972daa9000000001a01db14?xsec_token=ABJWqVEt6U1mYHWVW9bBRrpDYPkelA_f2Zvd0nE7TCeRk=&xsec_source=pc_search"
+          },
+          {
+            "title": "城市 DIY 陶艺工作室（朋友拼场）",
+            "description": "各一线及新一线城市均有大量陶艺体验工作室，适合约上好友或情侣一起去，边玩边拍，社交属性强，老师在场指导，新手友好。",
+            "meta": "全国主要城市 · 全年 · 单次 ¥100-250/人",
+            "url": "https://www.xiaohongshu.com/explore/68b904b4000000001d02cb83?xsec_token=ABvV60ym4ol7irmkcNXE_ynVzTcMyqHrb7hcK7Ath-GkQ=&xsec_source=pc_search"
+          },
+          {
+            "title": "IP / 主题陶艺体验店",
+            "description": "主打 IP 联名或潮玩风格（如 Jellycat 花瓶、星之卡比杯等），可按自己喜欢的形象定制，成品拍照出片率高，受二次元爱好者欢迎。",
+            "meta": "一线城市商圈 · 全年 · ¥150-350/次",
+            "url": "https://www.xiaohongshu.com/explore/68eb8008000000000402149f?xsec_token=ABTbiSOTWc-KvAf7_XZ-4_beYOAEkHSwsTon3RQZ-h-Ck=&xsec_source=pc_search"
+          },
+          {
+            "title": "系统课程工作室（周末班）",
+            "description": "提供多节系统课的工作室，适合想持续学习手捏、拉坯、上釉等技法的进阶玩家，通常有固定老师跟进，作品质量提升明显。",
+            "meta": "全国主要城市 · 周末班 · ¥800-3000/期",
+            "url": "https://www.xiaohongshu.com/explore/67c6ce9f000000002503e027?xsec_token=ABc4vXvvxV62zylmYu9r3GnyvJ_OMYc5v4oSeR1SZByKU=&xsec_source=pc_search"
+          },
+          {
+            "title": "在家自建小工作室",
+            "description": "购置家用小电窑和拉坯机，在家自由创作。适合已确认热爱、希望随时动手的长期玩家。需要解决通风、空间和设备维护问题。",
+            "meta": "居家 · 全年 · 设备启动费 ¥5000-15000+",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6972daa9000000001a01db14",
+        "xhs_68b904b4000000001d02cb83",
+        "xhs_68eb8008000000000402149f",
+        "xhs_67c6ce9f000000002503e027"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_session",
+      "title": "第一次体验流程",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "进门 · 5-10 分钟",
+            "title": "预约到店 & 选择造型方向",
+            "detail": "提前在小红书/大众点评预约，到店后与老师沟通想做什么（杯子、碗、摆件还是 IP 形象）。建议第一次选「手捏」而非拉坯，难度更低、更容易出成品。"
+          },
+          {
+            "label": "准备 · 5 分钟",
+            "title": "领取泥料 & 工具讲解",
+            "detail": "老师会发放定量泥料并简单介绍工具用途（泥条、泥板、刮刀等）。建议穿不怕脏的衣服或借用工作室提供的围裙。"
+          },
+          {
+            "label": "制作 · 60-120 分钟",
+            "title": "动手塑形",
+            "detail": "按老师引导逐步捏出造型。手捏可做小动物、苹果、杯子等；新手常见问题是捏太薄导致开裂，或造型歪斜，遇到问题随时叫老师。不要追求完美，歪的也是独特的。"
+          },
+          {
+            "label": "修整 · 15-30 分钟",
+            "title": "细节雕刻 & 表面处理",
+            "detail": "用工具修整边缘、刻花纹、加把手等。此阶段决定作品精细度，可以根据自己喜好选择简洁或精雕细琢的风格。"
+          },
+          {
+            "label": "交件 · 5-10 分钟",
+            "title": "选釉色 & 登记烧制",
+            "detail": "选择上釉颜色（不同釉料烧出来色差较大，可参考色卡样品），将作品交给工作室登记烧制。注意：泥坯烧制前需晾干，通常需要等待 2-4 周。"
+          },
+          {
+            "label": "等待 & 取件 · 2-4 周后",
+            "title": "烧制完成 & 取回作品",
+            "detail": "作品高温烧制后会收缩约 10-15%，颜色和质感也会发生变化。到店取件或快递寄回。第一次体验建议亲自取件，感受「开窑」的惊喜感。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68a202c8000000001d0153e1",
+        "xhs_68ae8cc6000000001c0065c7",
+        "xhs_67ce6469000000001201f030",
+        "xhs_6972daa9000000001a01db14"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "progression",
+      "title": "进阶路径",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "第 1 次",
+            "title": "一次性体验玩家",
+            "detail": "在工作室完成单次手捏体验，带走 1 件杯子、碗或小摆件。目标是感受泥土质感、了解基本流程。所需装备：零，全部由工作室提供。费用约 ¥100-300。"
+          },
+          {
+            "label": "1-3 个月",
+            "title": "周末打卡爱好者",
+            "detail": "每月去 1-2 次工作室，尝试不同造型（日用器皿、IP 摆件、花瓶）。开始积累手感，作品成功率明显提升。可以尝试拉坯入门。推荐购买：围裙（自备）、小工具套装（¥100-200）。"
+          },
+          {
+            "label": "3-6 个月",
+            "title": "系统学习阶段",
+            "detail": "报名工作室系统课（6-12 节），学习手捏、拉坯、修坯、上釉等完整技法。能制作质量稳定的日用茶杯、碗、小花瓶。可考虑景德镇游学，感受完整产业链和专业窑口。"
+          },
+          {
+            "label": "6 个月-1 年",
+            "title": "成熟业余玩家",
+            "detail": "形成个人风格，能独立设计并完成有辨识度的系列作品（如带 IP 形象的器皿、特定釉色风格）。开始考虑购置家用小电窑（¥3000-8000），摆脱对工作室的依赖。"
+          },
+          {
+            "label": "1 年以上",
+            "title": "长期玩家 / 家庭工作室",
+            "detail": "拥有个人窑炉和拉坯机，可以随时创作。部分玩家开始在小红书分享教程或在闲鱼出售作品，陶艺从爱好逐渐向副业延伸。装备：电窑 + 拉坯机 + 泥料釉料耗材，年投入约 ¥5000-10000。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67c6ce9f000000002503e027",
+        "xhs_6972daa9000000001a01db14",
+        "xhs_67ece74d000000001c00bdaa",
+        "xhs_68eb8008000000000402149f"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "我完全没有美术基础，手很残，能做出来吗？",
+            "a": "完全可以。新手第一次体验大成功的案例在小红书上比比皆是。手捏陶艺不需要美术功底，老师会全程引导，哪怕做出来歪歪的也别有风味。建议第一次选手捏而非拉坯，成功率更高。"
+          },
+          {
+            "q": "作品要等多久才能取到？",
+            "a": "泥坯在晾干后需要高温烧制，一般需要等待 2-4 周。工作室会在烧好后通知你到店取件或快递寄出。建议体验时问清楚工作室的具体流程。"
+          },
+          {
+            "q": "能在家做陶艺吗？",
+            "a": "可以，但有一定门槛。手捏阶段可以在家用陶土练习，但烧制需要专业窑炉。如果想长期在家创作，需要购置家用小电窑（¥3000-8000 起）并解决通风问题。新手建议先在工作室积累经验再考虑在家建窑。"
+          },
+          {
+            "q": "一个人可以去吗？还是要约朋友？",
+            "a": "两种都可以。一个人去可以专注创作、和老师深度交流；约朋友去则社交感更强，互相帮忙拍照也更有氛围。很多工作室支持拼场，一个人也不会尴尬。"
+          },
+          {
+            "q": "做出来的作品能正常使用吗（比如喝水）？",
+            "a": "经过高温烧制并上釉的陶瓷器皿是可以正常使用的，杯子、碗都没问题。注意选择食品级安全的釉料，正规工作室通常都会使用。烧制前的泥坯阶段则只是半成品，不能使用。"
+          },
+          {
+            "q": "作品烧制后和原来差很多吗？",
+            "a": "会有变化。烧制后作品会收缩约 10-15%，釉色在高温下也会发生变化（实际颜色和色卡会有出入）。这种「不可控的惊喜感」也是陶艺的魅力之一，很多人把开窑比作「开盲盒」。"
+          },
+          {
+            "q": "想做 IP 造型（比如 Jellycat、星之卡比）难度大吗？",
+            "a": "有一定难度，但初学者在老师指导下是可以完成的。建议选择造型相对简单的 IP 元素（如单个角色、简化版花瓶），避免第一次就挑战复杂的多部件组合造型。小红书上有不少相关教程可以提前参考。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68ae8cc6000000001c0065c7",
+        "xhs_67ce6469000000001201f030",
+        "xhs_68eb8008000000000402149f",
+        "xhs_68b904b4000000001d02cb83"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_67ece74d000000001c00bdaa": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67ece74d000000001c00bdaa?xsec_token=AB7Cj4T5Y855RUr9M0UdaVbfIcnr_b3Gh9r7FbDhNMeIo=&xsec_source=pc_search",
+      "title": "手捏小猫教程来了，还看不懂晚上6点直播来问",
+      "author": "Robbin万花研究所",
+      "likes": 35031,
+      "snippet": "手捏小猫教程来了，还看不懂晚上6点直播来问",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170618/88a0c8dec76b36f151775ccccee251d5/notes_pre_post/1040g3k831fp1cp0d06005nvag5i0bp1pmo61rg0!nc_n_webp_mw_1"
+    },
+    "xhs_67b98f4d000000002602fba5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67b98f4d000000002602fba5?xsec_token=ABR9cbo4F_1iDkvKqdp9krLOf9MVcITGyRT_EaPsfr1aI=&xsec_source=pc_search",
+      "title": "一个苹果的诞生～",
+      "author": "阿陶又在吃",
+      "likes": 16390,
+      "snippet": "一个苹果的诞生～",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170621/9909f08f24a9ad2f8149b5b84f8609cd/1040g2sg31e6svj3808705n1ns0j1e32g84onsoo!nc_n_webp_mw_1"
+    },
+    "xhs_67b34d15000000001701f5e0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67b34d15000000001701f5e0?xsec_token=AB0lOK_8epe39k49Xhl1Wt2Iqd0UncCTnwTe_kJp808ro=&xsec_source=pc_search",
+      "title": "月亮终于掉进我的碗里啦～",
+      "author": "栗子🌰",
+      "likes": 7011,
+      "snippet": "月亮终于掉进我的碗里啦～",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170618/25c970210ad2a829966fd51885d01554/notes_pre_post/1040g3k031e0p6112gm104bd7cmfsbi4dv45rkog!nc_n_webp_mw_1"
+    },
+    "xhs_68eb8008000000000402149f": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68eb8008000000000402149f?xsec_token=ABTbiSOTWc-KvAf7_XZ-4_beYOAEkHSwsTon3RQZ-h-Ck=&xsec_source=pc_search",
+      "title": "左滑👈🏻帮我一键烧制jellycat花瓶🤓",
+      "author": "Linabell",
+      "likes": 5941,
+      "snippet": "左滑👈🏻帮我一键烧制jellycat花瓶🤓",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170619/66af6f219a727d4e058c10e0a1c5e349/notes_pre_post/1040g3k031nhl82365i3g4afjnv2vbeijaf5fel0!nc_n_webp_mw_1"
+    },
+    "xhs_6972daa9000000001a01db14": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6972daa9000000001a01db14?xsec_token=ABJWqVEt6U1mYHWVW9bBRrpDYPkelA_f2Zvd0nE7TCeRk=&xsec_source=pc_search",
+      "title": "同人女景德镇一命通关新手教程",
+      "author": "泠落",
+      "likes": 4874,
+      "snippet": "同人女景德镇一命通关新手教程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170621/1d8cbd36882236986896a20731ef2822/notes_pre_post/1040g3k031rlrbo6u32505o8kp0vgbl6stkrs4h0!nc_n_webp_mw_1"
+    },
+    "xhs_68a202c8000000001d0153e1": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68a202c8000000001d0153e1?xsec_token=ABccBOAM7qjKMvQO99kAETj6HgjlpCD6BNrTrRRvP5hdY=&xsec_source=pc_search",
+      "title": "陶艺初体验✨",
+      "author": "JLOOOE",
+      "likes": 4824,
+      "snippet": "陶艺初体验✨",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170618/cf77fb869015475182209e6df5540be1/notes_pre_post/1040g3k031l9sk6sg4q1g4a1b2bmac5cog3p9vuo!nc_n_webp_mw_1"
+    },
+    "xhs_68b904b4000000001d02cb83": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68b904b4000000001d02cb83?xsec_token=ABvV60ym4ol7irmkcNXE_ynVzTcMyqHrb7hcK7Ath-GkQ=&xsec_source=pc_search",
+      "title": "艾特你的好友一起去做陶瓷吧",
+      "author": "蓝颜",
+      "likes": 3942,
+      "snippet": "艾特你的好友一起去做陶瓷吧",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170623/acd8c7d6dfa77b1e082ed6aa8c1eab7e/notes_pre_post/1040g3k831m0c0dh95id05q21j2j794ltrtvh7q8!nc_n_webp_mw_1"
+    },
+    "xhs_67ce6469000000001201f030": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67ce6469000000001201f030?xsec_token=ABXhk-fTyiiYPTPvlQGiXgrj6ZRghqmpLUxFspopDd9Ww=&xsec_source=pc_search",
+      "title": "星之卡比杯诞生记🙌🏻陶艺初体验大成功！",
+      "author": "iamcarol",
+      "likes": 2928,
+      "snippet": "星之卡比杯诞生记🙌🏻陶艺初体验大成功！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170621/e193181bf349d009e9c946604ba5bbc5/notes_pre_post/1040g3k031er6pfp06i0049npbbcutvrhi4u9dq0!nc_n_webp_mw_1"
+    },
+    "xhs_67c6ce9f000000002503e027": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67c6ce9f000000002503e027?xsec_token=ABc4vXvvxV62zylmYu9r3GnyvJ_OMYc5v4oSeR1SZByKU=&xsec_source=pc_search",
+      "title": "陶艺教学｜手作自用杯初学教程",
+      "author": "山间看风景",
+      "likes": 2759,
+      "snippet": "陶艺教学｜手作自用杯初学教程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170618/38a3ce5210f9ff7a2022aeb2ec9c59db/1040g2sg31ejqupfeh6705ni3mot08443pd7s11g!nc_n_webp_mw_1"
+    },
+    "xhs_68ae8cc6000000001c0065c7": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68ae8cc6000000001c0065c7?xsec_token=ABuZDz-ThKagqn_NvIGDNq0teHtuWxtS2f8QYfaAzBmTw=&xsec_source=pc_search",
+      "title": "新手第一次做陶艺大成功！",
+      "author": "一罐椰奶",
+      "likes": 2557,
+      "snippet": "新手第一次做陶艺大成功！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170618/02dfb6ad686ec04afcd8601623971006/notes_pre_post/1040g3k831lm4i6krlelg5onhqf7nqjahqljdbno!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

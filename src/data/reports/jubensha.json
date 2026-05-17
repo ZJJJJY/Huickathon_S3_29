@@ -1,0 +1,302 @@
+{
+  "hobby_id": "jubensha",
+  "hobby_name": "剧本杀",
+  "category": "social_competitive",
+  "neon_color": "#FF3EA5",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 剧本杀是什么？\n\n剧本杀是一种沉浸式角色扮演推理游戏。每位玩家拿到一本专属剧本，扮演其中的某个角色，在主持人（DM）的引导下，通过阅读剧本、寻找线索、相互交流和推理，最终找出隐藏在故事中的真相（通常是凶手或关键谜题）。\n\n### 玩法特点\n- **角色扮演**：每人都有独特的人物背景与秘密，需要「入戏」来推进剧情\n- **推理解谜**：搜证环节收集线索，复盘阶段投票指认凶手\n- **沉浸叙事**：店家通常会有配套的灯光、音效、道具，营造氛围\n\n### 社交氛围\n剧本杀天然是强社交活动——少则 4 人、多则 8 人围坐一桌，共同经历同一个故事，结束后往往话题不断。相比桌游，它剧情感和代入感更强；相比密室逃脱，它更侧重交流与情感共鸣，而非体力挑战。\n\n### 剧本类型丰富\n有推理本、情感本、恐怖本、阵营本等多种类型，新手可根据喜好选择，完全不需要有任何游戏基础。"
+      },
+      "citations": [
+        "xhs_67d0231b000000000603a010",
+        "xhs_693d586f000000001d03c678",
+        "xhs_691c4444000000001e010601"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥60-150/次",
+            "items": [
+              "单次拼场费用（盒装本/城市本）",
+              "无需额外购置装备",
+              "店家提供剧本与道具"
+            ],
+            "note": "偶尔蹭朋友局或去店里拼场，只需支付人均场次费，体验完整流程"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥150-500/月",
+            "items": [
+              "精品本/独家本场次费（¥100-200/次）",
+              "笔记本与记录工具",
+              "提升体验的小道具（如荧光笔、便签）",
+              "每月打 2-4 次"
+            ],
+            "note": "开始频繁打本、有固定牌搭子，会倾向选更贵的精品本或主题店"
+          },
+          {
+            "name": "资深",
+            "price_range": "¥500-2000+/月",
+            "items": [
+              "包场费用（6-8 人整桌）",
+              "私藏或 KP 向盒装本购买",
+              "cosplay 服装/角色道具",
+              "外地打本的交通住宿"
+            ],
+            "note": "自组固定队、买本收藏、出门打本，花销随热情线性增长"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68343b85000000002100e4d5",
+        "xhs_693d586f000000001d03c678",
+        "xhs_67d0231b000000000603a010"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备 / 道具",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "荧光笔 / 彩色便签",
+            "description": "阅读剧本时用于标记关键信息、时间线和可疑线索，大幅提升梳理效率",
+            "meta": "预算 ¥5-20 · 文具店均有售 · 新手友好度 ★★★★★",
+            "url": null
+          },
+          {
+            "title": "小本子（推理记录本）",
+            "description": "用来记录各角色行动轨迹、时间线和搜证结果，搭建专属推理逻辑树",
+            "meta": "预算 ¥5-30 · 任意品牌均可 · 新手友好度 ★★★★★",
+            "url": null
+          },
+          {
+            "title": "蓝牙耳机（可选）",
+            "description": "部分线上剧本杀（语音/视频本）需要，建议选延迟低的型号，避免错过关键台词",
+            "meta": "预算 ¥50-300 · 漫步者/索尼 均有入门款 · 新手友好度 ★★★★☆",
+            "url": null
+          },
+          {
+            "title": "角色服装 / 简单 Cosplay 道具",
+            "description": "进阶后可为角色准备符合人物性格的服装或配饰，提升沉浸感，拍照也好看",
+            "meta": "预算 ¥0-200（可借可买） · 新手可跳过 · 新手友好度 ★★★☆☆",
+            "url": null
+          },
+          {
+            "title": "剧本杀 APP（小程序/平台账号）",
+            "description": "用于线上找局、查店铺评价、浏览剧本评分，常用平台有「我是 DM」「剧本杀」小程序等",
+            "meta": "预算 ¥0（免费下载） · 手机即可 · 新手友好度 ★★★★★",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68343b85000000002100e4d5",
+        "xhs_660d32bb000000001a017c10",
+        "xhs_676a7cf40000000013002606"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "how_to_play",
+      "title": "怎么上手",
+      "content": {
+        "type": "markdown",
+        "text": "## 基础规则\n\n剧本杀通常由 4-8 名玩家参与，每人扮演一个角色。游戏围绕一个核心事件（多为谋杀案）展开，所有玩家需要在 DM（游戏主持人）引导下，通过阅读剧本、搜集线索、相互交流，最终找出真相并完成各自角色的隐藏任务。\n\n## 第一次玩的现场流程\n\n1. **选本 & 分角色**：到店后 DM 会介绍可选剧本的类型和难度，新手建议选「推理入门」或「情感向」类型。角色按照人数随机或自选分配。\n\n2. **阅读剧本**：每人拿到属于自己角色的剧本（约 10-30 页），独自阅读，了解自己的背景故事、与其他角色的关系以及需要完成的任务。此阶段不能分享剧本内容给他人。\n\n3. **公开发言（交流阶段）**：DM 引导各玩家按顺序公开部分信息，可以说真话，也可以根据角色目标选择性隐瞒，这是博弈和推理的核心环节。\n\n4. **搜证环节**：在规定时间内搜集场地里隐藏的线索卡、道具，获取关键信息。\n\n5. **复盘 & 投票**：所有线索公开后，进行最终讨论，每人写下推理结论并投票指认凶手。\n\n6. **DM 揭晓真相**：DM 公布答案，讲解完整故事线，玩家收获「哇原来如此」的沉浸体验。\n\n## 新手最容易忽略的关键点\n\n**认真读剧本，不要跳读。** 很多新手急于进入交流环节，草草翻完剧本，导致关键时间节点和人物关系记忆模糊，推理时无从下手。建议第一次阅读时用便签记下「我在案发时在哪里」「我和谁有过节」这两个核心问题，会让整个游戏体验大幅提升。同时，不要害怕「演不好」——剧本杀没有表演评分，享受故事本身才是最重要的。"
+      },
+      "citations": [
+        "xhs_66a4fb43000000000600ff5b",
+        "xhs_65af77d7000000002c011bd0",
+        "xhs_67d0231b000000000603a010",
+        "xhs_676a7cf40000000013002606"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "find_people",
+      "title": "找人 / 找局",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "线下剧本杀实体店",
+            "description": "直接去附近门店拼场，店家会匹配同时段的陌生玩家组成一桌。无需自带队友，随时可以一个人去",
+            "meta": "全国各城市均有 · 适合单人或小团体 · 注意提前预约时段",
+            "url": null
+          },
+          {
+            "title": "「我是DM」等剧本杀 APP/小程序",
+            "description": "可以查找附近店铺、浏览剧本评分、在线组队拼场，部分平台支持线上语音本直接开局",
+            "meta": "线上+线下均可用 · 适合想提前做功课的玩家 · 注意区分线上本和线下本",
+            "url": null
+          },
+          {
+            "title": "微信 / QQ 剧本杀兴趣群",
+            "description": "本地城市通常有「XX城市剧本杀」社群，可以在群里发帖找人拼场或加入固定牌搭子队伍",
+            "meta": "本地社群 · 适合想找固定搭子的玩家 · 注意核实群的活跃度和安全性",
+            "url": null
+          },
+          {
+            "title": "朋友局（熟人组队）",
+            "description": "召集 4-8 名朋友，预约包场。熟人一起玩氛围更放松，新手不会有压力，适合第一次体验",
+            "meta": "线下包场 · 最适合首次入坑 · 人数凑齐难度稍高",
+            "url": null
+          },
+          {
+            "title": "小红书 / 抖音 同城找局",
+            "description": "在小红书发帖或搜索「XX城市 剧本杀 拼车」，能找到同城玩家发起的拼场邀请，也可认识有共同爱好的新朋友",
+            "meta": "线上社交平台 · 适合想扩列新搭子的玩家 · 第一次见面建议在公共场所",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_693d586f000000001d03c678",
+        "xhs_691c4444000000001e010601",
+        "xhs_688c844500000000020025d5"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "一个人去剧本杀会尴尬吗？",
+            "a": "完全不会。大多数实体店都有拼场机制，会帮你匹配同时段的其他玩家凑成一桌。游戏开始后大家都在扮演角色，反而很容易打破陌生感，很多人都是一个人去认识了新朋友。"
+          },
+          {
+            "q": "没有任何推理经验，玩得起来吗？",
+            "a": "完全可以。新手建议从「入门推理本」或「情感本」开始，难度较低，DM 也会全程引导。第一局重在体验流程，不用追求全部推对，享受故事本身就够了。"
+          },
+          {
+            "q": "剧本杀一局要多久？",
+            "a": "根据剧本类型不同，时长差异较大。盒装本（城市本）通常 3-4 小时；精品本或独家本可能需要 5-8 小时，甚至分多次进行。第一次建议选短本，避免体力不支影响体验。"
+          },
+          {
+            "q": "需要提前准备什么吗？",
+            "a": "基本不需要。店家会提供剧本和必要道具。带上笔和小本子方便记录线索会更顺手。如果有选好的角色类型喜好，预约时可以告诉店家，方便分角色。"
+          },
+          {
+            "q": "怎么选适合自己的剧本？",
+            "a": "新手建议根据以下维度选：①类型（推理/情感/恐怖/阵营）按喜好选；②难度选「入门」或「普通」；③人数选 5-6 人本，社交氛围适中不会太乱。可以参考「我是DM」等平台的玩家评分。"
+          },
+          {
+            "q": "不擅长表演，会拖累大家吗？",
+            "a": "不会。剧本杀不是表演比赛，没有演技评分。你只需要按剧本里角色的立场参与讨论和推理即可。不想表演的玩家可以选「侦探型」角色，专注推理逻辑而非情感表达。"
+          },
+          {
+            "q": "剧本杀和密室逃脱有什么区别？",
+            "a": "密室逃脱更侧重体力行动和机关解谜，通常时间较短（1 小时左右）；剧本杀更侧重剧情沉浸、角色扮演和逻辑推理，时间更长、社交互动更深。两者可以都体验，看自己偏好哪类。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67d0231b000000000603a010",
+        "xhs_693d586f000000001d03c678",
+        "xhs_691c4444000000001e010601",
+        "xhs_688c844500000000020025d5"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_66a4fb43000000000600ff5b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66a4fb43000000000600ff5b?xsec_token=AB3Q7WJnfRjAo85ZIPqp-zvsWP5DMvKx-WVuOGSECqEWM=&xsec_source=pc_search",
+      "title": "第一次玩剧本杀？带你演练一遍玩本的过程😉",
+      "author": "T.I 十一",
+      "likes": 37221,
+      "snippet": "第一次玩剧本杀？带你演练一遍玩本的过程😉",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170750/1e639ddc4a46300ba5f8a6b4dfc655f2/1040g008315oppfthio0g5p9iu7kqocd17q8nc98!nc_n_webp_mw_1"
+    },
+    "xhs_67d0231b000000000603a010": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67d0231b000000000603a010?xsec_token=ABUMSXzVnSzLNftPc5aKQhZER1eElZkcom-ywZ-NMSbfo=&xsec_source=pc_search",
+      "title": "剧本杀新手教程看完这篇就够‼️",
+      "author": "小牛挺哇塞",
+      "likes": 10103,
+      "snippet": "剧本杀新手教程看完这篇就够‼️",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170751/c9c8dd78dc33b45dd69157887517a3d1/notes_pre_post/1040g3k031esuge7h6e004bukdsp0nh48oj8epjg!nc_n_webp_mw_1"
+    },
+    "xhs_65af77d7000000002c011bd0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/65af77d7000000002c011bd0?xsec_token=ABVI_xHSkgCydDBYQmafKP8kGzmPwTxKSzriiWuGfeIF4=&xsec_source=pc_search",
+      "title": "手把手带你玩剧本杀",
+      "author": "Tracy晨的平行时空",
+      "likes": 5076,
+      "snippet": "手把手带你玩剧本杀",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170750/1a85c948fe8342cd71b8fe4ae5129f11/1040g00830u91juallc005nm1vgsg8u6gar1mqp8!nc_n_webp_mw_1"
+    },
+    "xhs_676a7cf40000000013002606": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/676a7cf40000000013002606?xsec_token=ABIWIwRojYFOQrHbWZ4LxLOhClv6NyxX7GGhnZL9VLKJY=&xsec_source=pc_search",
+      "title": "只需1min就能伪装成打本高手|剧本杀新手必",
+      "author": "亚平宁之夏",
+      "likes": 4678,
+      "snippet": "只需1min就能伪装成打本高手|剧本杀新手必",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170748/78b757e79306a1e24696c4f9aabfaedf/1040g2sg31bplsuds0ed05npbr5igbnpk0brko10!nc_n_webp_mw_1"
+    },
+    "xhs_693d586f000000001d03c678": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/693d586f000000001d03c678?xsec_token=ABZf4o18Fe5k1j44s6aTA20aI7HY7LTADuIzv1A3wuX9E=&xsec_source=pc_search",
+      "title": "超全科普！新手小白必看！",
+      "author": "我心依旧",
+      "likes": 3617,
+      "snippet": "超全科普！新手小白必看！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170748/4ea70ec4a2161c896d07f4929172b44a/notes_pre_post/1040g3k031q1j8ipen4605psdpof39dtaj8c1cj8!nc_n_webp_mw_1"
+    },
+    "xhs_68343b85000000002100e4d5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68343b85000000002100e4d5?xsec_token=ABqxfhH6vtakUKBc8Q0zL_bLkFLiT4hgjrUG-ux8nC3uU=&xsec_source=pc_search",
+      "title": "可以提升打本体验感的一些小玩意er~",
+      "author": "T.I 十一",
+      "likes": 1639,
+      "snippet": "可以提升打本体验感的一些小玩意er~",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170751/9f61151017163c7b13f263ac1c160ffd/spectrum/1040g34o31humd726lq0g5p9iu7kqocd1p2mnn5o!nc_n_webp_mw_1"
+    },
+    "xhs_660d32bb000000001a017c10": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/660d32bb000000001a017c10?xsec_token=AB4iowlh6iuNmQyTGe2JWP6DwIFpCAOFkYW-BiEQQYIoc=&xsec_source=pc_search",
+      "title": "新手小白学习中",
+      "author": "一喜.",
+      "likes": 1502,
+      "snippet": "新手小白学习中",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170750/4632b44e5d1bd156ff4c5c7d82c5e690/1040g0083114ilvi66k6g5pgc3us2ue32hl2cva8!nc_n_webp_mw_1"
+    },
+    "xhs_688c844500000000020025d5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/688c844500000000020025d5?xsec_token=ABWkgkLcxk6g0QPuSkQJP7vUMcwX7TVHDd0-UCgrffwoM=&xsec_source=pc_search",
+      "title": "剧本杀新手必看！教你小白变大神！",
+      "author": "Sa姨爱玩剧本杀",
+      "likes": 1263,
+      "snippet": "剧本杀新手必看！教你小白变大神！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170750/25fbaf26edd15aa0bbff691bddacffa0/notes_pre_post/1040g3k031kksmjhbio2g5pn2il9jcqdvuu3a24o!nc_n_webp_mw_1"
+    },
+    "xhs_691c4444000000001e010601": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/691c4444000000001e010601?xsec_token=AB1ZJHaHbV2EWyZlDR0KrZ8xERBuWdptmH2uCxNmGb_mQ=&xsec_source=pc_search",
+      "title": "老dm告诉你剧本杀新人该如何选择剧本（推",
+      "author": "周周《超级爱打本》",
+      "likes": 1071,
+      "snippet": "老dm告诉你剧本杀新人该如何选择剧本（推",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170748/1e7ec284a1d29320ba51ba97d2e69b6e/spectrum/1040g0k031p19h4ad2c005pulejrinmph0nc8jrg!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

@@ -1,0 +1,328 @@
+{
+  "hobby_id": "stamp",
+  "hobby_name": "邮票",
+  "category": "collecting",
+  "neon_color": "#A855F7",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 邮票收藏：方寸之间的历史与艺术\n\n邮票，是一个国家或地区发行的邮资凭证，同时也是浓缩了历史、文化、艺术与地理的「微型百科全书」。每一枚邮票背后，都承载着特定时代的记忆——从建国纪念到动植物图鉴，从名画复刻到航天成就，方寸之间尽显大千世界。\n\n**集邮的乐趣远不止「买东西」那么简单：**\n\n- 🔍 **知识的延伸**：研究邮票发行背景、版本差异、齿孔类型、印刷工艺，每一个细节都是一扇通往历史的窗口。\n- 📬 **实用与收藏兼备**：邮票可以真实地用于寄信，让复古的手写信重新连接人与人之间的情感。\n- 💰 **潜在的保值属性**：部分早期发行、错版或限量邮票具有较高的市场价值，集邮也被视为一种另类投资方向。\n- 🌍 **社群与交流**：集邮圈有成熟的线上线下交流社群，新手可以快速找到同好，互换、交流、共同成长。\n\n与单纯「买周边」不同，集邮需要持续学习基础知识（如新票/旧票/首日封的区别），培养鉴别真伪的眼力，以及对系列主题的长期关注。入坑容易，但越深入越有趣。"
+      },
+      "citations": [
+        "xhs_67d25586000000001d02e8ce",
+        "xhs_67fd0255000000001e000871",
+        "xhs_67d8e4fa000000001d007c4e"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门（浅尝）",
+            "price_range": "¥50-300",
+            "items": [
+              "现代纪念邮票小版张（当年新发行）",
+              "邮票册/插页册（收纳用）",
+              "邮票镊子（基础工具）",
+              "微邮局或邮局窗口购入面值邮票用于寄信"
+            ],
+            "note": "适合刚接触、先体验寄信乐趣，同时了解邮票基础知识，风险极低"
+          },
+          {
+            "name": "进阶（认真玩）",
+            "price_range": "¥300-2000",
+            "items": [
+              "生肖系列全套邮票",
+              "文革/建国早期纪念邮票（单枚）",
+              "首日封若干套",
+              "邮票放大镜、护邮袋等进阶工具",
+              "淘宝信誉邮票店铺精选套票"
+            ],
+            "note": "开始按主题或年份系统收集，需具备基础辨伪能力"
+          },
+          {
+            "name": "顶配（玩家级）",
+            "price_range": "¥2000以上",
+            "items": [
+              "早期珍稀邮票（如文革票、JT票整版）",
+              "错版票、变体票",
+              "拍卖行专场标的",
+              "专业集邮册、护邮夹、恒温防潮储存设备"
+            ],
+            "note": "深度玩家或投资向，需要较强的鉴别能力和市场判断力，建议有一定积累后再涉足"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67d25586000000001d02e8ce",
+        "xhs_6407298e000000001300bef2",
+        "xhs_66c209a0000000001e018613",
+        "xhs_67fd0255000000001e000871"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where_to_buy",
+      "title": "去哪买",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "中国邮政官方渠道（营业厅 / 微邮局小程序）",
+            "description": "官方正品保障，可购买当年新发行纪念邮票、生肖票、贺年邮票等。微邮局小程序操作便捷，新手首选。",
+            "meta": "适合预算 ¥50-500 · 新票为主 · 100% 正品",
+            "url": null
+          },
+          {
+            "title": "淘宝邮票专营店",
+            "description": "品类丰富，价格透明，适合新手按主题或系列购入套票。建议选择信誉高、有专业测评的店家，已有博主做过对比测评。",
+            "meta": "适合预算 ¥100-2000 · 新票/旧票均有 · 注意辨别店铺资质",
+            "url": null
+          },
+          {
+            "title": "闲鱼 / 二手交易平台",
+            "description": "可以找到老票、整版票、首日封等，价格有时低于市场价。但真伪风险较高，新手需谨慎，建议先掌握基础知识再入手。",
+            "meta": "适合预算 ¥200以上 · 适合有一定经验的玩家 · 真伪风险需自辨",
+            "url": null
+          },
+          {
+            "title": "拍卖行（华夏、北京邮政拍卖等）",
+            "description": "适合高价值珍稀邮票的购入，标的有一定背书，但溢价较高，通常面向进阶及顶配玩家。",
+            "meta": "适合预算 ¥2000以上 · 珍稀票/错版票 · 注意拍卖手续费",
+            "url": null
+          },
+          {
+            "title": "线下邮票市场 / 集邮博览会",
+            "description": "各大城市有专门的邮票交流市场，可以当面看货、议价，结交藏友。适合有一定经验后深入交流使用。",
+            "meta": "适合各预算段 · 可现场鉴别 · 建议带有经验的朋友同行",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_61333d0c000000002103473f",
+        "xhs_6407298e000000001300bef2",
+        "xhs_66c209a0000000001e018613"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "anti_fake",
+      "title": "辨真假 / 防坑",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "优先从官方渠道购入新票",
+            "detail": "中国邮政营业厅、微邮局小程序购买的新发行邮票100%正品，新手入门阶段尽量避免从个人卖家处购入旧票。"
+          },
+          {
+            "title": "查看齿孔是否整齐规则",
+            "detail": "真品邮票齿孔由专业机器打制，孔距均匀、孔型一致。假票齿孔往往参差不齐或由手工剪裁模拟，仔细对比可发现差异。"
+          },
+          {
+            "title": "用放大镜检查印刷细节",
+            "detail": "正版邮票印刷精细，网点排列规律，线条清晰。假票在放大镜下往往模糊、网点混乱，或颜色偏差明显。"
+          },
+          {
+            "title": "核对邮票背胶状态",
+            "detail": "新票背面应有均匀的原胶（淡黄色半透明），若背胶有修补、重新上胶或脱落痕迹，需高度警惕。旧票（已使用）正常无背胶。"
+          },
+          {
+            "title": "在淘宝购买时选择有实物图且评价详细的店铺",
+            "detail": "避免只有模板图的店铺，优先选择已有集邮博主测评、评论区有真实买家反馈的专营店，店铺评分建议4.8分以上。"
+          },
+          {
+            "title": "高价票务必要求提供权威鉴定证书",
+            "detail": "购入单价超过500元的邮票，应要求卖家提供中国集邮总公司或权威机构的鉴定书，不要仅凭卖家口头保证。"
+          },
+          {
+            "title": "避免轻信「捡漏」话术",
+            "detail": "二手平台卖家若声称「祖传珍品」「低价处理」，需极度谨慎。真正的珍稀邮票通常会通过拍卖行出手，而非低价私下出售。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67a743fa000000001701f8d4",
+        "xhs_66c209a0000000001e018613",
+        "xhs_67d25586000000001d02e8ce"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "care",
+      "title": "保养 / 收纳",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "使用专用护邮袋或护邮夹存放",
+            "detail": "每枚邮票单独放入透明护邮袋，避免邮票之间直接接触摩擦。护邮袋需选用无酸材质，防止长期化学反应损伤票面。"
+          },
+          {
+            "title": "防潮是重中之重",
+            "detail": "邮票背胶对湿度极为敏感，潮湿环境会导致背胶粘连、票面发霉。建议将集邮册存放在干燥阴凉处，或使用防潮箱配合干燥剂存储。"
+          },
+          {
+            "title": "避免阳光直射和强光照射",
+            "detail": "紫外线会导致邮票颜色褪色、票面纸张脆化。展示时避免放在窗边或灯光直射处，长期存储应置于遮光环境。"
+          },
+          {
+            "title": "取用邮票必须使用邮票镊子",
+            "detail": "手指油脂和汗液会在票面留下不可逆的污渍和氧化斑。每次取放邮票务必使用专用邮票镊子，从邮票边缘轻夹，不要夹图案区域。"
+          },
+          {
+            "title": "集邮册按主题或年份分类整理",
+            "detail": "系统的分类方式（如按发行年份、按主题系列）不仅便于查阅，也能减少频繁翻找造成的磨损。建议每本册子附上索引页。"
+          },
+          {
+            "title": "定期检查存储状态",
+            "detail": "每隔3-6个月检查一次集邮册，确认防潮剂是否失效、有无霉斑或虫害迹象，及时更换干燥剂并处理异常情况。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67d25586000000001d02e8ce",
+        "xhs_67a743fa000000001701f8d4",
+        "xhs_61333d0c000000002103473f"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "邮票会升值还是贬值？值得投资吗？",
+            "a": "邮票投资存在较大不确定性。有集邮29年的老玩家指出，随着写信寄信习惯的消退和集邮人群老龄化，部分邮票的市场流动性在下降。现代纪念票普遍面值溢价有限，真正保值的主要是早期珍稀票、错版票。新手不建议以投资为主要目的入坑，先培养兴趣更重要。"
+          },
+          {
+            "q": "需要懂多少知识才能买第一枚邮票？",
+            "a": "从官方渠道（邮局窗口或微邮局小程序）购买当年新发行的纪念邮票，几乎零门槛。买来贴信、欣赏图案就可以开始。随着兴趣加深，再慢慢学习齿孔、版式、背胶等基础知识。"
+          },
+          {
+            "q": "微邮局小程序怎么用？适合新手吗？",
+            "a": "微邮局是中国邮政官方小程序，在微信中搜索即可找到。可以在线购买新发行邮票，也可以寄信、查询邮资。操作流程已有博主做过详细萌新教程，非常适合第一次接触邮票的新手。"
+          },
+          {
+            "q": "在淘宝买邮票靠谱吗？怎么选店？",
+            "a": "淘宝有不少正规邮票专营店，但质量参差不齐。建议选择店铺评分高（4.8分以上）、有实物图、评论详细的店家。已有新手向博主专门做过淘宝邮票店家测评，可以参考对比后再下单。"
+          },
+          {
+            "q": "邮票可以真的用来寄信吗？怎么操作？",
+            "a": "完全可以，这也是邮票最本真的用途。将邮票贴在信封右上角，确认邮资足够（国内平信目前基础邮资为1.2元），投入邮筒或到邮局柜台寄出即可。多位博主有详细的国内寄信教程可参考。"
+          },
+          {
+            "q": "集邮圈有没有社群，新手能融入吗？",
+            "a": "集邮圈在小红书、微博、贴吧等平台都有活跃社群，线下各城市也有邮票交流市场和集邮博览会。新手带着真诚的问题去交流，通常都能得到热心老玩家的指引。加入前建议先积累一些基础知识，避免出现明显的低级错误。"
+          },
+          {
+            "q": "集邮需要很大的储存空间吗？",
+            "a": "邮票本身体积极小，一本标准集邮册可以存放数百枚邮票，占用空间非常有限。即使收藏规模较大，用几本专业集邮册加一个防潮箱就能妥善解决，对居住空间几乎没有特别要求。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67fd0255000000001e000871",
+        "xhs_6407298e000000001300bef2",
+        "xhs_66c209a0000000001e018613",
+        "xhs_689ab5d50000000025017b88",
+        "xhs_6660bd280000000006006517"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_61333d0c000000002103473f": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/61333d0c000000002103473f?xsec_token=ABLHKArs0oWdU50sIqb48o22z_EiUCF5j2i96Pyy6h6BU=&xsec_source=pc_search",
+      "title": "邮票哪里买？",
+      "author": "一加一共有二",
+      "likes": 4710,
+      "snippet": "邮票哪里买？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170714/88a04b46bf5b6abb85d78738cae5c1e3/b3e491cc-7b74-392d-b34e-7888a6997b5b!nc_n_webp_mw_1"
+    },
+    "xhs_6660bd280000000006006517": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6660bd280000000006006517?xsec_token=AB6nOwYrO8QN-mRMO9h-mnxFj7LRUIqzTayIa5W5Lwgvk=&xsec_source=pc_search",
+      "title": "教00后怎么寄信",
+      "author": "鸿海之小F 🐾 🐾",
+      "likes": 4408,
+      "snippet": "教00后怎么寄信",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170710/66c91e422e1b3b9dac4f8e15ded23dea/1040g008313m4r5ft1e605nr46it08rnnhfolb7g!nc_n_webp_mw_1"
+    },
+    "xhs_67d25586000000001d02e8ce": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67d25586000000001d02e8ce?xsec_token=ABOeUfzTDMcIHSe50yxKYtmTNjg2oClwOIe8-xXhsO7S8=&xsec_source=pc_search",
+      "title": "一文看懂 邮票基础知识 建议收藏",
+      "author": "小邮票大财富",
+      "likes": 1810,
+      "snippet": "一文看懂 邮票基础知识 建议收藏",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170710/bc7a1e7a4e5d6bbb6a5754556cf3a1a6/notes_pre_post/1040g3k831eu0n5m9mabg5oipeq0k121jmacck80!nc_n_webp_mw_1"
+    },
+    "xhs_6407298e000000001300bef2": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6407298e000000001300bef2?xsec_token=ABfNHS0FU-GYj73wA-LCew0Q8EGz5basJuBgqqMh-sw_Q=&xsec_source=pc_search",
+      "title": "干货  | 萌新向-如何在微邮局买邮票",
+      "author": "Jocelynnn",
+      "likes": 1633,
+      "snippet": "干货  | 萌新向-如何在微邮局买邮票",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170714/5e944f4848b32a0536bd8ffea72e09d2/1000g00825ao8ckufq0004a32qnrkh3rjt7b8rs8!nc_n_webp_mw_1"
+    },
+    "xhs_689ab5d50000000025017b88": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/689ab5d50000000025017b88?xsec_token=ABkRU1UeEKC5dcveUcf8a2d_Z5_ku47jN2oTwr2wRFK3E=&xsec_source=pc_search",
+      "title": "寄信教程（国内）",
+      "author": "炫焰",
+      "likes": 1346,
+      "snippet": "寄信教程（国内）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170714/64704903a93d09873e123014b38eb585/notes_pre_post/1040g3k031l2o19kd2g605nvvutj08jisveaaflg!nc_n_webp_mw_1"
+    },
+    "xhs_67d8e4fa000000001d007c4e": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67d8e4fa000000001d007c4e?xsec_token=ABf-_6S5QdnnOTWYeNEW9CX-XBNcXZDEIvDM7oiPxWHP8=&xsec_source=pc_search",
+      "title": "【寄信指南】：复古的手段、实体的情感",
+      "author": "比利布",
+      "likes": 915,
+      "snippet": "【寄信指南】：复古的手段、实体的情感",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170710/a54890a655518dc550f2bab176a196d0/1040g2sg31f6nctelm6dg5ol82ts6sh0dsjev958!nc_n_webp_mw_1"
+    },
+    "xhs_66c209a0000000001e018613": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66c209a0000000001e018613?xsec_token=AB9RhFgEnGgpWNHjjFe66rAGNsd3BjEgrWUO66MYArEq0=&xsec_source=pc_search",
+      "title": "【新手向】淘宝邮票店家测评",
+      "author": "玉琉璃",
+      "likes": 750,
+      "snippet": "【新手向】淘宝邮票店家测评",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170714/098992f8af2e1e7dc0387eb8c52af400/1040g008316l5t9vpgo004a68me116t0h419usig!nc_n_webp_mw_1"
+    },
+    "xhs_67a743fa000000001701f8d4": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67a743fa000000001701f8d4?xsec_token=AB-Ydu0nsJbUrSlUjsTTJAidTLx3sKHJ8bFMPHRHlGuoA=&xsec_source=pc_search",
+      "title": "避免买到假邮票的几点建议",
+      "author": "Films_Panda",
+      "likes": 746,
+      "snippet": "避免买到假邮票的几点建议",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170712/6277014cbcbbb272c12c4c775497d14f/1040g2sg31dl19bjegmd05p05nu2k5br8dcrob2g!nc_n_webp_mw_1"
+    },
+    "xhs_67fd0255000000001e000871": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67fd0255000000001e000871?xsec_token=AB4NhqC3Kt1Kr7oljh1sVH-bkSYGYkvV2qjYqNIVrLdcQ=&xsec_source=pc_search",
+      "title": "一个集邮29年的老玩家对邮票未来的悲观看法",
+      "author": "戳在路上",
+      "likes": 733,
+      "snippet": "一个集邮29年的老玩家对邮票未来的悲观看法",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170716/ddb49907eaa576bcb1384e08e0f3e7ed/1040g2sg31g8on1uhhkkg5nr3hrfgbk6114fha88!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

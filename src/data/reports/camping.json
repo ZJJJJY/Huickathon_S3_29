@@ -1,0 +1,340 @@
+{
+  "hobby_id": "camping",
+  "hobby_name": "露营",
+  "category": "outdoor",
+  "neon_color": "#34D399",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 露营：城市人的\"慢逃离\"\n\n露营，是把\"家\"搬到大自然里的一种生活方式。帐篷、睡袋、一杯热茶，就能在山野、湖边或草地上搭建出属于自己的临时栖息地。\n\n与普通旅游不同，露营的节奏极慢——没有赶景点的焦虑，没有手机消息的轰炸，只有清晨的鸟鸣、篝火的噼啪声和满天的星光。你可以选择**不过夜的野餐式露营**，轻装出行下午即归；也可以挑战**独自一人过夜露营**，在寂静中与自己和解。\n\n对于长期困在格子间的现代人来说，露营的魅力在于：\n- **物理上的断连**：远离城市灯光和噪音，重新感知自然节律\n- **极简生活体验**：只带必需品，反而发现生活可以很轻盈\n- **社交弹性极大**：可以呼朋唤友热闹出行，也可以独自一人静享自然\n- **入门门槛不高**：从借用装备开始，几百元即可完成第一次体验\n\n无论你是想找一个周末放空的出口，还是逐步成为户外达人，露营都是一扇随时可以推开的门。"
+      },
+      "citations": [
+        "xhs_69d6fc08000000001f007646",
+        "xhs_68592a9d000000001c0323a5",
+        "xhs_68958b2d0000000025017aa2"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门（借/租装备）",
+            "price_range": "¥0-300",
+            "items": [
+              "借用朋友帐篷+睡袋",
+              "租营地基础装备包",
+              "自带食物和日用品"
+            ],
+            "note": "适合第一次体验，验证自己是否真的喜欢露营，几乎零成本起步"
+          },
+          {
+            "name": "进阶（自有基础装备）",
+            "price_range": "¥2000-3000",
+            "items": [
+              "帐篷",
+              "睡袋",
+              "防潮垫/充气垫",
+              "卡式炉+气罐",
+              "折叠桌椅",
+              "头灯/手电"
+            ],
+            "note": "全套户外装备加起来2000出头即可搞定，可多次复用，综合下来每次成本很低"
+          },
+          {
+            "name": "精致玩家（轻量化升级）",
+            "price_range": "¥3000-8000+",
+            "items": [
+              "轻量化帐篷（钛/碳纤维杆）",
+              "高规格睡袋（鸭绒/鹅绒）",
+              "充气式睡垫",
+              "便携咖啡套装",
+              "户外灯串/氛围灯",
+              "精致餐具套装"
+            ],
+            "note": "追求\"精致露营\"体验，装备轻便舒适，颜值与实用并重"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68f3333d000000000302d52c",
+        "xhs_682f43780000000021018a25",
+        "xhs_68592a9d000000001c0323a5"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备选择",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "帐篷",
+            "description": "露营最核心的装备，提供遮风挡雨的睡眠空间。新手建议选双层帐篷，防雨性能更好。",
+            "meta": "新手预算：¥300-800 | 注意：搭建前在家练习一次，避免现场手忙脚乱",
+            "url": null
+          },
+          {
+            "title": "睡袋",
+            "description": "过夜露营必备，根据季节选择对应温标的睡袋。春秋季选舒适温度0℃左右的款式。",
+            "meta": "新手预算：¥200-500 | 注意：温标要比实际气温低5℃，防止半夜受冻",
+            "url": null
+          },
+          {
+            "title": "防潮垫/充气睡垫",
+            "description": "隔绝地面湿气和寒气，直接影响睡眠质量。充气睡垫舒适度更高，泡沫垫更轻便耐用。",
+            "meta": "新手预算：¥50-300 | 注意：不要省略这一项，地面潮气比想象中更影响体验",
+            "url": null
+          },
+          {
+            "title": "卡式炉+气罐",
+            "description": "户外烹饪和烧水必备。使用时务必在通风处，远离帐篷和易燃物，气罐不可暴晒。",
+            "meta": "新手预算：¥100-300 | 注意：野营使用卡式炉须在开阔通风区域，严禁在密闭帐篷内使用",
+            "url": null
+          },
+          {
+            "title": "折叠桌椅",
+            "description": "提升露营舒适度和仪式感，吃饭、喝茶、发呆都需要它。轻量铝合金款兼顾重量与稳定性。",
+            "meta": "新手预算：¥100-400 | 注意：优先选带收纳袋的款式，方便运输",
+            "url": null
+          },
+          {
+            "title": "头灯/手电筒",
+            "description": "夜间营地照明必需品，头灯解放双手更实用。过夜露营必备，建议额外备一个备用电源。",
+            "meta": "新手预算：¥30-150 | 注意：检查电量充足再出发，夜间营地比想象中更黑",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68f3333d000000000302d52c",
+        "xhs_682f43780000000021018a25",
+        "xhs_6a080f74000000003701df0d",
+        "xhs_6919b7d60000000005039b0b"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "去哪里玩",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "城市周边露营营地",
+            "description": "距城市1-2小时车程的成熟营地，配备卫生间、供水等基础设施，适合新手首次体验。无需担心迷路或突发情况。",
+            "meta": "全国各城市周边 · 春秋季最佳 · 适合新手/亲子 · ¥50-200/人",
+            "url": null
+          },
+          {
+            "title": "合肥周边自然营地",
+            "description": "合肥周边有可以消磨一整个下午的自然好去处，适合轻量野餐或不过夜露营，风景好、交通便利。",
+            "meta": "安徽合肥 · 春秋季 · 适合新手/不过夜 · 费用较低",
+            "url": null
+          },
+          {
+            "title": "山地森林营地",
+            "description": "林间扎营，空气清新，适合有一定经验的露营者。晚上可观星，白天可徒步，体验更丰富的户外感受。",
+            "meta": "各地山区 · 春夏秋季 · 适合有经验者 · 需提前查询天气",
+            "url": null
+          },
+          {
+            "title": "湖边/水边营地",
+            "description": "靠近水源风景优美，适合钓鱼、划船等复合玩法。注意防潮和防蚊，夏季需做好防晒。",
+            "meta": "各地湖区 · 春夏秋季 · 适合家庭/多人出行 · 注意防蚊防潮",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6873acad0000000012015b03",
+        "xhs_685ac463000000000d027975",
+        "xhs_68958b2d0000000025017aa2"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_outing",
+      "title": "第一次怎么开始",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "出发前查天气",
+            "detail": "重点看风力、降水概率和夜间最低温度。有雷雨或强风天气果断改期，安全第一。"
+          },
+          {
+            "title": "确认装备清单并打包",
+            "detail": "帐篷、睡袋、防潮垫、卡式炉、气罐、折叠桌椅、头灯、急救包缺一不可。建议对照清单逐一勾选。"
+          },
+          {
+            "title": "新手建议先选择成熟营地",
+            "detail": "第一次不要选过于偏僻的野地，选有管理员、有卫生间的营地，方便应对突发情况。"
+          },
+          {
+            "title": "在家提前练习搭帐篷",
+            "detail": "第一次搭帐篷建议在家先练一遍，熟悉杆件结构和搭建步骤，避免到了营地天黑才手忙脚乱。"
+          },
+          {
+            "title": "选好营地位置再扎营",
+            "detail": "避开低洼处（雨水汇集）、山顶（风大）和枯树旁（危险）。地面尽量平整，帐篷门朝背风方向。"
+          },
+          {
+            "title": "卡式炉使用务必在通风处",
+            "detail": "点火和烹饪必须在帐篷外开阔通风区域进行，气罐避免阳光直晒，用完及时关阀。"
+          },
+          {
+            "title": "天黑前完成所有营地布置",
+            "detail": "趁天亮把帐篷、桌椅摆好，食物和贵重物品收纳好，夜间尽量不要在营地乱走。"
+          },
+          {
+            "title": "离营前清理垃圾，恢复原状",
+            "detail": "所有垃圾装袋带走，不留下任何痕迹。检查火源是否完全熄灭，保护自然环境。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6919b7d60000000005039b0b",
+        "xhs_69d6fc08000000001f007646",
+        "xhs_6a080f74000000003701df0d",
+        "xhs_68958b2d0000000025017aa2"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "一个人可以去露营吗？",
+            "a": "完全可以。独自一人过夜露营是很多人的选择，建议新手先选择成熟营地，装备上做到极简但安全，告知家人或朋友自己的位置，全程保持手机电量充足。"
+          },
+          {
+            "q": "露营装备贵吗？新手要花多少钱？",
+            "a": "入门门槛不高。可以先借朋友的装备体验一次，确认喜欢再入手。自购全套基础装备2000元出头即可搞定，3000元左右可以配齐轻量化装备清单。"
+          },
+          {
+            "q": "半夜下雨帐篷会漏水吗？怎么防？",
+            "a": "建议选择双层帐篷，外帐有防水涂层。扎营时检查帐篷的防雨角线是否拉紧，地钉是否固定好。扎营位置避开低洼地，防止积水。出发前查准天气预报。"
+          },
+          {
+            "q": "露营会遇到虫子或野生动物怎么办？",
+            "a": "备好防蚊喷雾和驱虫药。食物密封存放，不要把食物留在帐篷内，避免吸引小动物。扎营前检查地面，清理石块和杂草。穿长袖长裤可有效减少虫咬。"
+          },
+          {
+            "q": "卡式炉可以在帐篷里用吗？",
+            "a": "绝对不可以。密闭空间使用卡式炉会产生一氧化碳，有中毒风险，同时也有引发火灾的危险。必须在帐篷外开阔通风处使用，气罐避免阳光直晒。"
+          },
+          {
+            "q": "第一次露营建议几个人一起去？",
+            "a": "新手建议2-4人结伴出行，互相帮助搭帐篷、做饭，遇到突发情况也有人协作处理。有经验的朋友带队更好。独行有一定经验后也完全可行。"
+          },
+          {
+            "q": "露营一定要过夜吗？",
+            "a": "不一定。\"不过夜野餐\"也是露营的一种形式，下午去、傍晚回，同样可以享受户外氛围、吃到户外美食，是新手入门最轻松的方式，几乎没有安全风险。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68592a9d000000001c0323a5",
+        "xhs_69d6fc08000000001f007646",
+        "xhs_6a080f74000000003701df0d",
+        "xhs_68958b2d0000000025017aa2"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_685ac463000000000d027975": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/685ac463000000000d027975?xsec_token=ABYwGRc2WDumHx-IGFLS_tGv7GGjzmGC4hbIVlmkTz_S4=&xsec_source=pc_search",
+      "title": "不过夜野餐保姆级清单🎁",
+      "author": "风起户外",
+      "likes": 9621,
+      "snippet": "不过夜野餐保姆级清单🎁",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170725/4e789d83e4e1ba5d1b51b39484acd54e/notes_pre_post/1040g3k031j4aitkn2a505ptqklvjjn0d7gnvh08!nc_n_webp_mw_1"
+    },
+    "xhs_69d6fc08000000001f007646": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69d6fc08000000001f007646?xsec_token=ABaTSLgLnPGX4_xlgmhEK8Xgp9Ny27PrtueZTohnte1eI=&xsec_source=pc_search",
+      "title": "新手露营👏有哪些好用建议？",
+      "author": "郑小喜",
+      "likes": 4314,
+      "snippet": "新手露营👏有哪些好用建议？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170725/f922394d826e01d71c92ab680234cc98/notes_pre_post/1040g3k831unkdjndig704acd9ul6lmo7i484nu8!nc_n_webp_mw_1"
+    },
+    "xhs_6919b7d60000000005039b0b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6919b7d60000000005039b0b?xsec_token=ABt_MXg7voJRUY8VmQ8JQoI26aTWAsCCzbjM3BOELjmNg=&xsec_source=pc_search",
+      "title": "⛺️新手露营超实用清单（卡通插画版）",
+      "author": "是安公子呀",
+      "likes": 3857,
+      "snippet": "⛺️新手露营超实用清单（卡通插画版）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170727/ce84eb7d3cc198921411e29368a0ba96/1040g2sg31ouptbrd1g7049615l53aounbb1nam8!nc_n_webp_mw_1"
+    },
+    "xhs_68592a9d000000001c0323a5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68592a9d000000001c0323a5?xsec_token=AB7xQPLwDjjpGlnWbjjCWozU3DLfEdK7hrq0lcZfgAZzo=&xsec_source=pc_search",
+      "title": "《一个人过夜露营》极简装备分享！",
+      "author": "脆小饼",
+      "likes": 1122,
+      "snippet": "《一个人过夜露营》极简装备分享！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170725/208697bbedd73e6bdcac369abc73c267/1040g2sg31j303rushaeg5n1j1hk1ipqvmg4hj68!nc_n_webp_mw_1"
+    },
+    "xhs_68958b2d0000000025017aa2": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68958b2d0000000025017aa2?xsec_token=ABCWxxczFZ5kBBSAOGNjuwqNFXX68H2d-H3CilTY1ooUM=&xsec_source=pc_search",
+      "title": "关于我的第一次露营🏕️我有话说",
+      "author": "勇敢牛牛🐮",
+      "likes": 1018,
+      "snippet": "关于我的第一次露营🏕️我有话说",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170725/6da96342d6158f178d60d851d47a6f8e/notes_pre_post/1040g3k031ktl0ca6ia1g4a71f8rqd1ljrbcuqo0!nc_n_webp_mw_1"
+    },
+    "xhs_68f3333d000000000302d52c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68f3333d000000000302d52c?xsec_token=ABV1P-QWKF-pRjhsghIKbKbaUCBLKwpKZcPuH2IHtmgmU=&xsec_source=pc_search",
+      "title": "我的户外装备全套加起来才2000出头！！",
+      "author": "雪梨",
+      "likes": 796,
+      "snippet": "我的户外装备全套加起来才2000出头！！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170727/c758d3684947f5f6a139d3b9963c04f6/1040g2sg31np6545ll8e05o9lglcgjqd48ccq5b8!nc_n_webp_mw_1"
+    },
+    "xhs_682f43780000000021018a25": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/682f43780000000021018a25?xsec_token=AB4tYBzWbwt5xdtJ_WSQTl1Rx16pxemzECLc95feSU4pE=&xsec_source=pc_search",
+      "title": "3000元|全套轻量化露营装备清单",
+      "author": "董哥去露营",
+      "likes": 724,
+      "snippet": "3000元|全套轻量化露营装备清单",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170725/2ee927b27dddc315b1da1d547db1d207/spectrum/1040g0k031hqd1pvvkq705pbhmufo6t5d7tu280g!nc_n_webp_mw_1"
+    },
+    "xhs_6873acad0000000012015b03": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6873acad0000000012015b03?xsec_token=AB-TCwZDSt1UN6OfuOJTQkUeKNYFGLCBC29aaon7v5V0s=&xsec_source=pc_search",
+      "title": "合肥可以呆一下午的地方🌄",
+      "author": "sienna",
+      "likes": 708,
+      "snippet": "合肥可以呆一下午的地方🌄",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170729/d5aa2fb08f10e16157b63c1f19b22aca/1040g2sg31jsku9db48fg5o0g0s6097qnparalfg!nc_n_webp_mw_1"
+    },
+    "xhs_6a080f74000000003701df0d": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6a080f74000000003701df0d?xsec_token=AB4rtJfwCeHrnSgx20imZyvsy6ASobsOwmDu71nLJw_TQ=&xsec_source=pc_search",
+      "title": "户外野营使用卡式炉一定要注意",
+      "author": "小咪小咪",
+      "likes": 594,
+      "snippet": "户外野营使用卡式炉一定要注意",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170731/d7ac428b6c3fade476d43adf7a0f2b71/1040g0083207i2i0bls005nun8ke082jjb0sa9dg!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

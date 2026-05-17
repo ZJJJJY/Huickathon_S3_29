@@ -1,0 +1,327 @@
+{
+  "hobby_id": "perler_beads",
+  "hobby_name": "拼豆",
+  "category": "crafting",
+  "neon_color": "#FFD23F",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 拼豆是什么？\n\n拼豆（Perler Beads / 熨烫珠），是一种将彩色小圆珠按照图纸排列在专用网格板上，再用熨斗加热使珠子相互熔合，最终形成像素风格平面作品的手工艺。\n\n### 能做出什么作品？\n- **经典像素角色**：海绵宝宝、游戏人物、动漫角色等\n- **生活场景摆件**：麦当劳全家桶、食物系列等萌系造型\n- **装饰挂件**：可穿绳做成项链、手机挂件、钥匙扣\n- **大幅拼接画**：多块板拼合成复杂大图\n\n### 为什么这两年受年轻人欢迎？\n1. **解压治愈**：一颗颗摆豆的过程高度专注，有「心流」感，适合下班后放空\n2. **成就感强**：新手第一次完成作品就能获得满满成就感，容错率高\n3. **成本低门槛低**：基础耗材价格亲民，在家即可操作，不需要专业场地\n4. **社区活跃**：小红书上图纸资源丰富，免费图纸随手可得，新手友好\n5. **作品可展示**：成品色彩鲜艳、像素感强，拍照好看，适合分享到社交平台"
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_68a5b32e000000001d003fef",
+        "xhs_690d8ae50000000003010a29"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "一次体验",
+            "price_range": "¥0-30",
+            "items": [
+              "借用朋友的板和豆",
+              "跟着免费图纸入门",
+              "熨斗用家用即可"
+            ],
+            "note": "跟着小红书免费教程，用最基础耗材体验一次完整流程，感受摆豆+熨烫乐趣"
+          },
+          {
+            "name": "新手入门自购",
+            "price_range": "¥50-150",
+            "items": [
+              "基础拼豆套装（含网格板+混色豆+烫纸）",
+              "镊子",
+              "家用熨斗（已有可免买）"
+            ],
+            "note": "可在家独立完成多个作品，够玩一段时间；建议先买混色包试手感"
+          },
+          {
+            "name": "长期玩家",
+            "price_range": "¥200-500+",
+            "items": [
+              "分色豆（按颜色单独购买，颜色更精准）",
+              "多块拼接大底板",
+              "专用熨斗或调温工具",
+              "收纳盒/分格盒",
+              "各类图纸或设计软件"
+            ],
+            "note": "可挑战大幅像素画、自制图纸，作品质量和复杂度大幅提升；长期投入性价比极高"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_68a5b32e000000001d003fef",
+        "xhs_69303ca30000000019027689"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "在哪做",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "在家自学方案",
+            "description": "跟着小红书免费教程和图纸，购入基础套装在家操作。全程自主，时间自由，最省钱。适合想长期玩的人。",
+            "meta": "全国通用 · 随时可做 · ¥50-150 启动费",
+            "url": "https://www.xiaohongshu.com/explore/685a286f000000001202f8e2?xsec_token=ABYwGRc2WDumHx-IGFLS_tGpEsim4f_lLfmgJf_1tfZRo=&xsec_source=pc_search"
+          },
+          {
+            "title": "跟小红书博主学教程",
+            "description": "「嘟粒爱拼豆」「一只橘狸」等博主有系统教学内容，从选豆、摆豆到熨烫全流程详解，适合零基础跟学。",
+            "meta": "线上 · 随时可看 · 免费",
+            "url": "https://www.xiaohongshu.com/explore/69297d42000000001e035518?xsec_token=ABcKa-T-PkfkOTsmNMU2NKSW4JA95CpNFyD3LXIXm5_LI=&xsec_source=pc_search"
+          },
+          {
+            "title": "参考热门图纸跟做",
+            "description": "博主「牛奶炖萝卜」等常附赠免费图纸（如麦当劳全家桶系列），直接下载打印对照摆豆，降低设计门槛。",
+            "meta": "线上图纸 · 免费获取 · 全国通用",
+            "url": "https://www.xiaohongshu.com/explore/68919c930000000023033f99?xsec_token=ABitijX24BDuqwVgSmHgAsjkHi202UDJIEZ-pb4p_VUYs=&xsec_source=pc_search"
+          },
+          {
+            "title": "线下手工体验店",
+            "description": "部分城市有专门手工DIY体验店提供拼豆台位，材料店内提供，适合想先体验再决定是否自购的新手。",
+            "meta": "一线/新一线城市 · 需提前预约 · ¥30-80/次",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_69297d42000000001e035518",
+        "xhs_68919c930000000023033f99"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_session",
+      "title": "第一次体验流程",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "第1步 · 5-10分钟",
+            "title": "准备材料与选图纸",
+            "detail": "准备好网格板、拼豆（混色包即可）、烫纸、镊子和家用熨斗。在小红书搜索「拼豆图纸」，挑一张简单的小图案（建议16x16以内），打印或手机对照用。"
+          },
+          {
+            "label": "第2步 · 15-60分钟",
+            "title": "按图纸逐颗摆豆",
+            "detail": "将珠子竖立插在网格板对应位置。初次推荐用镊子辅助操作，减少失误。摆豆时保持耐心，一排一排完成更不易出错。颜色不确定时在光线好的地方仔细辨别。"
+          },
+          {
+            "label": "第3步 · 准备阶段 · 2分钟",
+            "title": "盖上烫纸，预热熨斗",
+            "detail": "摆豆完成后在作品上方轻轻盖上烫纸（熨斗纸）。家用熨斗调至中温（约120-150°C），无蒸汽模式。这一步是新手最常翻车的环节，务必不开蒸汽。"
+          },
+          {
+            "label": "第4步 · 3-5分钟",
+            "title": "熨烫定型",
+            "detail": "用熨斗在烫纸上方缓慢画圈，均匀施力，观察珠子开始融合但仍保留圆形轮廓时即可停止。不要停留太久，否则会过熔变形；也不要太快，否则豆子粘合不牢。"
+          },
+          {
+            "label": "第5步 · 5-10分钟",
+            "title": "冷却与揭纸",
+            "detail": "熨烫后静置冷却约3-5分钟，待作品完全定型后再小心揭开烫纸。若想烫双面（正反都熔合），翻面后重复第3-4步。"
+          },
+          {
+            "label": "第6步 · 完成",
+            "title": "取下作品，欣赏成果",
+            "detail": "从底板上轻轻取下成品，检查边缘是否牢固。第一件作品完成！可穿绳、加挂件做成装饰，也可直接摆放展示。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_67c3ab91000000000900f15f",
+        "xhs_6911d9a000000000040104e5",
+        "xhs_69303ca30000000019027689"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "progression",
+      "title": "进阶路径",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "阶段1 · 第1次体验",
+            "title": "一次性体验者",
+            "detail": "跟着免费图纸完成1-2个小图案（如16x16像素的简单角色），感受摆豆+熨烫全流程。所需装备：混色豆+基础板+烫纸+家用熨斗，总花费50元以内。目标：成功出一件不翻车的作品。"
+          },
+          {
+            "label": "阶段2 · 2-4周",
+            "title": "周末爱好者",
+            "detail": "开始尝试更复杂的图案（如海绵宝宝、游戏角色等），学习无孔烫豆技巧让作品更精致。开始分色购买常用颜色的豆子，用镊子精确操作。参考博主「迷人的大门牙」「一只橘狸」的教程系统学习。时间投入：每周2-4小时。"
+          },
+          {
+            "label": "阶段3 · 1-3个月",
+            "title": "进阶玩家",
+            "detail": "挑战大幅拼接作品（多块底板拼合），尝试制作挂件、坠饰等实用作品。学习自己用像素画工具设计图纸，不再只依赖现成图纸。装备升级：分色豆收纳盒、调温熨斗、多块大底板。作品开始有个人风格。"
+          },
+          {
+            "label": "阶段4 · 3个月以上",
+            "title": "长期玩家",
+            "detail": "建立自己的颜色豆库，能完成复杂大图（如麦当劳全家桶、动漫场景等完整系列）。开始挑战100件系列打卡计划（参考博主「甜菜面包」的拼豆日记）。总投入可控制在300-500元内，产出作品数量可观，性价比极高。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_690d8ae50000000003010a29",
+        "xhs_68a5b32e000000001d003fef",
+        "xhs_6955f865000000001e00b3d8"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "手残党能玩吗？第一次会不会做坏？",
+            "a": "完全可以！拼豆是容错率极高的手工，第一次跟着图纸摆豆不需要任何绘画或手工基础。选小尺寸简单图案入门，配合镊子操作，几乎人人都能完成第一件作品。小红书上有大量「第一次拼豆」的成功案例可以参考。"
+          },
+          {
+            "q": "熨烫时最容易翻车的原因是什么？",
+            "a": "新手最常见的翻车原因有三个：①熨斗开了蒸汽档导致豆子变形或移位；②温度太高或停留太久导致过度熔融、轮廓消失；③温度太低导致豆子粘合不牢。关键原则：中温、无蒸汽、缓慢画圈、看到融合迹象立即停止。"
+          },
+          {
+            "q": "作品怎么保存？会不会掉色或变脆？",
+            "a": "双面熨烫后的拼豆作品结构稳固，不易碎裂。日常避免长时间阳光直射以防褪色。作品可放入展示框、悬挂展示，或用透明袋单独收纳。做成挂件的可以涂一层清漆增加耐用性。"
+          },
+          {
+            "q": "完全可以在家做吗？需要专门的场地吗？",
+            "a": "完全可以在家做，这正是拼豆受欢迎的原因之一。只需要一张桌子、家用熨斗（已有即可）、底板和豆子，不需要任何专业设备或特殊场地。整个过程干净、安静，不会影响他人。"
+          },
+          {
+            "q": "豆子去哪里买？颜色够用吗？",
+            "a": "豆子可在淘宝、京东等平台搜索「拼豆」购买，有混色包和分色包两类。新手建议先买混色包体验，进阶后按需购买单色分色豆。市面上颜色种类非常丰富，足以还原大多数图案。"
+          },
+          {
+            "q": "去哪里找图纸？",
+            "a": "小红书是最好的图纸来源，搜索「拼豆图纸」「拼豆附图纸」可以找到大量博主分享的免费图纸，例如麦当劳全家桶、海绵宝宝等热门主题都有现成图纸。进阶后可以用像素画工具自己设计。"
+          },
+          {
+            "q": "拼豆作品还能做成什么？只能挂着吗？",
+            "a": "拼豆作品用途很多：可以穿绳做成手机挂件、钥匙扣、项链坠子；可以装入相框做成摆件装饰房间；也可以拼接大图做成墙面装饰画。博主「一口巧可颂」有专门介绍拼豆坠饰的实用技巧分享。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_685a286f000000001202f8e2",
+        "xhs_69303ca30000000019027689",
+        "xhs_69c267b4000000001b003e80",
+        "xhs_68a5b32e000000001d003fef"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_685a286f000000001202f8e2": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/685a286f000000001202f8e2?xsec_token=ABYwGRc2WDumHx-IGFLS_tGpEsim4f_lLfmgJf_1tfZRo=&xsec_source=pc_search",
+      "title": "新手入坑拼豆指南｜无孔烫豆教程详细版",
+      "author": "一只橘狸",
+      "likes": 277513,
+      "snippet": "新手入坑拼豆指南｜无孔烫豆教程详细版",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170633/1d73fdb91e5179cda52fc626bf7b5874/1040g00831j3ng6mh1a605pqam152qr8qgq36ht0!nc_n_webp_mw_1"
+    },
+    "xhs_6911d9a000000000040104e5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6911d9a000000000040104e5?xsec_token=ABwgPau8kwMLxupYjP8NxvJyoRQ85azz5N1yJrqVYr8Dc=&xsec_source=pc_search",
+      "title": "新手拼豆教程",
+      "author": "迷人的大门牙",
+      "likes": 112901,
+      "snippet": "新手拼豆教程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170636/f407ffe5acd7829863f752e34f9d198d/1040g2sg31on3u2g3gg005o375cd0bllcj3tk5fo!nc_n_webp_mw_1"
+    },
+    "xhs_68a5b32e000000001d003fef": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68a5b32e000000001d003fef?xsec_token=ABMsntJ3xJ13QqKvxkqv5XCRTttosGWD12wjlqL4zPA_Y=&xsec_source=pc_search",
+      "title": "写了3k的拼豆攻略给新入坑和想入坑的姐妹们",
+      "author": "急急如律令",
+      "likes": 45361,
+      "snippet": "写了3k的拼豆攻略给新入坑和想入坑的姐妹们",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170633/0151bb9ff0e9f4a6af20c95d0f5bccf2/1040g00831ldg43svks6g5n2d4e64m3ilninalm8!nc_n_webp_mw_1"
+    },
+    "xhs_68919c930000000023033f99": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68919c930000000023033f99?xsec_token=ABitijX24BDuqwVgSmHgAsjkHi202UDJIEZ-pb4p_VUYs=&xsec_source=pc_search",
+      "title": "麦当劳全家桶🍟（附图纸）",
+      "author": "牛奶炖萝卜",
+      "likes": 30666,
+      "snippet": "麦当劳全家桶🍟（附图纸）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170638/9439ccfd1688871eba192274ed447c80/notes_pre_post/1040g3k031kpsj77cj44g5ohg2fv40mepqu806b0!nc_n_webp_mw_1"
+    },
+    "xhs_69297d42000000001e035518": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69297d42000000001e035518?xsec_token=ABcKa-T-PkfkOTsmNMU2NKSW4JA95CpNFyD3LXIXm5_LI=&xsec_source=pc_search",
+      "title": "小爱课堂｜拼豆教学",
+      "author": "嘟粒爱拼豆",
+      "likes": 26541,
+      "snippet": "小爱课堂｜拼豆教学",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170633/8712d16cc3cc25c894266e5e88952669/110/0/01e9297d0f6384e10010000000019aca109fd9_0.jpg!nc_n_webp_mw_1"
+    },
+    "xhs_6955f865000000001e00b3d8": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6955f865000000001e00b3d8?xsec_token=ABlxX07vsjWLVigSJ0aQx0eJwASKUGaHVTReSTo8k8Y48=&xsec_source=pc_search",
+      "title": "先叠个甲本人也是第一次拼豆",
+      "author": "棂与",
+      "likes": 22108,
+      "snippet": "先叠个甲本人也是第一次拼豆",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170636/27c960c5a3f75d50530e931e16d4b55e/1040g2sg31qpiqv9tn0d05op301bovnihj5eh0g0!nc_n_webp_mw_1"
+    },
+    "xhs_67c3ab91000000000900f15f": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67c3ab91000000000900f15f?xsec_token=ABcWWNPrxN5peoVzq0kBZp4j-lTOs-5k0jqzV205YN2qI=&xsec_source=pc_search",
+      "title": "新手第一次拼豆熨豆全过程",
+      "author": "一瓶茉莉清茶",
+      "likes": 21288,
+      "snippet": "新手第一次拼豆熨豆全过程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170636/0b67318b9d51919134aee8b9b1bd637d/1040g2sg31egou0ah0sdg5opdqr88sjk7lcnftc8!nc_n_webp_mw_1"
+    },
+    "xhs_69303ca30000000019027689": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69303ca30000000019027689?xsec_token=ABDBH-EoVHL-vzMOlCt4J0YSqIpm_qiw-ZGobiDPj23yQ=&xsec_source=pc_search",
+      "title": "拼豆新手必看！告别翻车，保命指南",
+      "author": "是可可吖yu",
+      "likes": 14642,
+      "snippet": "拼豆新手必看！告别翻车，保命指南",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170636/a9a9ecadcfb677f5b5c11612d2f781aa/1040g00831pkpc4m1kg004b9kkeh9cae7g2931i8!nc_n_webp_mw_1"
+    },
+    "xhs_690d8ae50000000003010a29": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/690d8ae50000000003010a29?xsec_token=ABXwsgbR1GyDb8sNtgSRvDtKy6uo8o6jYj98UtrwV0qSY=&xsec_source=pc_search",
+      "title": "拼豆日记📔- 海绵宝宝🧽（5/100）",
+      "author": "甜菜面包",
+      "likes": 12517,
+      "snippet": "拼豆日记📔- 海绵宝宝🧽（5/100）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170638/46abf09135f388c9c38e2d29b4e3e7c0/notes_pre_post/1040g3k831oit079bmg905q2mnjr6s161j8uuo48!nc_n_webp_mw_1"
+    },
+    "xhs_69c267b4000000001b003e80": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69c267b4000000001b003e80?xsec_token=ABrES8dy8g5CI8weUDrgTp4jNN7asfzqYYwJVvYv6CKM4=&xsec_source=pc_search",
+      "title": "拼豆坠有用的一期来啦🌟！！",
+      "author": "一口巧可颂",
+      "likes": 12515,
+      "snippet": "拼豆坠有用的一期来啦🌟！！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170638/7bea8988a4ce822cb7a9eb2404e2a41f/notes_pre_post/1040g3k031u3hcbshhu205ot7tfgptdggtspb428!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

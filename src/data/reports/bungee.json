@@ -1,0 +1,317 @@
+{
+  "hobby_id": "bungee",
+  "hobby_name": "蹦极",
+  "category": "physical",
+  "neon_color": "#FF6B35",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 蹦极：极限恐惧与极致快感的完美结合\n\n蹦极（Bungee Jumping）是一项将人从高处借助弹性绳索弹射而下的极限运动。参与者站在高台边缘，系好专业弹力绳后纵身跳下，在数十米的自由落体与反弹中感受强烈的肾上腺素飙升。\n\n### 体感描述\n- **跳前**：站在台上俯视地面，恐惧感会迅速积累，心跳加速，腿脚发软，这正是蹦极最独特的\"恐惧前戏\"。\n- **下落瞬间**：身体高速下坠，带来强烈的失重感和速度冲击，令人无比刺激。\n- **反弹阶段**：弹绳带动身体多次上下反弹，部分人会感到头晕甚至想吐，这是蹦极和跳伞最大的体感差异。\n\n### 适合人群\n适合喜欢挑战自我、追求肾上腺素飙升体验的人群，尤其是想要突破心理极限的年轻人。对高空有极度恐惧或有心脏病、高血压等病史者不建议参与。\n\n### 为什么近年越来越火\n随着各地景区将蹦极与自然风光结合（如峡谷、天坑等），蹦极场景愈发震撼，加上社交媒体上\"第一视角\"视频广泛传播，越来越多年轻人将蹦极列为\"人生必体验\"清单项目。"
+      },
+      "citations": [
+        "xhs_66f6a774000000002c02fba8",
+        "xhs_66f7e969000000002c0291cf",
+        "xhs_669863580000000025016a32"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥300-500",
+            "items": [
+              "景区单次蹦极票（普通平台高度）",
+              "现场租用安全装备（含弹力绳、护具）"
+            ],
+            "note": "国内主流景区单次体验价格，含基础安全装备租用，适合第一次尝鲜"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥500-1000",
+            "items": [
+              "知名景区高空蹦极票（如三峡蹦极等）",
+              "第一视角录像服务",
+              "纪念照片套餐"
+            ],
+            "note": "选择知名景点、更大落差的蹦极，并购买视频纪念服务，体验感和留存感更强"
+          },
+          {
+            "name": "资深",
+            "price_range": "¥1000以上",
+            "items": [
+              "顶级高空蹦极（峡谷/天坑等特殊地形）",
+              "专业摄影跟拍服务",
+              "多次畅跳套餐",
+              "交通住宿成本"
+            ],
+            "note": "前往专程打卡顶级蹦极地，加上往返交通和住宿，整体预算需1000元以上"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_669863580000000025016a32",
+        "xhs_66f6a774000000002c02fba8",
+        "xhs_685a77f3000000000d01b834"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "venue",
+      "title": "场地",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "三峡蹦极",
+            "description": "位于宜昌，依托三峡峡谷壮阔风景，落差大、视野震撼，是国内知名蹦极打卡地，适合追求极致体验的进阶玩家。",
+            "meta": "湖北宜昌 · 全年可玩（建议避开雨季） · 门票约¥388-500",
+            "url": null
+          },
+          {
+            "title": "猴耳天坑蹦极",
+            "description": "位于广东，天坑地形独特，蹦极体验结合自然奇观，网红打卡热点，但有避雷帖提示需注意现场服务细节，建议提前做功课。",
+            "meta": "广东 · 全年可玩 · 具体票价参考官方",
+            "url": null
+          },
+          {
+            "title": "各大城市游乐园蹦极",
+            "description": "各大城市游乐园内设有蹦极项目，高度相对较低（20-40米），适合初次体验的新手入门，流程规范安全保障好。",
+            "meta": "全国主要城市 · 全年开放 · ¥100-300/次",
+            "url": null
+          },
+          {
+            "title": "雨天蹦极（户外景区）",
+            "description": "部分户外蹦极场地在雨天仍可体验（视安全情况而定），雨中蹦极别有一番体感，但需注意安全评估，场地方会根据天气决定是否开放。",
+            "meta": "户外景区 · 雨天需确认开放状态",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_669863580000000025016a32",
+        "xhs_689d46e9000000001c00c9af",
+        "xhs_685a77f3000000000d01b834"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥0（全程租用）",
+            "items": [
+              "弹力绳（景区提供）",
+              "脚踝固定装置（景区提供）",
+              "安全背带（景区提供）"
+            ],
+            "note": "初次体验完全不需要自购任何装备，景区会提供全套安全装备，穿着运动鞋和舒适衣物即可"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥200-600",
+            "items": [
+              "运动护腕/护踝（自购，约¥50-150）",
+              "GoPro运动相机（可租可买，¥200-400/次租赁）",
+              "防风运动眼镜（¥50-200）"
+            ],
+            "note": "想要记录第一视角画面，可自备运动相机；护具自购增加安全感，但景区装备通常已足够"
+          },
+          {
+            "name": "资深",
+            "price_range": "¥1000-3000",
+            "items": [
+              "GoPro Hero系列运动相机（¥1500-3000）",
+              "专业运动护具套装（¥200-500）",
+              "冲锋衣/防风外套（¥300-800）"
+            ],
+            "note": "频繁体验者可自购运动相机留存精彩瞬间；高空蹦极风大，防风外套能大幅提升舒适度"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_61e3c48a000000002103e6f1",
+        "xhs_66f6a774000000002c02fba8",
+        "xhs_6123021b000000000102b77c"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_try",
+      "title": "第一次怎么玩",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "出发前确认身体状况",
+            "detail": "确认自己无心脏病、高血压、癫痫、骨质疏松等禁忌症。女性生理期建议暂缓，不适合剧烈运动时不要强行体验。"
+          },
+          {
+            "title": "提前查询场地天气与开放状态",
+            "detail": "雨天、大风天气部分户外蹦极场地可能暂停开放，出发前致电景区或查看官方通知，避免白跑一趟。"
+          },
+          {
+            "title": "穿着合适的运动服装",
+            "detail": "穿紧身或合身运动装，避免宽松衣物在下落时遮挡视线或缠绕。穿运动鞋，确保鞋带系紧；长发建议扎起。"
+          },
+          {
+            "title": "跳前认真听教练讲解",
+            "detail": "教练会演示标准跳跃姿势和注意事项，务必认真聆听。按照教练指导完成身体绑定和安全检查，不要随意调整装备。"
+          },
+          {
+            "title": "站上跳台后做好心理建设",
+            "detail": "站在跳台向下看会产生强烈恐惧感，这是正常反应。深呼吸，听从工作人员倒计时指引，果断起跳——犹豫越久越难跳。"
+          },
+          {
+            "title": "跳跃时身体放松，张开双臂",
+            "detail": "起跳瞬间身体尽量放松，双臂展开，避免因肌肉紧绷加重反弹时的不适感。"
+          },
+          {
+            "title": "反弹阶段不要挣扎",
+            "detail": "下落后弹绳会带动身体多次反弹，此阶段保持放松，不要试图控制身体姿态，等待工作人员回收即可。"
+          },
+          {
+            "title": "结束后休息片刻再离开",
+            "detail": "部分人蹦极后会头晕腿软，下台后在休息区坐一会儿，补充水分，确认身体状态良好再继续行程。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_61e3c48a000000002103e6f1",
+        "xhs_6123021b000000000102b77c",
+        "xhs_669863580000000025016a32"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "蹦极安全吗？有受伤风险吗？",
+            "a": "正规景区的蹦极安全设施经过严格检测，整体安全性较高。但有案例显示，非正规或\"窝囊版\"蹦极设施存在隐患，曾出现摔伤事故。建议选择有资质、口碑好的正规景区，跳前务必配合教练完成安全检查，切勿在未完成绑定时起跳。"
+          },
+          {
+            "q": "蹦极的失重感强烈吗？会吐吗？",
+            "a": "蹦极的失重感相对跳伞并不算最强烈，主要刺激来自高速下落瞬间。反弹阶段对部分人影响较大，可能引发头晕甚至想吐的感觉。体质敏感者跳前避免空腹或吃太饱，跳后休息一会儿通常可缓解。"
+          },
+          {
+            "q": "对体能要求高吗？胖子能跳吗？",
+            "a": "蹦极对体能要求不高，无需特殊训练。但各场地对参与者有体重限制（通常50kg-120kg区间），超出范围可能无法体验，出发前需确认具体场地的体重要求。"
+          },
+          {
+            "q": "极度恐高的人能玩蹦极吗？",
+            "a": "极度恐高者需谨慎评估。站在跳台俯视地面的恐惧感非常真实，心理建设压力较大。部分人会在台上长时间无法起跳，建议先从较低高度的项目尝试，循序渐进挑战。有心理疾病史者建议咨询医生后再决定。"
+          },
+          {
+            "q": "蹦极和跳伞哪个更刺激？",
+            "a": "体感差异明显：跳伞无明显失重感，在空中如同飞翔，体感舒适度更高；蹦极以跳前恐惧和反弹冲击为主要刺激，部分人认为反弹阶段较难受。追求持续快感推荐跳伞，追求\"跨越恐惧\"的心理突破感推荐蹦极。"
+          },
+          {
+            "q": "雨天可以蹦极吗？",
+            "a": "部分户外蹦极场地在小雨天气仍可开放，雨中蹦极有独特体验感。但大风、雷雨、能见度低等恶劣天气通常会暂停。建议出发前联系场地确认当日是否正常运营。"
+          },
+          {
+            "q": "蹦极之后会\"上瘾\"吗？",
+            "a": "有不少体验者反映，跳过一次之后反而想再跳，因为恐惧前的极度紧张与跳后的解脱感形成强烈对比，带来独特的心理满足感。这是肾上腺素带来的正向反馈，是蹦极让人\"一次又一次\"回来的原因。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_66f6a774000000002c02fba8",
+        "xhs_69e98f0f000000001d018271",
+        "xhs_66f7e969000000002c0291cf",
+        "xhs_685a77f3000000000d01b834"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_685a77f3000000000d01b834": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/685a77f3000000000d01b834?xsec_token=ABYwGRc2WDumHx-IGFLS_tGmCHVgkqviNHxDHTxVl00BM=&xsec_source=pc_search",
+      "title": "Mini Vlog｜雨天蹦极",
+      "author": "郑邱源",
+      "likes": 2758,
+      "snippet": "#vlog[话题]# #男生vlog[话题]# #游乐园[话题]# #蹦极[话题]#",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170612/1b38b4904e428f56559f743f01251264/1040g2sg31j41ahmdgu704a6kag8eqrqmpve76j0!nc_n_webp_mw_1"
+    },
+    "xhs_69e98f0f000000001d018271": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69e98f0f000000001d018271?xsec_token=AB7GXaWj9rM6kvc3Ps_8JYOadAopp1DREgQn-VTbEA3dw=&xsec_source=pc_search",
+      "title": "",
+      "author": "星耀国风",
+      "likes": 1204,
+      "snippet": "男子体验“窝囊版”蹦极时摔伤，向景区索赔几十万元",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170614/71daaa37d95f64fb6ad638afa47c2f11/spectrum/1040g34o31v9ouh7b3m105p7mmfughk05ajk7aho!nc_n_webp_mw_1"
+    },
+    "xhs_6123021b000000000102b77c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6123021b000000000102b77c?xsec_token=ABI8wUGlwXxNdG_o1d2dX216l7GP8UPbtG3TFLDIHmTcw=&xsec_source=pc_search",
+      "title": "想要耍帅，那也是有步骤的",
+      "author": "小贝",
+      "likes": 1068,
+      "snippet": "想要耍帅，那也是有步骤的",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170610/109b3aa5ac41f0d8745bf47c22f21893/8c5f1f7e-c9a3-3bec-94d4-02f8aa1a620c!nc_n_webp_mw_1"
+    },
+    "xhs_669863580000000025016a32": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/669863580000000025016a32?xsec_token=ABn5GTdz3EkTaF5y6mSsIZj09wVNa2SkiZa7SN8rczcTE=&xsec_source=pc_search",
+      "title": "蹦极全过程",
+      "author": "勇往直前",
+      "likes": 960,
+      "snippet": "视频有点长，亲们耐心看完#挑战胆量的娱乐项目[话题]# #宜昌城市形象爆款视频[话题]# #三峡蹦极[话题]#",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170610/cea9633659e255a0dd3bdb43832157b1/1040g2sg315cgbgcihadg5o8ahu70ao7tp4r8dg0!nc_n_webp_mw_1"
+    },
+    "xhs_66f6a774000000002c02fba8": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66f6a774000000002c02fba8?xsec_token=ABnhPbAmZ-8lJEk0gEp-9bHkK73KVRryBAzM-vyZ2bpos=&xsec_source=pc_search",
+      "title": "跳伞 蹦极 过山车 哪个体感最不适。",
+      "author": "没有什么能够阻挡",
+      "likes": 922,
+      "snippet": "个人认为，三项之中，跳伞是体感最好的，没有失重感，也没有什么生理性的不适。跳出飞机一瞬间有点分不清天空和地面，几秒钟后身体正过来，就感觉自己真的在飞翔，那种感觉太棒了。除了跳伞教练带你在空中转圈有点晕以外，体感舒适度排第一。\n蹦极主要是跳之前的心理建设，站在跳台上向下看，有点恐怖。跳下去的一瞬间，身体迅速下落，非常刺激，失重感并不强烈。下落之后的几次反弹，真的是要命，弹🉐人头晕想吐。\n过山车刺激感",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170614/f2111b914c3719e20f70cb45b07b8fce/1040g0083188i5u8bk66g5n4orcuknevib61knc8!nc_n_webp_mw_1"
+    },
+    "xhs_66f7e969000000002c0291cf": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66f7e969000000002c0291cf?xsec_token=AB_1XKFf_ProRCUsgN26BcaKeduA-h4R7Z8NB2o4XIno4=&xsec_source=pc_search",
+      "title": "好性感。。恋痛姐。。",
+      "author": "arrebolcha.",
+      "likes": 849,
+      "snippet": "取得极致快感前的极致恐惧可以让姐爽到。。这不就是变相的恋痛么。。\n蹦极前说不喜欢粗暴的提升肾上腺素。。结果为了快感前的恐惧玩了一次又一次。。\n很变态。。很性感。。很火辣。。\n#张若昀[话题]# #花儿与少年3[话题]#\n顺便附赠一张萌妹\n反差我胡吃海喝",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170614/8212e581b7e87dae0d30d584a82ffaeb/1040g2sg3189pfig43udg5ni60vvg886oir0hlb0!nc_n_webp_mw_1"
+    },
+    "xhs_689d46e9000000001c00c9af": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/689d46e9000000001c00c9af?xsec_token=ABmvLI_h-BRxxbPSCH_VmBlLN77GAjN2u_cSJ9s1kZ37c=&xsec_source=pc_search",
+      "title": "这是一条猴耳天坑超长的避雷帖！！！！",
+      "author": "小诺同学",
+      "likes": 792,
+      "snippet": "这是一条猴耳天坑超长的避雷帖！！！！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170616/59b44f76ccb66e910247437f38e811ff/1040g00831l594pv9344g4a3phh7vhe2qvhcholo!nc_n_webp_mw_1"
+    },
+    "xhs_61e3c48a000000002103e6f1": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/61e3c48a000000002103e6f1?xsec_token=AB5_thHmcQBj2V2HZWYu8ts8C8cYA3KC1T9YrM5wCzp-M=&xsec_source=pc_search",
+      "title": "教练亲自表演——适合初学者的蹦极动作",
+      "author": "泠澈丶",
+      "likes": 658,
+      "snippet": "#蹦极[话题]# @视频薯 @小红书视频号",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170610/d3bb2c198168f2c1f705f9800c8756ef/01021g01kmg2w25e05h010wgpx8cfhbibl!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

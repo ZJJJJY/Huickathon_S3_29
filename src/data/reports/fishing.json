@@ -1,0 +1,363 @@
+{
+  "hobby_id": "fishing",
+  "hobby_name": "野钓",
+  "category": "outdoor",
+  "neon_color": "#34D399",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 野钓——让城市人重新找回「静」的能力\n\n野钓，即在自然水域（江河、湖泊、水库、山塘等）进行的休闲垂钓活动。与黑坑、竞技钓不同，野钓最大的魅力在于**不确定性**——你永远不知道下一竿会钓到什么，这份期待感让无数打工人欲罢不能。\n\n### 体验感\n野钓的节奏极慢。清晨五点背着渔具走向水边，听着鸟鸣布置钓位，随后便是长达数小时的「守候」。浮漂轻轻一顿、手腕一抬，那一刻的专注与爆发感，是日常工作中很难感受到的纯粹。\n\n### 为什么适合现代人\n- **强制断网**：守钓时自然减少手机使用，是真正意义上的「数字排毒」\n- **极低门槛**：200 元即可配齐一套基础装备出门钓鱼\n- **可独可群**：一个人独钓享受孤独，呼朋引伴则多了野餐烧烤的社交属性\n- **贴近自然**：四季景色、晨雾水汽，每次出行都是一次低成本的自然疗愈\n\n从纯小白到资深钓手，野钓的学习曲线平滑而有趣——从认识浮漂、学会找底，到研究鱼情、选点布饵，每一步都有新的成就感等着你。"
+      },
+      "citations": [
+        "xhs_66e2289c00000000250323a2",
+        "xhs_6943f85d000000001e034d36",
+        "xhs_67f4d5cc000000000f03181c"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥0-200",
+            "items": [
+              "借用/淘二手鱼竿",
+              "简易线组（主线+子线）",
+              "袋装浮漂+铅坠",
+              "散装鱼钩",
+              "蚯蚓/玉米等天然饵料"
+            ],
+            "note": "200 元以内可搞定全套基础装备，适合先试试感觉再决定是否深入"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥300-800",
+            "items": [
+              "入门级鱼竿（碳素手竿/台钓竿）",
+              "基础绕线轮或台钓组",
+              "标准浮漂套装",
+              "鱼护+抄网",
+              "钓鱼桶/饵料盒",
+              "常用商品饵 2-3 款"
+            ],
+            "note": "自备基础套装，满足日常野钓需求，装备齐全不求人"
+          },
+          {
+            "name": "精致玩家",
+            "price_range": "¥1500+",
+            "items": [
+              "中高档台钓竿或路亚竿",
+              "品牌绕线轮",
+              "多支浮漂（不同水深/鱼种）",
+              "钓椅/钓箱",
+              "遮阳伞/防晒套装",
+              "多品类饵料+小药",
+              "鱼探仪（可选）"
+            ],
+            "note": "追求舒适与效率，装备系统化，适合已养成固定钓鱼习惯的玩家"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67bfd344000000000302be6c",
+        "xhs_68ef9fc7000000000303a3fb",
+        "xhs_69c094cb000000001a029dad",
+        "xhs_68494d51000000000f0399e6"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备选择",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "鱼竿",
+            "description": "新手首选 4.5m-5.4m 碳素手竿，轻便易操控；台钓爱好者可选台钓竿配绕线轮。避免一开始买太贵，先用百元入门款练手感。",
+            "meta": "用途：投饵抛线、遛鱼收线 · 推荐预算：¥50-300",
+            "url": null
+          },
+          {
+            "title": "线组（主线+子线+鱼钩）",
+            "description": "主线一般选 2-3 号，子线 0.8-1.5 号，钩型根据目标鱼选择（鲫鱼用袖钩，鲤鱼用伊势尼）。新手注意：子线要比主线细，断线保主线。",
+            "meta": "用途：连接浮漂、铅坠与鱼钩 · 推荐预算：¥20-60",
+            "url": null
+          },
+          {
+            "title": "浮漂",
+            "description": "浮漂是野钓的「眼睛」，用于判断鱼口信号。新手选吃铅适中的枣核型或细长型芦苇浮漂，稳定好读。找底时浮漂调整至半水状态再微调。",
+            "meta": "用途：信号传递、找底调钓 · 推荐预算：¥15-80",
+            "url": null
+          },
+          {
+            "title": "饵料",
+            "description": "新手最简单用蚯蚓（自挖或花几元买），目标鲫鱼/鲤鱼时也可用商品饵。商品饵注意按说明比例开饵，太硬太软都影响上鱼率。",
+            "meta": "用途：诱鱼、钓鱼 · 推荐预算：¥10-50",
+            "url": null
+          },
+          {
+            "title": "抄网+鱼护",
+            "description": "抄网用于将鱼捞出水面，鱼护用于暂时存放钓获。新手容易忽略，强烈建议配备，否则遛起大鱼会很狼狈。",
+            "meta": "用途：起鱼、存鱼 · 推荐预算：¥30-100",
+            "url": null
+          },
+          {
+            "title": "钓鱼桶/工具包",
+            "description": "用于存放小工具、饵料、换洗装备。防水桶还能临时装活鱼带回。新手注意不要忘带摘钩器，避免徒手摘钩被刺伤。",
+            "meta": "用途：收纳工具、存放鱼获 · 推荐预算：¥30-80",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68ef9fc7000000000303a3fb",
+        "xhs_68494d51000000000f0399e6",
+        "xhs_69c094cb000000001a029dad",
+        "xhs_67bfd344000000000302be6c"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "去哪里玩",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "城郊水库",
+            "description": "水域宽阔、水质较好，鱼种丰富（鲫鱼、鲤鱼、草鱼常见）。岸边多有现成钓位，新手友好。注意不要在泄洪区和禁钓区垂钓。",
+            "meta": "全国通用 · 春秋最佳 · 难度：低 · 适合新手/家庭出行",
+            "url": null
+          },
+          {
+            "title": "农村鱼塘周边野河",
+            "description": "小河小溪流水钓，鱼口活跃，适合小物钓（小鲫鱼、餐条、马口）。轻量装备即可，不需要远投，非常适合第一次体验钓鱼的新手。",
+            "meta": "农村/城郊 · 春夏秋三季 · 难度：低 · 适合纯小白",
+            "url": null
+          },
+          {
+            "title": "大型江河缓流区",
+            "description": "江河钓需要一定技术，选择回水湾、草洲边等缓流区域，可钓到鲤鱼、草鱼等大型鱼种。需注意汛期安全，水位变化快勿在陡坡边作钓。",
+            "meta": "各地主干江河 · 春秋为主 · 难度：中 · 适合有基础的钓手",
+            "url": null
+          },
+          {
+            "title": "山塘/梯田水库",
+            "description": "南方地区常见，水质清澈、景色优美，鱼密度适中，适合休闲慢钓。钓点选择水草边、树荫下效果好。注意山路行车安全。",
+            "meta": "南方丘陵地区 · 四季可钓 · 难度：低-中 · 适合摄影+钓鱼爱好者",
+            "url": null
+          },
+          {
+            "title": "公园/城市湖泊",
+            "description": "部分城市公园湖泊允许垂钓（需提前确认是否禁钓）。交通便利，适合利用下班后的碎片时间出钓，是城市钓友最易实现的选择。",
+            "meta": "城市公园 · 全年 · 难度：低 · 适合上班族/碎片时间钓鱼",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_66b2135c000000001e01a815",
+        "xhs_6835edf6000000002202e1ce",
+        "xhs_67f4d5cc000000000f03181c"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_outing",
+      "title": "第一次怎么开始",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "出发前查天气与风向",
+            "detail": "重点看风力（超过5级不建议出钓，浮漂难稳）、降水概率和温度变化。雷雨天严禁在水边持碳素竿，有触电风险。"
+          },
+          {
+            "title": "确认钓点是否为允许垂钓区域",
+            "detail": "部分水库、河段设有禁钓区或需要购票。出发前查询当地规定，避免被驱离或罚款，同时留意禁渔期（通常为每年4-6月）。"
+          },
+          {
+            "title": "备齐基础装备并检查线组",
+            "detail": "清点鱼竿、浮漂、铅坠、鱼钩、饵料、抄网、鱼护是否齐全。在家提前穿好线组，现场再调整浮漂，节省时间。"
+          },
+          {
+            "title": "到达后先观察水域环境",
+            "detail": "选择水草边、树荫下、回水湾等鱼儿聚集区域落座。避开陡峭岸边和软烂泥地，确保站立稳固，特别是雨后地面湿滑时。"
+          },
+          {
+            "title": "架好竿架、布置钓位",
+            "detail": "安装竿架，将鱼竿固定好，放置饵料盒、钓鱼桶于顺手位置。坐稳后再开饵，避免站立操作时重心不稳落水。"
+          },
+          {
+            "title": "调漂找底",
+            "detail": "先挂铅皮找到水底深度，再逐步调整浮漂露出水面目数（调四钓二是常见台钓入门调法）。找准底后方可正式钓鱼，否则浮漂信号失真。"
+          },
+          {
+            "title": "开饵投喂打窝",
+            "detail": "第一竿先用饵料打几竿窝料，让鱼聚集后再正式垂钓。初学者用蚯蚓或商品饵均可，按说明比例开饵，软硬适中。"
+          },
+          {
+            "title": "看漂提竿，动作不要过猛",
+            "detail": "浮漂出现明显下顿或上浮时提竿。新手常犯的错误是提竿太猛，容易切线或伤鱼。中鱼后保持竿尖向上，用竿弧度遛鱼，鱼累后再抄网。"
+          },
+          {
+            "title": "收竿离场时清理钓位垃圾",
+            "detail": "将饵料残渣、包装袋、废弃线钩全部带走。不在水边遗留垃圾是钓鱼人的基本素养，也有助于保护野钓资源。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68e9b904000000000700bd6a",
+        "xhs_67f4d5cc000000000f03181c",
+        "xhs_6943f85d000000001e034d36",
+        "xhs_6835edf6000000002202e1ce"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全没钓过鱼，第一次能钓到吗？",
+            "a": "完全有可能。选择鱼密度高的农村野河或城郊水库，用蚯蚓作饵，基本都能有所收获。第一次不要追求大鱼，以\"体验流程\"为目标即可，能感受到鱼口信号已经很有成就感。"
+          },
+          {
+            "q": "200元能买到什么装备，够用吗？",
+            "a": "完全够用。根据帖子经验，200元可配齐鱼竿、线组、浮漂、鱼钩、铅坠和饵料，满足基础野钓需求。建议先用低价装备把基本技术练熟，再根据自己的需求升级。"
+          },
+          {
+            "q": "一个人能去野钓吗，安全吗？",
+            "a": "可以独钓，但需注意安全：①选择有人经过的常规钓点，不去偏僻无信号区域；②雷雨天禁止出钓；③不在陡峭岸边、堤坝边缘坐钓；④告知家人或朋友去向和预计返回时间。"
+          },
+          {
+            "q": "钓鱼要不要考证或办证？",
+            "a": "休闲垂钓一般不需要持证，但需遵守当地禁渔期和禁钓区规定。部分地区对网具、电鱼有严格限制，普通鱼钩垂钓通常合法，出发前建议查询当地渔政规定。"
+          },
+          {
+            "q": "在哪里找钓点，可以在网上查吗？",
+            "a": "有一点需要特别注意：资深钓友建议不要在社交平台公开分享精确钓点，原因是一旦传播会造成大量人员涌入，破坏鱼情和环境。建议实地探寻或向当地老钓友私下请教，更推荐\"自己发现新钓点\"的乐趣。"
+          },
+          {
+            "q": "天气热/冷的时候还能钓吗？",
+            "a": "可以，但需调整策略。夏季高温时鱼在深水或阴凉处，建议早晨和傍晚出钓，中午收竿休息；冬季鱼活性低，选择晴天中午气温最高时出钓，钓深水效果较好。春秋季节是野钓黄金期，全天均可。"
+          },
+          {
+            "q": "新手入坑最容易犯哪些错误？",
+            "a": "①浮漂没调好就开钓，导致信号混乱；②提竿动作过猛切断子线；③没有打窝就钓鱼，鱼不聚集；④钓位选择不当（选在无鱼区域）；⑤忽视禁渔规定。新手务必先学会找底和调漂，这是野钓最基础也最重要的技能。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67f4d5cc000000000f03181c",
+        "xhs_66b2135c000000001e01a815",
+        "xhs_66e2289c00000000250323a2",
+        "xhs_68e9b904000000000700bd6a"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_6835edf6000000002202e1ce": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6835edf6000000002202e1ce?xsec_token=ABg6Irl7P4sipnd2QGZMQwouaqVqRj1ZPuw2coOpqDQoM=&xsec_source=pc_search",
+      "title": "小物钓钓鱼新手入门，保姆级教学！",
+      "author": "风雨同陆",
+      "likes": 3309,
+      "snippet": "小物钓钓鱼新手入门，保姆级教学！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/14120526c4e508181017db6956216042/1040g2sg31i0bdjn86s505nkqrrh098go1irh73o!nc_n_webp_mw_1"
+    },
+    "xhs_67bfd344000000000302be6c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67bfd344000000000302be6c?xsec_token=ABlLBBQZY9qEMvBqGBs3MRIK3skR3-cAtrnc80iKWDM44=&xsec_source=pc_search",
+      "title": "新手入坑指南，200元搞定全套钓鱼装备",
+      "author": "橙猫猫",
+      "likes": 2872,
+      "snippet": "新手入坑指南，200元搞定全套钓鱼装备",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/29bef604876989318afef06046efbab6/spectrum/1040g0k031ed0klks16005nsp5veg909f05nkvcg!nc_n_webp_mw_1"
+    },
+    "xhs_68e9b904000000000700bd6a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68e9b904000000000700bd6a?xsec_token=AB4nBEmkC5MFgTcq5kIULaMulOeXykQX6wjeAVOJzlPzE=&xsec_source=pc_search",
+      "title": "新手钓鱼入门详细教程，钓鱼怎么找底？",
+      "author": "一分钟家事研究所",
+      "likes": 2266,
+      "snippet": "新手钓鱼入门详细教程，钓鱼怎么找底？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/9a5817c8df63a1bd163c13b393eb86fb/spectrum/1040g0k031nfu1q5r4q005pr6ae269f5pri56jg8!nc_n_webp_mw_1"
+    },
+    "xhs_67f4d5cc000000000f03181c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67f4d5cc000000000f03181c?xsec_token=ABcUk6nni9hi7ARaOhr--EINgu5vVTq6wPw8Zd7CT4d2M=&xsec_source=pc_search",
+      "title": "新手钓鱼佬务必需要知道的知识",
+      "author": "三画",
+      "likes": 2018,
+      "snippet": "新手钓鱼佬务必需要知道的知识",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/a727e04648eaecefe8a1d582a229b172/notes_pre_post/1040g3k031g0pavpdgg605og0sp541nkk3obj3ag!nc_n_webp_mw_1"
+    },
+    "xhs_66b2135c000000001e01a815": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66b2135c000000001e01a815?xsec_token=ABkRJrkBFnSgiukDL329y0U-4iPZb3c5ENvqG-2TJoxts=&xsec_source=pc_search",
+      "title": "大家尽量不要在平台分享钓点",
+      "author": "走着去",
+      "likes": 1560,
+      "snippet": "大家尽量不要在平台分享钓点",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170723/62bd86336f28bee0bb5e86b3e654f189/1040g0083165iphgqgs504bsuf9p90rfbav8u340!nc_n_webp_mw_1"
+    },
+    "xhs_68ef9fc7000000000303a3fb": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68ef9fc7000000000303a3fb?xsec_token=ABBhMFGHC80RHSMR00_CSsCT9XqT0Bs89ZnDe9gcY6B54=&xsec_source=pc_search",
+      "title": "新手钓鱼装备清单（必买！钱花在刀刃上）",
+      "author": "二蛋钓鱼",
+      "likes": 1288,
+      "snippet": "新手钓鱼装备清单（必买！钱花在刀刃上）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170720/f9eebfa998dac13f705739240b5f133a/notes_pre_post/1040g3k031nlmdvaqmm2g5on7dkknqvdnabkhr8g!nc_n_webp_mw_1"
+    },
+    "xhs_6943f85d000000001e034d36": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6943f85d000000001e034d36?xsec_token=ABG8PFH9AjhopHsj-VNvLyBmdFRBr0Fp1Vbb2d65AZzs0=&xsec_source=pc_search",
+      "title": "纯小白钓鱼入门",
+      "author": "啥都能尬",
+      "likes": 1059,
+      "snippet": "纯小白钓鱼入门",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/94c319ca03a408463575484e480bd4a7/1040g2sg31q8273si7od05pm4k7e3ct9d80mnn18!nc_n_webp_mw_1"
+    },
+    "xhs_69c094cb000000001a029dad": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69c094cb000000001a029dad?xsec_token=ABUOQTnPenWxh17VRZ5CUMHj0PABb35kzuYZX4vUsJ1xU=&xsec_source=pc_search",
+      "title": "新手必入基础套装，省钱不踩坑！",
+      "author": "钓鱼知识局",
+      "likes": 678,
+      "snippet": "新手必入基础套装，省钱不踩坑！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/2accf3ab43fd8df3f9730e19fa9f25ba/spectrum/1040g34o31u1o7fmc18105olmmo46skjq2qdc1jo!nc_n_webp_mw_1"
+    },
+    "xhs_68494d51000000000f0399e6": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68494d51000000000f0399e6?xsec_token=ABKe9LXS7M3J5C09YC1qdzdqehuh6hnL9FITOEW2s5Ju8=&xsec_source=pc_search",
+      "title": "新手入坑必看！超全钓鱼装备清单📋",
+      "author": "二蛋钓鱼",
+      "likes": 431,
+      "snippet": "新手入坑必看！超全钓鱼装备清单📋",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170720/3afc45737c6fac353caefb16c9264eb6/notes_pre_post/1040g3k031ij864qsgad05on7dkknqvdn1n1g3bg!nc_n_webp_mw_1"
+    },
+    "xhs_66e2289c00000000250323a2": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66e2289c00000000250323a2?xsec_token=AB5jqnlO78_gccu99DMylTERhKyy6ukB1YZa9xNAR1iBU=&xsec_source=pc_search",
+      "title": "新手钓鱼心路历程",
+      "author": "奶白雪子",
+      "likes": 355,
+      "snippet": "新手钓鱼心路历程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170718/11efde8f4cb768b88fc13eed39198694/1040g2sg317khmehiju705ne6qeng84aqcm0nomo!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

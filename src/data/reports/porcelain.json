@@ -1,0 +1,314 @@
+{
+  "hobby_id": "porcelain",
+  "hobby_name": "瓷器",
+  "category": "collecting",
+  "neon_color": "#A855F7",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 中国瓷器：一门活着的文明语言\n\n瓷器是中国最具代表性的文化符号之一，英文单词 **China** 本身即是「瓷器」的意思。从汉代的原始青瓷，到唐三彩、宋代五大名窑（汝、官、哥、钧、定），再到明清景德镇的青花、粉彩、珐琅彩，中国瓷器跨越两千年，记录着每个朝代的审美趣味与技术水准。\n\n**收藏瓷器的乐趣**远不止「买一件好看的摆件」。它兼具历史解读、工艺研究、审美训练与实物触感于一体——一只杯子在手，你同时在触碰釉色的温润、胎土的厚薄、纹样背后的图像志，以及窑口数百年的传承脉络。正如混子哥所说，读懂中国瓷器，几乎等于读懂了半部中国文化史。\n\n**与「单纯买东西」的区别**在于：收藏需要眼力、需要知识积累、也需要克制。景德镇的资深买家用血泪总结出「多逛少买」的铁律——冲动下手往往买到工艺粗糙或价格虚高的器物，而建立在大量观摩与比较基础上的购入，才能真正提升藏品质量。入坑初期，「看」与「学」本身就是最大的乐趣。"
+      },
+      "citations": [
+        "xhs_6927c4b2000000000d03dfcb",
+        "xhs_6973872d000000002102805c",
+        "xhs_69d0750d000000001b0221e6"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门（浅尝）",
+            "price_range": "¥50-500",
+            "items": [
+              "景德镇普通青花茶杯 / 茶碗",
+              "现代窑口手绘小件摆件",
+              "日用釉下彩餐具套装"
+            ],
+            "note": "适合先培养眼力、感受手感与釉面差异，不追求名家款，重在「用起来」。景德镇陶溪川等集市可淘到性价比高的年轻窑工作品。"
+          },
+          {
+            "name": "进阶（认真玩）",
+            "price_range": "¥500-5000",
+            "items": [
+              "景德镇中青代艺术家签名器",
+              "民国或民窑老瓷小件（碗、盘、瓶）",
+              "品牌窑口高温颜色釉茶具一套"
+            ],
+            "note": "开始关注工艺细节：胎质、釉水、发色、器型比例。建议亲赴景德镇实地挑选，多逛少买，货比三家后再出手。"
+          },
+          {
+            "name": "顶配（玩家级）",
+            "price_range": "¥5000以上",
+            "items": [
+              "清代官窑瓷器（拍卖行或信誉古董商）",
+              "国家级工艺美术大师亲手制作器",
+              "宋代民窑精品（如磁州窑、耀州窑）"
+            ],
+            "note": "需具备相当的鉴定知识或信赖的专家背书，务必索要来源证明，警惕仿品。建议参与正规拍卖行预展，上手实物后再竞拍。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6756b1c2000000000700faf0",
+        "xhs_698f6bd5000000000b011c09",
+        "xhs_69d0750d000000001b0221e6"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where_to_buy",
+      "title": "去哪买",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "景德镇实地采购",
+            "description": "陶溪川创意市集、三宝村工作室、雕塑瓷厂等聚集大量年轻艺人与传统窑口。可直接与窑主交流，现场上手比较，价格透明度高。「多逛少买」是核心策略，第一天只逛不买，心仪的第二天再回头确认。",
+            "meta": "适合预算 ¥50-5000+ · 年轻艺术家 / 日用器 / 中高端定制均有",
+            "url": null
+          },
+          {
+            "title": "正规艺术品拍卖行",
+            "description": "嘉德、保利、佳士得等主要拍卖行每季均有瓷器专场。预展期间可免费上手实物、向专家咨询，是进阶买家获取老瓷、官窑器的重要渠道。",
+            "meta": "适合预算 ¥5000+ · 老瓷 / 官窑 / 艺术品级",
+            "url": null
+          },
+          {
+            "title": "古玩城 / 古董市场",
+            "description": "北京潘家园、上海城隍庙、广州西关古玩城等。货源驳杂，真假混杂，适合有一定眼力者淘宝，新手切勿轻易出手高价器，宜当课堂「练眼」使用。",
+            "meta": "适合预算 ¥100-50000 · 需具备基础鉴别能力",
+            "url": null
+          },
+          {
+            "title": "闲鱼 / 转转等二手平台",
+            "description": "普通日用陶瓷、现代名家器及部分民国老瓷均可找到，价格相对低。风险在于无法上手实物，图片色差大，需卖家提供多角度高清图及底款照片，谨慎购买高价标的。",
+            "meta": "适合预算 ¥50-2000 · 适合找日用器、现代器",
+            "url": null
+          },
+          {
+            "title": "品牌官方旗舰店（线上）",
+            "description": "如故宫文创、景德镇官方窑口品牌旗舰店等，品质有保障，适合购买日用高温白瓷、釉下彩餐具，避免买到含铅、镉超标的劣质彩釉餐具。",
+            "meta": "适合预算 ¥100-3000 · 日用器 / 送礼 / 新手首选",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69d0750d000000001b0221e6",
+        "xhs_698f6bd5000000000b011c09",
+        "xhs_6891c2b8000000002202330e"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "anti_fake",
+      "title": "辨真假 / 防坑",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "看底款前先看工艺整体",
+            "detail": "仿品通常底款仿得像，但器型比例、釉面气泡、发色却破绽百出。先用肉眼整体审视器物的线条是否流畅、釉色是否自然，再去核对底款，避免被「对的款识」蒙蔽。"
+          },
+          {
+            "title": "区分10元与1000元陶瓷的核心差距：胎质与釉水",
+            "detail": "低价陶瓷胎体粗松、有杂质，釉面薄且易出现缩釉、针孔；高品质瓷器胎土细腻洁白、叩之声音清脆悦耳。上手掂量重量，同体量下优质瓷更轻薄且均匀。"
+          },
+          {
+            "title": "彩釉餐具务必确认「釉下彩」还是「釉上彩」",
+            "detail": "釉上彩（包括某些转印贴花）的彩料直接暴露在外，长期使用后铅、镉等重金属可能溶出，对健康有害。购买时明确询问或查看产品说明，选择釉下彩或高温无铅彩料的器物作为日用餐具。"
+          },
+          {
+            "title": "景德镇实地购物：第一天只逛不买",
+            "detail": "按照资深买家经验，第一天全程观摩比价，记录中意的摊位和价格区间；第二天或离开前再回头购买。冲动消费几乎必然导致买贵或买到质量参差的器物。"
+          },
+          {
+            "title": "索要多角度高清图，重点看底足截面",
+            "detail": "线上或古玩市场购买时，要求卖家提供底足、口沿内侧、胎色截面的清晰照片。老瓷的底足往往有自然磨损痕迹，而仿品的「做旧」磨损分布不自然。"
+          },
+          {
+            "title": "警惕「捡漏」话术",
+            "detail": "「祖传」「低价出」「朋友急用钱」等话术是古玩市场经典套路。真正的老瓷精品不会以远低于市场的价格流通，新手遇到此类情况应保持高度警觉，宁可放弃也不冒险。"
+          },
+          {
+            "title": "避开无资质的路边摊或社交平台私信卖家出售的「官窑」",
+            "detail": "官窑瓷器存世量极少，出现在小摊或私信兜售的几乎100%为仿品。购买高价老瓷应通过有资质的拍卖行或持牌古董商，并要求出具来源证明文件。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6756b1c2000000000700faf0",
+        "xhs_665dec31000000001401bd0a",
+        "xhs_679f0962000000001701cc64",
+        "xhs_69d0750d000000001b0221e6"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "care",
+      "title": "保养 / 收纳",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "避免温差骤变",
+            "detail": "瓷器热胀冷缩会产生细微裂纹（「惊釉」）。不要将刚盛过热水的瓷杯直接放入冷水冲洗，也不要将冷藏后的瓷器马上接触高温液体。"
+          },
+          {
+            "title": "日用瓷手洗为主，避免叠放",
+            "detail": "洗碗机的高温喷射可能损伤手绘釉彩。清洗后自然晾干，叠放时在器物之间垫棉布或泡沫垫，防止相互磕碰造成崩口。"
+          },
+          {
+            "title": "展示藏品远离直射阳光",
+            "detail": "长期阳光直射会使釉面（尤其是粉彩、珐琅彩）发生褪色或氧化。展柜建议使用漫射光或博物馆级UV防护灯。"
+          },
+          {
+            "title": "防潮：避免长期高湿环境存放",
+            "detail": "南方梅雨季节应在收纳柜内放置干燥剂，避免瓷器底足因潮气返碱造成「泛白」或釉面起皮。老瓷尤其需要注意。"
+          },
+          {
+            "title": "清洁老瓷用软毛刷蘸清水，不用洗洁精",
+            "detail": "有历史包浆的老瓷，用洗洁精或化学清洁剂可能破坏器表的自然老化层。平日用柔软干棉布轻擦，有污垢处用软毛刷蘸清水轻刷即可。"
+          },
+          {
+            "title": "收纳时单件独立包裹",
+            "detail": "长期收藏不展示的器物，用无酸棉纸或软泡沫单件包裹后放入硬质盒子，盒内填充减震材料，防止运输或移动时碰损。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_665dec31000000001401bd0a",
+        "xhs_6756b1c2000000000700faf0",
+        "xhs_698f6bd5000000000b011c09"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全不懂瓷器，能买第一件吗？",
+            "a": "可以，但建议从低价日用器入手（¥50-300区间），把第一件当「上手课」而非投资品。在景德镇多逛、多摸、多比较，比任何教程都有效。知识积累到一定程度再考虑进阶购入。"
+          },
+          {
+            "q": "瓷器会升值吗？",
+            "a": "高品质名家器和老瓷在长期维度有升值空间，但流通变现难度较大。普通日用瓷或批量生产的「工艺品」几乎没有升值可能。建议新手以「喜欢、好用、好看」为主要购买理由，而非以投资为目的。"
+          },
+          {
+            "q": "景德镇的瓷器和网上买的有什么区别？",
+            "a": "景德镇实地购买可以上手感受胎质、釉面质感和器型比例，信息更真实；网购图片色差较大，且无法感受手感。建议高价器一定实地购入或通过口碑良好的实体商家，低价日用器可网购大品牌旗舰店产品。"
+          },
+          {
+            "q": "如何判断一件瓷器的价格是否合理？",
+            "a": "多跑几家对比同类器物的报价，了解市场行情后再出手。景德镇的血泪经验是「第一天绝不买」，先建立价格锚点再决策。贵的不一定好，便宜的不一定划算，工艺细节是核心评判标准。"
+          },
+          {
+            "q": "日用餐具瓷器有健康风险吗？",
+            "a": "部分低价彩釉陶瓷（尤其是釉上彩或劣质印花餐具）存在铅、镉超标风险，长期盛放酸性食物（如醋、果汁）时溶出风险更高。选购餐具时优先选择正规品牌的釉下彩或高温白瓷产品，避免购买来源不明的廉价彩绘餐具。"
+          },
+          {
+            "q": "去景德镇学陶艺体验值得吗？",
+            "a": "非常值得。景德镇有大量面向成人的短期陶艺课程，从拉坯、修坯到上釉、烧窑均可体验。亲手制作后会对瓷器工艺有更直观的认知，也能帮助日后更准确地评估器物的工艺水准与定价合理性。"
+          },
+          {
+            "q": "瓷器摔了能修复吗？",
+            "a": "可以。传统「金缮」工艺用漆和金粉填补裂缝，修复后的痕迹反而成为器物一部分，形成独特美感，在收藏界被视为一种再创作。普通瓷器碎片也可用专业陶瓷修复胶粘合，但修复过的器物收藏价值会有所下降。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69d0750d000000001b0221e6",
+        "xhs_6891c2b8000000002202330e",
+        "xhs_665dec31000000001401bd0a",
+        "xhs_6756b1c2000000000700faf0"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_6927c4b2000000000d03dfcb": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6927c4b2000000000d03dfcb?xsec_token=AB1Le9i1FdIxD3NdSTGDwV-ljoCSpJnJErmGvFkTMHorA=&xsec_source=pc_search",
+      "title": "混子哥边画边讲：中国瓷器",
+      "author": "混子哥边画边讲",
+      "likes": 15998,
+      "snippet": "混子哥边画边讲：中国瓷器",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170703/47a374d90a79eca7827d5202649dd7f4/spectrum/1040g34o31pcg0hcgi8105q2fsgahu5sakfsuja8!nc_n_webp_mw_1"
+    },
+    "xhs_69d0750d000000001b0221e6": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69d0750d000000001b0221e6?xsec_token=ABF7oOxJ3OROxmpZqm0djrmRhUZPiHsCHWBxldgOO4AIg=&xsec_source=pc_search",
+      "title": "景德镇血泪教训是——多逛少买！！！",
+      "author": "杨瑞秋🍂（抢到三子见面会版）",
+      "likes": 3772,
+      "snippet": "景德镇血泪教训是——多逛少买！！！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170706/9589439d49a98126d9bdc35b5f9fb81f/notes_pre_post/1040g3k831ugr0fo62i9g4a47jccveuqs76l7gio!nc_n_webp_mw_1"
+    },
+    "xhs_665dec31000000001401bd0a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/665dec31000000001401bd0a?xsec_token=ABLbW8Z7dS6h2NilhBlVItVHfyQF3dtiu5V7a97xg1-sc=&xsec_source=pc_search",
+      "title": "避坑！这种餐具不能再买了！",
+      "author": "不束负の生活分享",
+      "likes": 2673,
+      "snippet": "避坑！这种餐具不能再买了！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170708/fd7518e61b6bffe18be9812dacb401ee/1040g2sg313jdaclo20cg5o0c8aagbp01bs05qtg!nc_n_webp_mw_1"
+    },
+    "xhs_6756b1c2000000000700faf0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6756b1c2000000000700faf0?xsec_token=ABti7VkOJkDT1QWjaGLcJC4MyP9XtXdoUD32eCh3Tat3k=&xsec_source=pc_search",
+      "title": "买陶瓷避坑🔥10元和1000元的陶瓷差距在哪？",
+      "author": "到处玩的L叔",
+      "likes": 2645,
+      "snippet": "买陶瓷避坑🔥10元和1000元的陶瓷差距在哪？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170705/edbb89b131ac044d8c40c74c90b15d6f/1040g00831b6be3ek7m005pm5q6unc1j6ri92630!nc_n_webp_mw_1"
+    },
+    "xhs_6891c2b8000000002202330e": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6891c2b8000000002202330e?xsec_token=ABitijX24BDuqwVgSmHgAsjqtR8kVyixiuszrvQswb_7Q=&xsec_source=pc_search",
+      "title": "景德镇学陶是成年人的summer school",
+      "author": "岛岛不坐班",
+      "likes": 2625,
+      "snippet": "景德镇学陶是成年人的summer school",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170703/42ec25b0e947dfdcb67fe304b7eb238a/1040g2sg31kq0mnlqiu9g499o8659j9gq1ju20v0!nc_n_webp_mw_1"
+    },
+    "xhs_679f0962000000001701cc64": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/679f0962000000001701cc64?xsec_token=ABmkEWYBTnzON4FJ-FT48KhwFGarfZKabuaCkjXSZKI5g=&xsec_source=pc_search",
+      "title": "避雷啥也不说了",
+      "author": "lucky",
+      "likes": 2436,
+      "snippet": "避雷啥也不说了",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170708/806108499730212c5069bfab15ba6764/1040g00831dd04f540s0g5n3uhoolklsi7mfu14g!nc_n_webp_mw_1"
+    },
+    "xhs_6973872d000000002102805c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6973872d000000002102805c?xsec_token=AB8ev5zrUxudTzG1faqKzmI-HCcb4gW7bVgaefInOzjb4=&xsec_source=pc_search",
+      "title": "中国瓷器的解密",
+      "author": "知识不冷",
+      "likes": 1178,
+      "snippet": "中国瓷器的解密",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170703/b21f1119e1492f55ba4ac462f88db780/notes_pre_post/1040g3k031rmgfnosim305nspub408nlrrffqfko!nc_n_webp_mw_1"
+    },
+    "xhs_698f6bd5000000000b011c09": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/698f6bd5000000000b011c09?xsec_token=ABESGUSIx0emT7GQcqQzDHG4_uhMy-wj00bxlttKeRRAI=&xsec_source=pc_search",
+      "title": "景德镇购物总结",
+      "author": "CC",
+      "likes": 920,
+      "snippet": "景德镇购物总结",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170706/9c8faf8af94191adf5fc6cca0e29c747/notes_pre_post/1040g3k031shnfl44l8604a3s46lpq4t5llpe1g0!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

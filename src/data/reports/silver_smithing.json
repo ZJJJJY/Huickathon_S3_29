@@ -1,0 +1,328 @@
+{
+  "hobby_id": "silver_smithing",
+  "hobby_name": "手工银饰",
+  "category": "crafting",
+  "neon_color": "#FFD23F",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 手工银饰：亲手打造属于自己的金属温度\n\n手工银饰是一门以**纯银（925银或999银）为主要材料**，通过锻打、錾刻、编织、焊接等工艺，亲手制作戒指、耳环、手链、项链等饰品的传统手工艺。它横跨苗族银饰等民族工艺与现代金工两大流派，既可以在专业工作室学习，也可以低门槛 DIY 入门。\n\n**能做出什么？** 从最入门的光面银戒、情侣对戒，到带有丰富肌理纹样（木纹、布纹、锤纹等）的个性化单品，再到贵州苗银风格的繁复雕花，覆盖80%以上日常佩戴款式。\n\n**为什么受年轻人欢迎？**\n- 🪙 **成本可控**：单次体验材料费低至百元以内，做出来就是真正能戴的饰品\n- ✋ **零基础友好**：掌握几种基础肌理纹路，就能搞定大多数常见款式\n- 💍 **情感价值高**：亲手做的情侣对戒、纪念饰品远比购买更有意义\n- 🌿 **慢生活属性**：锻打银片的过程需要专注和耐心，是一种减压仪式\n\n近年来随着苗族银饰文化出圈、手工 DIY 热潮兴起，越来越多年轻人选择去贵州研学，或在城市手工店体验这项充满质感的技艺。"
+      },
+      "citations": [
+        "xhs_6602625d00000000120364bb",
+        "xhs_69214c07000000001e032629",
+        "xhs_68c122d0000000001c033d4c",
+        "xhs_67a22e9e000000001701d995"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "一次体验",
+            "price_range": "¥100以内",
+            "items": [
+              "银料材料费（做1枚戒指或小件饰品）",
+              "工作室工具使用费（含指导）",
+              "基础打磨抛光服务"
+            ],
+            "note": "素材显示DIY银饰成本不过100元，零基础也能完成，适合第一次尝试，带走一件真银作品"
+          },
+          {
+            "name": "进阶课程",
+            "price_range": "¥300-800",
+            "items": [
+              "3-5节系统银饰课程（含锉、锤、焊等工艺）",
+              "多件作品银料费",
+              "老师一对一指导",
+              "贵州等地研学短期班"
+            ],
+            "note": "可学习肌理纹路、情侣对戒等进阶款式；赴贵州苗银研学体验感更强，含传统工艺传授"
+          },
+          {
+            "name": "长期投入（自备工具在家玩）",
+            "price_range": "¥800+",
+            "items": [
+              "基础金工工具套装（锉刀、锤子、戒指棒等）",
+              "银料批量采购",
+              "焊接设备（酒精灯或小型喷枪）",
+              "后续按需追加工具和银料"
+            ],
+            "note": "一次性工具投入后，后续只需购买银料；可在家自由创作，适合已确定长期热爱的玩家"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68998f9d00000000230309c0",
+        "xhs_67b8630f000000000b015c3b",
+        "xhs_68c122d0000000001c033d4c",
+        "xhs_65e8a45f000000000b020afc"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "在哪做",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "城市手工银饰工作室",
+            "description": "各大城市均有手工金工店，提供一次性体验课，老师现场指导，工具齐备，做完即可带走成品戒指或小件饰品",
+            "meta": "全国主要城市 · 随时可预约 · ¥100以内/次",
+            "url": null
+          },
+          {
+            "title": "贵州苗银研学课程",
+            "description": "赴贵州当地跟随苗族银匠学习传统錾刻、锻打工艺，体验民族银饰文化，结课可带走多件手工作品，沉浸感极强",
+            "meta": "贵州 · 短期研学班 · ¥300-800+",
+            "url": "https://www.xiaohongshu.com/explore/68c122d0000000001c033d4c?xsec_token=ABjglskg1b_SWHOsSaPqFY6YOCaMqJQ2MwxmfOmXkEU14=&xsec_source=pc_search"
+          },
+          {
+            "title": "手工DIY店（情侣/亲子向）",
+            "description": "定位轻松休闲，适合情侣同做对戒或朋友结伴体验，无需基础，老师带领完成从压片到成型全流程",
+            "meta": "全国各地 · 节假日热门 · ¥100-300/两人",
+            "url": null
+          },
+          {
+            "title": "在家自制（银粘土/基础金工）",
+            "description": "购买银料和基础工具，参考小红书图文教程在家操作；银粘土方案门槛更低，不需要焊接设备，适合居家新手",
+            "meta": "居家 · 随时可做 · 工具一次性投入¥200-500，后续仅需银料",
+            "url": null
+          },
+          {
+            "title": "系统线下银饰课（金工工作室）",
+            "description": "专业金工工作室提供3-10节系统课，从锉、锤、焊接到肌理纹样逐步学习，适合想认真进阶的学员",
+            "meta": "一线及新一线城市为主 · ¥500-1500/套课",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68c122d0000000001c033d4c",
+        "xhs_68998f9d00000000230309c0",
+        "xhs_67b8630f000000000b015c3b",
+        "xhs_67a22e9e000000001701d995"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_session",
+      "title": "第一次体验流程",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "进门·10分钟",
+            "title": "选款式与银料",
+            "detail": "根据自己的手指尺寸和喜好选择戒指款式（光面、锤纹、情侣对戒等），老师会帮你测量戒围，确认银料用量"
+          },
+          {
+            "label": "Step 1·20分钟",
+            "title": "裁切与整形银片",
+            "detail": "用锯或剪刀将银料裁至合适长度，用锉刀修整边缘；注意用力均匀，避免划伤银片表面"
+          },
+          {
+            "label": "Step 2·20-30分钟",
+            "title": "敲打纹理",
+            "detail": "用锤子、錾子或借助布料、树皮等模具在银片上敲出肌理纹路（木纹、布纹、锤纹均可）；这是最解压的环节，新手可参考7种基础肌理入手"
+          },
+          {
+            "label": "Step 3·15分钟",
+            "title": "弯曲成型与焊接",
+            "detail": "将银片绕戒指棒弯成圆形，两端对齐后由老师协助用焊枪焊接；第一次体验通常由老师代操作焊接，注意观察火候"
+          },
+          {
+            "label": "Step 4·15分钟",
+            "title": "打磨与抛光",
+            "detail": "依次用粗细砂纸打磨焊接处和表面，再用抛光布或抛光机处理，让银饰呈现亮面或哑光效果；可根据喜好选择做旧处理"
+          },
+          {
+            "label": "完成·5分钟",
+            "title": "清洗取件",
+            "detail": "用清水冲洗银饰，擦干后即可佩戴带走；整个流程约1.5-2小时，避坑提示：选工作室时注意确认银料纯度（925或999）"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_65e8a45f000000000b020afc",
+        "xhs_69214c07000000001e032629",
+        "xhs_67b8630f000000000b015c3b",
+        "xhs_6602625d00000000120364bb"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "progression",
+      "title": "进阶路径",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "阶段一",
+            "title": "一次性体验玩家",
+            "detail": "时间投入：单次1.5-2小时。能做出光面银戒或简单锤纹戒指。所需装备：零，全靠工作室工具。目标：感受锻打乐趣，带走一件真银作品，判断是否喜欢这门手艺。"
+          },
+          {
+            "label": "阶段二",
+            "title": "周末爱好者",
+            "detail": "时间投入：每月2-4次课，累计1-3个月。能做出情侣对戒、带复杂肌理纹路的戒指（掌握7种基础肌理可搞定80%常规款）、简单耳环或吊坠。所需装备：可继续在工作室上课，或购买基础工具套装（锉刀、锤子、戒指棒）在家练习。"
+          },
+          {
+            "label": "阶段三",
+            "title": "进阶学习者",
+            "detail": "时间投入：报名系统课程或赴贵州研学，累计学习数周。能独立完成焊接、錾刻、编银丝等工艺，制作手链、项链、复杂造型戒指。所需装备：系统工具套装含焊枪、钢砧、各类锉刀錾子，批量采购银料降低成本。"
+          },
+          {
+            "label": "阶段四",
+            "title": "长期玩家／自由创作",
+            "detail": "时间投入：持续学习，建立自己的家庭工作台。能产出完整系列银饰作品，探索民族风、现代简约等不同风格，甚至接受定制订单。所需装备：较完整的金工工具台，包含各类锤、锉、钢砧、焊接设备和抛光机，银料按需批量购入。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69214c07000000001e032629",
+        "xhs_6602625d00000000120364bb",
+        "xhs_68c122d0000000001c033d4c",
+        "xhs_68a98c85000000001d00f320"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全零基础、手残党也能做吗？",
+            "a": "完全可以。多篇教程明确标注「零基础小白也能做」「对新手超级友好」，工作室老师会全程指导，第一次体验不需要掌握任何技能，只要跟着步骤操作即可。"
+          },
+          {
+            "q": "第一次体验大概要花多少钱？",
+            "a": "根据素材，DIY银饰的材料成本可以控制在100元以内，加上工作室的工具使用费，一次体验整体花费通常在100元左右，做出来的就是可以直接佩戴的真银饰品。"
+          },
+          {
+            "q": "可以在家自己做吗，不去工作室行不行？",
+            "a": "可以。购买基础银料和工具后，参考小红书上的图文教程（如《从零开始学银饰》系列、各种肌理纹路教程）可以在家操作。初学建议先体验一次工作室，熟悉基本流程后再购置工具自己玩。"
+          },
+          {
+            "q": "选工作室体验时有什么坑需要避开？",
+            "a": "手工店主分享的避坑经验包括：注意确认银料纯度（正规店应明确告知是925银或999银）；了解价格包含的内容（材料费和工具费是否分开收）；观察老师是否有耐心指导新手。"
+          },
+          {
+            "q": "做出来的银饰怎么保存和保养？",
+            "a": "银饰容易氧化变黑，平时不戴时建议放入密封袋或首饰盒隔绝空气；变黑后可用专用银饰擦拭布或牙膏轻轻擦拭恢复光泽；避免接触香水、汗液和化学品。"
+          },
+          {
+            "q": "学银饰需要去贵州才行吗？",
+            "a": "不需要。城市里的手工金工工作室同样可以学习银饰制作工艺。但如果对苗族传统银饰风格（繁复錾刻纹样、民族美学）感兴趣，赴贵州研学体验感更原汁原味，可以跟当地银匠直接学习传统技法。"
+          },
+          {
+            "q": "适合和朋友或情侣一起做吗？",
+            "a": "非常适合。做情侣对戒是热门体验项目，DIY店通常提供双人套餐；和朋友结伴去工作室也很常见，一起选款、一起动手，作品更有纪念意义。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68998f9d00000000230309c0",
+        "xhs_67b8630f000000000b015c3b",
+        "xhs_66e3095f0000000012010362",
+        "xhs_68c122d0000000001c033d4c",
+        "xhs_67a22e9e000000001701d995"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_69214c07000000001e032629": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69214c07000000001e032629?xsec_token=ABwAOx60bSdrTYiT8Mun8arkm60IwpO-jlmTrTWX_XTv8=&xsec_source=pc_search",
+      "title": "戒指DIY秘籍|掌握这7种肌理，搞定80%常规款",
+      "author": "是西米啊",
+      "likes": 6795,
+      "snippet": "戒指DIY秘籍|掌握这7种肌理，搞定80%常规款",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/db753e75e8d549f8186a1759a0d585cd/1040g00831p66ogec3c6g5q62arj6anldj02b3d8!nc_n_webp_mw_1"
+    },
+    "xhs_6602625d00000000120364bb": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6602625d00000000120364bb?xsec_token=ABiwI3OBvd_Wnu14D8AOYQqQQ1nfVqydGqWbfM7sf-8y0=&xsec_source=pc_search",
+      "title": "从零开始学银饰1｜银饰教程终于来啦！",
+      "author": "是阿琳哦",
+      "likes": 3527,
+      "snippet": "从零开始学银饰1｜银饰教程终于来啦！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170644/dd337a280fb3971159b059e3a9c605d1/1040g008310q0o25s6k004bulrru8ok9a1bsr1u0!nc_n_webp_mw_1"
+    },
+    "xhs_66e3095f0000000012010362": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66e3095f0000000012010362?xsec_token=AB5ZRkBVMCMmjjNZIjBdqKehn-23KenDWgMCVCtCV20Ig=&xsec_source=pc_search",
+      "title": "挑战用图片教会100款戒指—伍（情侣对戒）",
+      "author": "Hi 王小火",
+      "likes": 2384,
+      "snippet": "挑战用图片教会100款戒指—伍（情侣对戒）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170644/17baa93630725b78142d566df0633897/1040g008317ld4af0k6004a6bdnnln27ev0s11e0!nc_n_webp_mw_1"
+    },
+    "xhs_65e8a45f000000000b020afc": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/65e8a45f000000000b020afc?xsec_token=AB_RAHJ8pcjLaWw7m3C11G1mjsfYKOSSyFCFmmGtyBskU=&xsec_source=pc_search",
+      "title": "银戒diy教程",
+      "author": "小邢手作（接🥚）",
+      "likes": 2326,
+      "snippet": "银戒diy教程",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170644/c6dba19ae059fb0a038fe842d4628a58/1040g2sg3100s9ect66005oqv4jgmbsot9p3n6so!nc_n_webp_mw_1"
+    },
+    "xhs_67a22e9e000000001701d995": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67a22e9e000000001701d995?xsec_token=ABRyMl8oa9AHEUbp25v8VKp07v1inHxj00uXBalZzEyh8=&xsec_source=pc_search",
+      "title": "自制银饰💍 对新手超级友好！",
+      "author": ".魚",
+      "likes": 2253,
+      "snippet": "自制银饰💍 对新手超级友好！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/e3f301c3d7c97cf347ebe6c1da112c28/1040g2sg31dg2drfvh06g49i8ksj3hke9njmu8sg!nc_n_webp_mw_1"
+    },
+    "xhs_68998f9d00000000230309c0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68998f9d00000000230309c0?xsec_token=ABuWp2EkDDLXzpRELlDIRxcFH3-arZAlzI0L8axsPt1vI=&xsec_source=pc_search",
+      "title": "DIY银饰｜成本不过100，零基础小白也能做！",
+      "author": "小鱼和小文",
+      "likes": 2170,
+      "snippet": "DIY银饰｜成本不过100，零基础小白也能做！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/948ee9321a036d380a5ca7e00fb0e97d/notes_pre_post/1040g3k031l1k7i1uj2005q2fjud7apjj3gfs3m0!nc_n_webp_mw_1"
+    },
+    "xhs_68a98c85000000001d00f320": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68a98c85000000001d00f320?xsec_token=ABv9l3zQF-0CDxeHUYfvlPhysli4rT5HlzfLtpUlGcCWs=&xsec_source=pc_search",
+      "title": "🪡各种自制银饰方法教程合集",
+      "author": "pure",
+      "likes": 1849,
+      "snippet": "🪡各种自制银饰方法教程合集",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/41446da3135aceb8655b6e25454ff7de/notes_pre_post/1040g3k031lh8anoe50105oc9s6rk0vj8l8s6l8o!nc_n_webp_mw_1"
+    },
+    "xhs_68c122d0000000001c033d4c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68c122d0000000001c033d4c?xsec_token=ABjglskg1b_SWHOsSaPqFY6YOCaMqJQ2MwxmfOmXkEU14=&xsec_source=pc_search",
+      "title": "写稿暂停！去贵州学银 | 结课啦",
+      "author": "YuYu",
+      "likes": 1844,
+      "snippet": "写稿暂停！去贵州学银 | 结课啦",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/3a324b8948fcb10a785d8d4461717ef4/1040g00831m89jfinm8005op44ig8v13f8bjvd1g!nc_n_webp_mw_1"
+    },
+    "xhs_67b8630f000000000b015c3b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67b8630f000000000b015c3b?xsec_token=ABj15jIzpriuWabLU7eMXIuYaTG1TOQ63Qp6KAKEM5m14=&xsec_source=pc_search",
+      "title": "手工店主教你DIY银戒指如何避坑",
+      "author": "大海手工",
+      "likes": 1509,
+      "snippet": "手工店主教你DIY银戒指如何避坑",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170640/9757bfc7eeef1040d8a919b8203a9097/1040g00831e5oapa0gsd05nr7nr8g8f7rtg3ifv0!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

@@ -1,0 +1,353 @@
+{
+  "hobby_id": "hiking",
+  "hobby_name": "爬山",
+  "category": "outdoor",
+  "neon_color": "#34D399",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 爬山：用双脚丈量山野，让身心彻底松绑\n\n爬山，是一种门槛极低却回报极丰的户外运动。你不需要任何特殊技能，只需要一双脚和一颗想出发的心，就能走进山野，暂时切断城市的噪音与压力。\n\n**体验感**：每一次踏上山径，脚下是松软的泥土或坚硬的岩石，耳边是风声与鸟鸣，眼前是随海拔变化而不断更新的风景。登顶的那一刻，俯瞰山下云海或城市轮廓，疲惫与成就感同时涌来，那种满足是办公桌前永远无法给予的。\n\n**节奏**：爬山节奏完全自由。轻徒步路线一日往返，适合周末说走就走；进阶路线可安排两天一夜，带上帐篷在山顶看日出。无论是江浙沪的温柔丘陵，还是安徽的险峻山峰，都能找到匹配自己体力和心情的选择。\n\n**为什么适合现代人**：在快节奏的都市生活中，爬山是一种「物理隔离」——手机信号变弱，待办事项被抛在山脚，专注当下的每一步反而成为一种冥想。春日赴山看新绿，秋日登高赏红叶，四季皆有理由出发。无论是独行还是结伴，山都在那里，等你来。"
+      },
+      "citations": [
+        "xhs_68d927af000000000e00e71f",
+        "xhs_69d2585a000000001e00e477",
+        "xhs_697042980000000022038bc1"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥0-300",
+            "items": [
+              "普通运动鞋或跑鞋（已有）",
+              "日常背包（已有）",
+              "运动服装（已有）",
+              "基础补给（水、零食）"
+            ],
+            "note": "借用或用已有装备完成近郊轻徒步，适合第一次试水，感受一下爬山是否适合自己"
+          },
+          {
+            "name": "进阶·自有基础装备",
+            "price_range": "¥500-2000",
+            "items": [
+              "入门级徒步鞋（¥300-600）",
+              "轻量徒步背包20-30L（¥150-400）",
+              "速干衣裤（¥100-300）",
+              "登山杖一对（¥100-200）",
+              "基础急救包（¥50-100）"
+            ],
+            "note": "拥有自己的核心装备，可应对大多数一日徒步和普通山地路线"
+          },
+          {
+            "name": "进阶·精致玩家",
+            "price_range": "¥3000-8000+",
+            "items": [
+              "专业防水徒步鞋（¥800-2000）",
+              "轻量化背包30-40L（¥500-1500）",
+              "冲锋衣+抓绒内胆（¥800-2000）",
+              "头灯（¥100-300）",
+              "保温水壶（¥150-300）",
+              "防晒手套+帽子（¥100-200）"
+            ],
+            "note": "适合挑战雪山、多日纵走等高难度路线，装备轻量化且功能全面"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69296a41000000001f0060b5",
+        "xhs_68f5ef85000000000402a873",
+        "xhs_689379b1000000002502287b"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备选择",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "徒步鞋",
+            "description": "核心装备之一，提供足踝支撑与防滑保护。新手建议选中帮防水款，兼顾稳定性和舒适度，避免纯平底运动鞋上山导致打滑或扭伤。",
+            "meta": "预算 ¥300-800 · 注意：提前穿磨合，避免新鞋直接爬山起泡",
+            "url": null
+          },
+          {
+            "title": "徒步背包",
+            "description": "一日徒步选20-25L即可，可装水、食物、急救包和换洗衣物。需关注背负系统的贴合度，长时间背负肩带要有厚度。",
+            "meta": "预算 ¥150-500 · 注意：选有腰带款，减轻肩部压力",
+            "url": null
+          },
+          {
+            "title": "速干衣裤",
+            "description": "棉质衣物遇汗或雨后湿重贴身，易失温。速干材质排汗快，适合持续运动的爬山场景。",
+            "meta": "预算 ¥100-300 · 注意：避免牛仔裤上山，湿后极不舒适",
+            "url": null
+          },
+          {
+            "title": "登山杖",
+            "description": "下山时保护膝盖的关键装备，减少约30%关节冲击。新手尤其推荐，上坡也能助力省体力。",
+            "meta": "预算 ¥80-300 · 注意：购买可调节款，适配不同坡度",
+            "url": null
+          },
+          {
+            "title": "冲锋衣",
+            "description": "山上天气多变，防风防雨必备。轻薄款可折叠收入包内，不占空间。雪山路线则需要保暖性更强的三合一款式。",
+            "meta": "预算 ¥200-2000 · 注意：雪山需防水等级更高的专业款",
+            "url": null
+          },
+          {
+            "title": "补给与急救包",
+            "description": "能量棒、坚果、电解质饮料用于途中补能；急救包含创可贴、碘伏棉签、绷带，应对擦伤磕碰。",
+            "meta": "预算 ¥50-150 · 注意：每人至少携带1.5L以上饮水",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69296a41000000001f0060b5",
+        "xhs_68f5ef85000000000402a873",
+        "xhs_689379b1000000002502287b"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where",
+      "title": "去哪里玩",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "江浙沪近郊山野",
+            "description": "江浙沪拥有众多轻徒步路线，海拔适中、景色秀美，适合城市居民周末一日往返。沿途可见茶园、古道、溪流，节奏舒缓，非常适合新手和家庭出行。",
+            "meta": "华东地区 · 春秋最佳 · 难度★☆☆ · 适合新手/亲子",
+            "url": null
+          },
+          {
+            "title": "安徽热门徒步路线",
+            "description": "安徽拥有黄山、九华山等名山，同时有大量小众古道适合探索。据介绍共有71条热门徒步路线，从轻松郊游到挑战性纵走均有覆盖。",
+            "meta": "华东·安徽 · 四季可爬 · 难度★★☆ · 适合有一定基础的爬山爱好者",
+            "url": null
+          },
+          {
+            "title": "全国宝藏山（综合推荐）",
+            "description": "全国有20多座宝藏山值得打卡，涵盖不同难度和风格，从南方丘陵到北方山地各有特色，适合根据自身所在城市就近选择出发。",
+            "meta": "全国 · 因山而异 · 难度不等 · 适合各层次爱好者",
+            "url": null
+          },
+          {
+            "title": "雪山路线",
+            "description": "对于进阶玩家，雪山徒步是另一层级的体验。雪山环境复杂多变，需要充分的装备和经验积累，建议跟随有资质的领队或团队出行，安全第一。",
+            "meta": "西部/高原地区 · 冬春季 · 难度★★★ · 适合有丰富爬山经验者",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68d927af000000000e00e71f",
+        "xhs_697042980000000022038bc1",
+        "xhs_690b2058000000000300fb20",
+        "xhs_69ef0a4b000000002202b309"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "first_outing",
+      "title": "第一次怎么开始",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "出发前查天气",
+            "detail": "重点关注山区天气预报，注意降雨概率和风力等级。山上温度比山脚低5-10℃，雨天岩石湿滑需格外谨慎，恶劣天气建议改期。"
+          },
+          {
+            "title": "选择适合新手的路线",
+            "detail": "第一次爬山建议选择有标识的近郊轻徒步路线，单程2-5公里、累计爬升500米以内，全程3-4小时可完成。可参考小红书、两步路等平台查看路线详情和难度。"
+          },
+          {
+            "title": "准备足够的水和食物",
+            "detail": "每人至少携带1.5-2L饮水，备好能量棒、坚果、巧克力等高热量零食。山上补给点少，出发前务必备足。"
+          },
+          {
+            "title": "穿着合适的服装和鞋子",
+            "detail": "穿速干运动衣裤，避免棉质和牛仔材质。鞋子选防滑鞋底，第一次没有徒步鞋可穿运动跑鞋，但要确保已穿过磨合，避免新鞋起泡。"
+          },
+          {
+            "title": "告知他人行程计划",
+            "detail": "出发前告知家人或朋友今天去哪座山、预计几点返回，并记录紧急联系人电话。独自爬山时这一步尤为重要。"
+          },
+          {
+            "title": "下载离线地图",
+            "detail": "提前在两步路、奥维地图等APP下载目标山区的离线地图。山中信号可能较差，离线地图可确保不迷路。"
+          },
+          {
+            "title": "控制上山节奏，量力而行",
+            "detail": "新手容易开始时冲太快，导致后程体力透支。建议保持匀速，每爬升100-150米休息5分钟，感到明显疲惫时不要强行冲顶。"
+          },
+          {
+            "title": "下山比上山更需要注意安全",
+            "detail": "下山时膝盖受力更大，步伐要小、重心稍后倾，使用登山杖保护膝盖。湿滑路段手脚并用，不要为赶时间快跑下山。"
+          },
+          {
+            "title": "遵守爬山圈不成文规定",
+            "detail": "不乱扔垃圾，将垃圾带下山；遇人问路热心帮助；不随意采摘植物；在狭窄路段上坡者优先通行。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69296a41000000001f0060b5",
+        "xhs_68fe45290000000004012983",
+        "xhs_689379b1000000002502287b",
+        "xhs_68f5ef85000000000402a873"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全没运动基础，能爬山吗？",
+            "a": "完全可以。新手只需从轻徒步路线入门，选择爬升少、路程短的近郊山，量力而行。重要的是控制节奏、不逞强冲顶。随着次数增加，体力和技巧会自然提升。"
+          },
+          {
+            "q": "一个人能爬山吗？",
+            "a": "可以，但新手独自爬山需做足安全准备：选择热门成熟路线（人流较多）、出发前告知他人行程、下载离线地图、保持手机电量充足。雪山或高难度路线强烈建议跟队，不要独行。"
+          },
+          {
+            "q": "女生爬山安全吗？需要注意什么？",
+            "a": "大多数爬山活动是安全的，但需提高警惕。有帖子提示女性户外爬山要留意陌生人以\"组队\"名义的邀请，避免被带入不安全的情境。建议尽量结伴出行，与陌生人同行前要充分了解对方，不要轻信网络上拼团的陌生领队。"
+          },
+          {
+            "q": "爬山中途膝盖或腿很痛怎么办？",
+            "a": "立即停下休息，不要硬撑。轻度酸痛可稍作休息后继续，但如果出现关节疼痛、腿部无力等情况，应原路返回下山。使用登山杖能有效减轻膝盖负担。平时可做深蹲、靠墙静蹲等训练强化膝盖周围肌肉。"
+          },
+          {
+            "q": "爬山中途天气突然变差怎么办？",
+            "a": "立即穿上备用冲锋衣或雨衣保暖防水，评估当前位置和下山距离。如已接近山顶且距离下山路程短，可快速下撤；如起雾、打雷等危险天气，应立即寻找遮蔽物并等待好转，切勿在雷雨中站在山顶或大树下。"
+          },
+          {
+            "q": "爬山需要特别练体力吗？",
+            "a": "入门级轻徒步对体力要求不高，有基本行走能力即可参与。如计划挑战更高难度路线，平时可通过快走、爬楼梯、深蹲等方式锻炼腿部力量和心肺耐力，有助于提升爬山体验。"
+          },
+          {
+            "q": "第一次爬山应该跟团还是自己去？",
+            "a": "两种方式都可以。跟专业户外俱乐部的团队，好处是有领队保障安全、不用自己规划路线，适合完全没有经验的新手；自己组织好友出行，则更自由灵活。如果选择跟陌生人拼团，务必通过正规平台或有资质的机构，避免安全隐患。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69c7dcec000000001b003e5d",
+        "xhs_68fe45290000000004012983",
+        "xhs_689379b1000000002502287b",
+        "xhs_69ef0a4b000000002202b309"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_68d927af000000000e00e71f": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68d927af000000000e00e71f?xsec_token=ABi_kUEpsVcFCSnnKAx5f9Hk2J9ApOVCVgbmWq8VC_Q1U=&xsec_source=pc_search",
+      "title": "周末去哪儿爬山？20多座宝藏山任你选！",
+      "author": "慕一",
+      "likes": 4160,
+      "snippet": "周末去哪儿爬山？20多座宝藏山任你选！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170737/54cc7627210c41f99c287963a5cdc8f8/notes_pre_post/1040g3k031mvo8r5rl8005n9lg3akjh6n6vbaje8!nc_n_webp_mw_1"
+    },
+    "xhs_69ef0a4b000000002202b309": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69ef0a4b000000002202b309?xsec_token=AB_gNhPUey3-WvHTP5s8Ncgad8UOYa5ZftuddfQevYf5c=&xsec_source=pc_search",
+      "title": "爬雪山怪谈",
+      "author": "你也很萌哟",
+      "likes": 3979,
+      "snippet": "爬雪山怪谈",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170738/3dcf57f48f96fafd2e51c85f9805c5d8/notes_pre_post/1040g3k031vf481j93q005o1e1mg080a5e0k00r8!nc_n_webp_mw_1"
+    },
+    "xhs_69c7dcec000000001b003e5d": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69c7dcec000000001b003e5d?xsec_token=ABsofP1e8WB6KnZp9uhgVyXwRUtr4CEzI-NcwA9C7REi4=&xsec_source=pc_search",
+      "title": "女性户外爬山请多留意别被带入一夜q⭕套",
+      "author": "柠檬是甜的",
+      "likes": 3510,
+      "snippet": "女性户外爬山请多留意别被带入一夜q⭕套",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170738/ddab3d1d4a812c9103a82ead507c60e2/1040g2sg31u8reph21mag5q4tiajmaq95guv7kt8!nc_n_webp_mw_1"
+    },
+    "xhs_68fe45290000000004012983": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68fe45290000000004012983?xsec_token=ABZsOCkVucf9OMDO7nYa-zqpBbvkb9Uef4IxYWrntskuM=&xsec_source=pc_search",
+      "title": "徒步爬山圈里有什么不成文规定？",
+      "author": "又菜又爱玩的八零后",
+      "likes": 2883,
+      "snippet": "徒步爬山圈里有什么不成文规定？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170738/ac4adec36b523afe62d4a7fc956dafae/1040g2sg31o3rk7phl8004ahhspq1t1s98mk5pdg!nc_n_webp_mw_1"
+    },
+    "xhs_697042980000000022038bc1": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/697042980000000022038bc1?xsec_token=AB2fHmguje3mUDuDf9zedVYGQmA0vdIz8bRxY4BlGGuu4=&xsec_source=pc_search",
+      "title": "江浙沪最美轻徒步路线推荐，请查收!",
+      "author": "董哥去露营",
+      "likes": 2154,
+      "snippet": "江浙沪最美轻徒步路线推荐，请查收!",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170737/eac3843549394d329d1e853510f3dbe3/spectrum/1040g34o31rjgdm63i6805pbhmufo6t5d4ugmdeg!nc_n_webp_mw_1"
+    },
+    "xhs_69296a41000000001f0060b5": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69296a41000000001f0060b5?xsec_token=ABcKa-T-PkfkOTsmNMU2NKSQ1tU-mC6uwkk4cQ0zSnhRI=&xsec_source=pc_search",
+      "title": "徒步装备清单⛰️新手一日徒步爬山 来抄作业！",
+      "author": "不拿拿酸",
+      "likes": 2038,
+      "snippet": "徒步装备清单⛰️新手一日徒步爬山 来抄作业！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170735/5325023d2e466d2f7fbd5f5606148eac/1040g00831pe499is2o00415anc10ms0e68qci8g!nc_n_webp_mw_1"
+    },
+    "xhs_689379b1000000002502287b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/689379b1000000002502287b?xsec_token=ABYEdxADCAjJuJnfwnw4q0xPy4aQCXwL-H9-iTRv42vZ8=&xsec_source=pc_search",
+      "title": "新手小白 想尝试徒步",
+      "author": "菠萝意面",
+      "likes": 1542,
+      "snippet": "新手小白 想尝试徒步",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170733/9ab0b0f2e7f58043466e468d05e1a962/1040g2sg31krm3votj6kg5p7pbgd188uqhuec07g!nc_n_webp_mw_1"
+    },
+    "xhs_69d2585a000000001e00e477": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69d2585a000000001e00e477?xsec_token=ABZRmVzL6Om-f11eNUvU8d5jS5zMGM8AeXwYGSvVtaPwQ=&xsec_source=pc_search",
+      "title": "和春天bingo一下丨山不见我，我自赴春山",
+      "author": "达尔文🏃",
+      "likes": 1193,
+      "snippet": "和春天bingo一下丨山不见我，我自赴春山",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170737/29f402baf328437f7793e6db9824ab86/notes_pre_post/1040g3k831uirmjvmiq3g5n798j1kmmo7u9f3rfg!nc_n_webp_mw_1"
+    },
+    "xhs_690b2058000000000300fb20": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/690b2058000000000300fb20?xsec_token=ABuX7-WvsK8jU--M2iGhMr2J8FRBI_Cn71JiOnom9IK-A=&xsec_source=pc_search",
+      "title": "安徽徒步速存!71条热门徒步路线走到爽！",
+      "author": "徒走走",
+      "likes": 1146,
+      "snippet": "安徽徒步速存!71条热门徒步路线走到爽！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170733/64b845f31c1963f5cb8d6896b18a6cf3/notes_pre_post/1040g3k831oghu2onl8l05p512bkk6m1t7v5abq8!nc_n_webp_mw_1"
+    },
+    "xhs_68f5ef85000000000402a873": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68f5ef85000000000402a873?xsec_token=AB6WS7YttpHPm_3eoBxq9OWbdhqqKpXNcQW3KyKmRHAfo=&xsec_source=pc_search",
+      "title": "现在徒步正好｜女生一日轻徒步/爬山装备清单",
+      "author": "留白。",
+      "likes": 1137,
+      "snippet": "现在徒步正好｜女生一日轻徒步/爬山装备清单",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170735/95101aac127bfbecfe0967c36c60a5a0/1040g2sg31nrr8474mg7g5pmesi57c9trqfangsg!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

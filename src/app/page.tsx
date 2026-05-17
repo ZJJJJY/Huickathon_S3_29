@@ -48,7 +48,7 @@ export default function HomePage() {
           刷到一个爱好，<br />30 秒看它适不适合你
         </p>
 
-        <Link href="/survey" prefetch>
+        <Link href="/pick" prefetch>
           <motion.div
             whileTap={{ scale: 0.96 }}
             whileHover={{ scale: 1.02 }}
@@ -60,7 +60,7 @@ export default function HomePage() {
           </motion.div>
         </Link>
 
-        <p className="text-textMuted text-xs mt-8">30 秒问卷 · 无需注册</p>
+        <p className="text-textMuted text-xs mt-8">问卷暂未开放，先直达选爱好页</p>
       </motion.div>
     </div>
   );

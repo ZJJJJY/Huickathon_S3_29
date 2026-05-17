@@ -1,0 +1,331 @@
+{
+  "hobby_id": "sneaker",
+  "hobby_name": "球鞋",
+  "category": "collecting",
+  "neon_color": "#A855F7",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 球鞋文化：不只是穿在脚上的时尚\n\n球鞋收藏（Sneaker Culture）起源于上世纪80年代的美国街头，随着 Nike Air Jordan 系列的横空出世，球鞋从单纯的运动装备演变为流行文化的符号。如今，球鞋爱好者遍布全球，中国年轻一代更是成为这股浪潮的重要力量——无论是14岁的中学生还是大学生，球鞋已成为身份认同与审美表达的重要载体。\n\n**收藏的乐趣在哪里？**\n- 🔍 **猎鞋快感**：守着发售日、抢限量款、在二手市场淘到心仪配色，每一双入手都有故事。\n- 🎨 **搭配美学**：球鞋是全身穿搭的「点睛之笔」，不同场合、不同风格对应不同的鞋款选择。\n- 📈 **收藏价值**：部分限量款具备保值甚至增值属性，让收藏兼具投资属性。\n- 🤝 **圈子社交**：球鞋爱好者之间有独特的「鞋语」，围绕鉴定、交流、晒鞋形成紧密社群。\n\n**和「单纯买鞋」的区别**在于：普通消费者买鞋看舒适度和性价比，而球鞋玩家更在意款式的文化背景、发售历史、配色故事，以及鞋款在圈子里的「分量」。入坑后你会开始研究鞋标细节、学会辨别真假，甚至主动参与社区鉴定互助——这是一种需要持续学习的生活方式。"
+      },
+      "citations": [
+        "xhs_68edc259000000000700c126",
+        "xhs_69a6f43a000000001b0163f6"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥300-800",
+            "items": [
+              "Nike Air Force 1 纯白（空军一号）",
+              "Adidas Stan Smith",
+              "New Balance 574"
+            ],
+            "note": "经典基础款，易搭配、好打理，适合刚接触球鞋文化的新手，也是圈内永恒的「百搭神鞋」。"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥800-2500",
+            "items": [
+              "Nike Air Jordan 1 Mid 系列",
+              "Nike Dunk Low 热门配色",
+              "New Balance 990 系列"
+            ],
+            "note": "开始接触有文化背景的经典款，部分配色有一定溢价，需要学习鉴别真伪，建议通过正规平台购买。"
+          },
+          {
+            "name": "顶配（玩家级）",
+            "price_range": "¥2500以上",
+            "items": [
+              "Nike Air Jordan 1 Retro High OG 限量配色",
+              "Adidas Yeezy 系列",
+              "Nike SB Dunk 联名款"
+            ],
+            "note": "限量发售、联名合作款，市场溢价显著，入手前必须掌握完整鉴定知识，或借助专业鉴定服务，防止高价买到假货。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68edc259000000000700c126",
+        "xhs_69a6f43a000000001b0163f6",
+        "xhs_66d18dc7000000001d01a13f"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "where_to_buy",
+      "title": "去哪买",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "Nike / Adidas 官方App & 官网",
+            "description": "官方直销渠道，保真无忧，偶有限量款发售抽签活动。适合入门用户建立「正品参照系」，买到的鞋可作为日后鉴定对比的标准样本。",
+            "meta": "全预算段 · 正品保障 · 部分限量款需抽签",
+            "url": null
+          },
+          {
+            "title": "得物（毒）App",
+            "description": "国内主流球鞋交易平台，平台提供官方鉴定服务，发货前经鉴定师验货。品类丰富，热门款和限量款均有，价格随市场波动。",
+            "meta": "¥300以上 · 平台鉴定背书 · 注意鉴定费和手续费",
+            "url": null
+          },
+          {
+            "title": "Nice / GOAT / StockX",
+            "description": "球鞋二级市场交易平台，StockX 为海外平台，支持国际款；GOAT 同样有鉴定服务。适合追求特定海外配色或限量款的进阶玩家。",
+            "meta": "进阶至顶配 · 海外款更全 · 注意关税和物流时间",
+            "url": null
+          },
+          {
+            "title": "闲鱼（二手交易）",
+            "description": "国内最大二手平台，价格相对灵活，可能淘到性价比高的绝版款。但假货风险较高，需具备一定鉴定能力，或拍照发给专业鉴定账号确认后再付款。",
+            "meta": "全预算段 · 价格弹性大 · 强烈建议先鉴定再付款",
+            "url": null
+          },
+          {
+            "title": "小红书社区鉴定账号",
+            "description": "如「铁脑壳同学」「壁哥鉴鞋」等博主提供免费或低价图片鉴定服务，适合在二手渠道购入前进行鉴定确认，降低买假风险。",
+            "meta": "辅助工具 · 免费/低价鉴定 · 适配所有预算段",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_66d18dc7000000001d01a13f",
+        "xhs_68b5d842000000001d01004a",
+        "xhs_69a3d430000000001600b6c9"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "anti_fake",
+      "title": "辨真假 / 防坑",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "查鞋标对齐情况",
+            "detail": "重点检查鞋盒内侧鞋标与鞋舌标签的信息是否一致，鞋标上的字体、间距若不对齐，100% 是假货信号。Nike AJ 系列鞋标的字体粗细和排版有固定规格，对比官方图仔细核查。"
+          },
+          {
+            "title": "六步鉴别耐克真假",
+            "detail": "①看 Swoosh Logo 线条是否流畅对称；②摸鞋面材质，正品皮料或网布手感细腻；③检查鞋底字体印刷是否清晰、无糊边；④查气垫透明度和充盈感；⑤闻气味，假鞋通常有刺鼻胶水味；⑥核对鞋盒条形码与鞋身标签是否完全一致。"
+          },
+          {
+            "title": "空军一号（AF1）纯白鉴定要点",
+            "detail": "通过鞋头弧度、后跟 Nike 字体高度、鞋底纹路深度三处快速判断。对照鉴定教程的两张对比图（正品 vs 仿品）逐项核对，小白也能快速上手。"
+          },
+          {
+            "title": "跑鞋真假快速判断",
+            "detail": "重点看中底缓震材料的外观和标识：正品 Boost 颗粒饱满均匀，React 中底有特定纹理；假鞋中底材质发硬或颗粒稀疏。1分钟内即可完成初步判断。"
+          },
+          {
+            "title": "二手购入前必做：发图给专业鉴定账号",
+            "detail": "在小红书搜索「免费鉴定」找到活跃鉴定博主（如铁脑壳同学的365天鉴定专栏），拍摄鞋标、鞋底、鞋面、鞋盒条码多角度清晰照片发送，等鉴定结论再付款，避免冲动消费。"
+          },
+          {
+            "title": "警惕「全新未拆封」低价诱惑",
+            "detail": "市场上常见以远低于市价出售「全新正品」的卖家，尤其是热门限量款。越是低价、越是强调「正品保真」的卖家，越需要第三方鉴定背书，切勿因便宜就省略鉴定环节。"
+          },
+          {
+            "title": "优先选择有鉴定服务的平台交易",
+            "detail": "得物等平台的平台鉴定流程可有效过滤大量仿品，相比个人二手交易安全性更高。若平台价格合理，建议优先走平台，不要为节省小额差价而跳过平台鉴定流程私下交易。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68592dd00000000012016ad0",
+        "xhs_689a657400000000250237dd",
+        "xhs_69119a22000000000301e84b",
+        "xhs_68a56ca0000000001b01d3e4",
+        "xhs_68e61e800000000005012caa"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "care",
+      "title": "保养 / 收纳",
+      "content": {
+        "type": "checklist",
+        "items": [
+          {
+            "title": "防潮是第一要务",
+            "detail": "球鞋存放环境保持干燥，鞋盒内放置干燥剂或硅胶包，每隔1-2个月更换一次。潮湿环境容易导致鞋面氧化发黄、胶水老化开胶。"
+          },
+          {
+            "title": "避免阳光直射",
+            "detail": "UV 照射会加速白色鞋面氧化泛黄，以及气垫材料老化。展示收纳时避免放置在朝阳窗台，如需展示可使用防UV展示柜。"
+          },
+          {
+            "title": "穿后及时清洁鞋面",
+            "detail": "每次穿完用软毛刷或专用清洁泡沫清理鞋面灰尘和污渍，皮质鞋面可使用皮革护理液，网布鞋面用温和清洁剂轻刷。切勿用硬刷大力擦拭，避免破坏材质。"
+          },
+          {
+            "title": "鞋内填充鞋撑，保持形态",
+            "detail": "长期不穿的鞋款建议放入鞋撑（纸团或专用鞋撑均可），防止鞋头塌陷变形，尤其是皮质鞋面的 AJ、Dunk 类鞋款。"
+          },
+          {
+            "title": "收纳用原盒或透明鞋盒",
+            "detail": "原鞋盒是最佳收纳选择，同时有助于保持转售时的溢价。也可购入透明亚克力鞋盒叠放展示，既防尘又美观，便于快速找到目标鞋款。"
+          },
+          {
+            "title": "白色鞋底防氧化处理",
+            "detail": "Air Force 1 等白底鞋款容易氧化变黄，可使用专用防氧化液定期涂抹鞋底，或用保鲜膜包裹鞋底隔绝空气减缓氧化速度。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_689a657400000000250237dd",
+        "xhs_68b5d842000000001d01004a"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "球鞋会贬值吗？值得当投资吗？",
+            "a": "大多数普通款球鞋会随时间贬值，但热门限量款、联名款在二级市场有溢价空间。建议新手先以「喜欢穿」为出发点入坑，而非以投资为目的，等熟悉市场规律后再考虑收藏增值款。"
+          },
+          {
+            "q": "完全不懂球鞋文化，可以直接买第一双吗？",
+            "a": "可以。建议从 Nike Air Force 1 纯白、Adidas Stan Smith 等经典入门款开始，价格亲民、好搭配，圈内认可度高。同时在小红书、得物社区多看鉴定和穿搭内容，边穿边学。"
+          },
+          {
+            "q": "在得物/闲鱼买鞋安全吗？",
+            "a": "得物有平台鉴定流程，安全性相对有保障，适合新手。闲鱼价格灵活但假货风险高，建议在闲鱼购买前先将卖家图片发给小红书上的专业鉴定账号（如铁脑壳同学、壁哥鉴鞋等）进行免费鉴定，确认无误再付款。"
+          },
+          {
+            "q": "未成年人迷上买鞋，家长该怎么看？",
+            "a": "球鞋文化在青少年中非常普遍，适度的兴趣有助于培养审美和社交圈。关键在于引导理性消费，帮助孩子建立预算意识，从正规渠道购买，避免被仿品坑骗。"
+          },
+          {
+            "q": "如何快速提升自己的鉴定能力？",
+            "a": "多看小红书上的鉴定教程（关注鉴定类博主）、参与免费鉴定专栏互动、对照正品图片反复练习识别细节。重点掌握鞋标对齐、鞋底字体、材质手感三个核心鉴定维度，积累一定量的样本对比后自然形成「肌肉记忆」。"
+          },
+          {
+            "q": "大学生预算有限，哪些鞋款性价比最高？",
+            "a": "Nike Air Force 1 和 New Balance 574 系列是公认的入门性价比之选，正价在 500-800 元区间，经典不过时且易搭配各类穿着场合，无论上课还是日常出行都非常合适。"
+          },
+          {
+            "q": "买鞋常用哪些软件和平台？",
+            "a": "购买常用得物、Nice、官方 App；查看行情和社区讨论用小红书、微博；鉴定可借助小红书鉴定专栏博主；海外款可参考 GOAT 和 StockX 的历史成交价作为市场参考。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68edc259000000000700c126",
+        "xhs_66d18dc7000000001d01a13f",
+        "xhs_69a6f43a000000001b0163f6",
+        "xhs_68b5d842000000001d01004a"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_68edc259000000000700c126": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68edc259000000000700c126?xsec_token=ABEGnkyEOpm0Dcc20eS77yptnaDFO9sve0MBgB7FKjy5g=&xsec_source=pc_search",
+      "title": "14岁的儿子沉迷买鞋怎么办",
+      "author": "Dash与张小二",
+      "likes": 2447,
+      "snippet": "14岁的儿子沉迷买鞋怎么办",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170659/4eea22d0013ddd159c44ba0bdda1b6d9/1040g00831njrk8krkq0g5nakv4f5jvums125heg!nc_n_webp_mw_1"
+    },
+    "xhs_68592dd00000000012016ad0": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68592dd00000000012016ad0?xsec_token=AB7xQPLwDjjpGlnWbjjCWozSJ_ntRdijRcL6p-GofbwVc=&xsec_source=pc_search",
+      "title": "六种方法辨别真假耐克，看完你学会了吗？",
+      "author": "阿龙快跑",
+      "likes": 1797,
+      "snippet": "六种方法辨别真假耐克，看完你学会了吗？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/20b4076f7b9b7acbc4c2389f30ab3a2b/1040g2sg31j2p1mmcgm705ocu18uoc8cdh2o6fs8!nc_n_webp_mw_1"
+    },
+    "xhs_689a657400000000250237dd": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/689a657400000000250237dd?xsec_token=ABkRU1UeEKC5dcveUcf8a2d5QI4oc-6m7nhmxAGTFAoHQ=&xsec_source=pc_search",
+      "title": "鉴定教学｜两张图小白也能轻松鉴定空军纯白",
+      "author": "铁脑壳同学",
+      "likes": 1631,
+      "snippet": "鉴定教学｜两张图小白也能轻松鉴定空军纯白",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/3c5407ba1952e826436437e5c3abe8e5/1040g2sg31l24vopjige05q39vk07asjrg0oec88!nc_n_webp_mw_1"
+    },
+    "xhs_66d18dc7000000001d01a13f": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66d18dc7000000001d01a13f?xsec_token=ABzrd-5cNGJRNwhC3ayPpFGF2haEtijuKy9kAiuxKLSH4=&xsec_source=pc_search",
+      "title": "大家都在用什么软件买鞋？",
+      "author": "黒拱门",
+      "likes": 893,
+      "snippet": "大家都在用什么软件买鞋？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170659/1690cda83e1d82b66ebfe514eb7e0695/1040g0083174apkmo0q6g5pm4gcgne5ha7vmqc98!nc_n_webp_mw_1"
+    },
+    "xhs_68e61e800000000005012caa": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68e61e800000000005012caa?xsec_token=ABKFgGh66JUUnTFDjNs-yC30lF9GHJQUBbBLhcLGHWAA0=&xsec_source=pc_search",
+      "title": "1分钟教你判断跑鞋是否为真❗️",
+      "author": "八戒穿西装",
+      "likes": 722,
+      "snippet": "1分钟教你判断跑鞋是否为真❗️",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/763a9b895a94af467b27fe655ee57d7f/1040g00831ncd397bmg005nrsgit0852blvvcrvo!nc_n_webp_mw_1"
+    },
+    "xhs_68b5d842000000001d01004a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68b5d842000000001d01004a?xsec_token=ABoRwkTYtJTpYJVrMLITpZk5dIOi1QzGTZV6YTcLhje6U=&xsec_source=pc_search",
+      "title": "铁哥365天常驻｜粉丝球鞋免费鉴定专栏",
+      "author": "铁脑壳同学",
+      "likes": 472,
+      "snippet": "铁哥365天常驻｜粉丝球鞋免费鉴定专栏",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/0b8732ea7906f395860c3ca89fbe4366/notes_pre_post/1040g3k831lt8nucckq7g5q39vk07asjranb4kgg!nc_n_webp_mw_1"
+    },
+    "xhs_69119a22000000000301e84b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69119a22000000000301e84b?xsec_token=ABwgPau8kwMLxupYjP8NxvJ7YnmsOfcERSdxiPAp5rRvM=&xsec_source=pc_search",
+      "title": "注意！鞋标这个地方对不齐，100%是假货！",
+      "author": "黑猫鉴定",
+      "likes": 455,
+      "snippet": "注意！鞋标这个地方对不齐，100%是假货！",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/96afe3069fa46284797ce5425e8bd48e/notes_pre_post/1040g3k031omrej28g61g5n1sf061i43un1cdr00!nc_n_webp_mw_1"
+    },
+    "xhs_68a56ca0000000001b01d3e4": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68a56ca0000000001b01d3e4?xsec_token=ABMsntJ3xJ13QqKvxkqv5XCRN0uHYVswMPwDCTZtBFaFI=&xsec_source=pc_search",
+      "title": "Nike AJ 鞋标鉴定干货！小白也能秒变“鉴鞋侠",
+      "author": "OD球鞋鉴定师",
+      "likes": 328,
+      "snippet": "Nike AJ 鞋标鉴定干货！小白也能秒变“鉴鞋侠",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/8398e2158e7f5663a83c6f273ac1488a/notes_pre_post/1040g3k831ld7ms2sl8705oh9c9nocmis9mlfejg!nc_n_webp_mw_1"
+    },
+    "xhs_69a3d430000000001600b6c9": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69a3d430000000001600b6c9?xsec_token=ABPvCrFgFp5k-3og2mHepYjHcob0zPDNZ3XvGOjm6nLkQ=&xsec_source=pc_search",
+      "title": "来图帮鉴定任何潮鞋👟",
+      "author": "壁哥鉴鞋👟",
+      "likes": 270,
+      "snippet": "来图帮鉴定任何潮鞋👟",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170657/0384d915015e72964047860fea4c6bde/1040g2sg31t5lrb0v5se05qanlc9dte0fqkvstc0!nc_n_webp_mw_1"
+    },
+    "xhs_69a6f43a000000001b0163f6": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69a6f43a000000001b0163f6?xsec_token=AB1YCHmh6F6jJQmSkg9QXdnLt59v8fjFG8vZELo_Tz1T4=&xsec_source=pc_search",
+      "title": "大学生上课穿什么鞋",
+      "author": "RAYS",
+      "likes": 264,
+      "snippet": "大学生上课穿什么鞋",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170655/ed7307b1263f216e574357b0ba465e82/1040g2sg31t8m6mdd5mh05q1c5bp2nuraskrtt2o!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

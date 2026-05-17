@@ -1,0 +1,283 @@
+{
+  "hobby_id": "video_creation",
+  "hobby_name": "视频创作",
+  "category": "skill_growth",
+  "neon_color": "#3EE8FF",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 视频创作：用画面讲故事的超能力 🎬\n\n视频创作，简单说就是**从一个想法出发，经过拍摄/素材收集、剪辑、调色、配音等步骤，做出一条让人想看完的视频**。它可以是记录生活的 Vlog、有剧情的短片、治愈系动画，也可以是知识分享的教程视频。\n\n学会视频创作，你能做到：\n- 🎥 在小红书、抖音、B站发布自己的原创内容，积累粉丝\n- 💰 接商单、做副业，实现内容变现\n- 🤖 结合 AI 工具（如剪映、Midjourney、Veo3），一个人也能产出高质量短片\n- 📖 记录生活里值得留住的瞬间\n\n**和纯摄影的区别**：视频创作更强调「时间线上的叙事」，需要考虑节奏、转场和配乐，而不只是一张好看的静态图。**和直播的区别**：视频创作是先录后剪，有充分的修改空间，新手更友好。\n\n现在 AI 工具极大降低了门槛——就算是文科生、没有专业设备，用一台普通笔记本电脑也能做出让近5万人围观的 AI 短片！不要怕，动手就对了 💪"
+      },
+      "citations": [
+        "xhs_690497b0000000000700035c",
+        "xhs_68daa6de0000000013035204",
+        "xhs_6989bc69000000000d00a7cd"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥0-100",
+            "items": [
+              "剪映（免费版，手机/电脑均可）",
+              "手机拍摄（不需要额外购买设备）",
+              "B站免费教程（doyoudo、GenJi、剪映研究所）"
+            ],
+            "note": "零成本起步，手机+剪映免费版足够完成基础剪辑和发布短视频"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥100-500/月",
+            "items": [
+              "剪映专业版会员（约89元/月）",
+              "AI图像生成工具 Midjourney（约10美元/月）",
+              "AI视频工具 Runway / PixVerse C1（按需订阅）"
+            ],
+            "note": "解锁 AI 辅助创作，可做治愈系动画 Vlog、AI 漫剧等进阶内容"
+          },
+          {
+            "name": "专业",
+            "price_range": "¥500+/月",
+            "items": [
+              "ChatGPT/Claude/Deepseek 会员（剧本生成）",
+              "Midjourney 高级套餐",
+              "Veo3 等顶级 AI 视频生成工具",
+              "达芬奇专业版（调色）"
+            ],
+            "note": "打通「剧本→画面→动画→配音」全 AI 工业流程，适合想做 AI 博主或接商单的创作者"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68daa6de0000000013035204",
+        "xhs_68cd667e000000000b01353b",
+        "xhs_69338e7d000000001e028542",
+        "xhs_6989bc69000000000d00a7cd"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "learning_curve",
+      "title": "学习路径",
+      "content": {
+        "type": "timeline",
+        "entries": [
+          {
+            "label": "1 周",
+            "title": "完成第一条粗剪视频",
+            "detail": "学会剪映基础操作：导入素材、切割片段、加字幕、加背景音乐，完成一条30-60秒生活 Vlog 的粗剪并发布。"
+          },
+          {
+            "label": "1 个月",
+            "title": "掌握基础剪辑逻辑",
+            "detail": "能理解「为什么用特写接全景」的剪辑逻辑，熟练使用转场、调色基础参数，独立完成一条有叙事感的视频，时长2-3分钟。"
+          },
+          {
+            "label": "3 个月",
+            "title": "引入 AI 工具提效，内容方向初步稳定",
+            "detail": "能用 ChatGPT/Deepseek 生成视频脚本，用 Midjourney 生成统一风格画面（掌握 --sref 参数），并用 Runway 或 PixVerse 让图片动起来，产出一条完整 AI 短片；同时确定自己的内容定位和发布节奏。"
+          },
+          {
+            "label": "半年",
+            "title": "建立完整内容创作 SOP，实现多平台分发",
+            "detail": "能像百万粉博主一样，用「先在小平台验证选题 → 扩展成完整视频 → 复用至多平台」的流程高效产出；达芬奇/剪映调色能让素材有电影质感；尝试接到第一个商单或完成一部有完整剧情的 AI 短片。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_68daa6de0000000013035204",
+        "xhs_68cd667e000000000b01353b",
+        "xhs_68f19e4b00000000070203c1",
+        "xhs_69338e7d000000001e028542"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "resources",
+      "title": "学习资源推荐",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "doyoudo（B站）",
+            "description": "「保姆级启蒙师」，Pr、AE、剪映基础功能全有，一步一截图，调色参数、蒙版用法语言直白，零基础完全听得懂。",
+            "meta": "B站 · 免费 · 适合完全新手",
+            "url": null
+          },
+          {
+            "title": "GenJi（B站）",
+            "description": "《90分钟吃透Pr》跳过冗余内容，聚焦剪片必会操作；不止教按钮，还讲「为什么」，帮你建立剪辑逻辑思维。",
+            "meta": "B站 · 免费 · 适合想快速上手的新手",
+            "url": null
+          },
+          {
+            "title": "影视飓风（B站）",
+            "description": "达芬奇调色教程可以把普通素材调出电影感，还拆解商业案例，分享剪辑号如何找定位、做差异化，技术+运营双修。",
+            "meta": "B站 · 免费 · 适合进阶创作者",
+            "url": null
+          },
+          {
+            "title": "剪映研究所（B站/抖音）",
+            "description": "剪映官方账号，专讲剪映实用技巧，还教剪映账号怎么起号，免费内容足够新手做短视频，想只用剪映做号看这个就够。",
+            "meta": "B站/抖音 · 免费 · 适合新手",
+            "url": null
+          },
+          {
+            "title": "陆一舟剪辑（桃堡）",
+            "description": "内容全面系统，涵盖手机和电脑剪映，实操性强，结合案例拆解多种类型剪辑，有一对一指导，适合想系统学习的同学。",
+            "meta": "桃堡 · 付费课程 · 适合想系统进阶的学员",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69338e7d000000001e028542",
+        "xhs_68daa6de0000000013035204"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "milestone",
+      "title": "第一个里程碑",
+      "content": {
+        "type": "markdown",
+        "text": "## 🎯 第一个里程碑：发布一条「有人主动转发」的原创视频\n\n**目标**：在起号后 **2-4 周**内，在小红书或抖音发布一条时长30-90秒、有主题有节奏的原创视频，并收到超过50个点赞或被人主动转发。\n\n---\n\n### ✅ 行动清单\n\n1. **账号基础建设（第1天）**\n   - 确定账号名称（简短易记）、头像、简介（写清楚你分享什么内容）\n   - 参考格式：「分享内容方向 × 3条 + 一句简短自我介绍 + 联系方式」\n\n2. **选题验证（第2-3天）**\n   - 浏览同类博主，拆解一位你喜欢的博主的内容结构\n   - 选一个你亲身经历/有感触的小话题（不要贪大）\n\n3. **拍摄/素材收集（第3-4天）**\n   - 用手机拍摄日常素材，或用 AI 工具生成图片素材\n   - 如果做 AI 动画：准备一张分镜脚本图 + 角色参考图\n\n4. **剪辑与发布（第5-7天）**\n   - 打开剪映，完成粗剪（切掉废片、加字幕、配背景音乐）\n   - 从「笔记灵感」或「活动中心」入口发布，获得额外曝光机会\n\n5. **复盘（发布后48小时）**\n   - 观察数据，记录哪个时间段流量最高\n   - 根据评论区反馈决定下一条视频方向\n\n> 💡 小提示：第一条视频的质量不用完美，**发出去比藏着强**。百万粉博主也是从第一条看起来普通的视频开始的！"
+      },
+      "citations": [
+        "xhs_692300c9000000000d00d478",
+        "xhs_68daa6de0000000013035204",
+        "xhs_68f19e4b00000000070203c1"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "没有专业设备，只有一台普通笔记本，能做出像样的视频吗？",
+            "a": "完全可以！有创作者用一台用了6年的普通笔记本做出的 AI 短片，在小红书获得了近5万次播放和4000多个点赞。关键是学会用 AI 工具弥补硬件不足，不需要本地部署复杂工作流。"
+          },
+          {
+            "q": "剪映和 Premiere（Pr）到底学哪个？",
+            "a": "新手强烈建议先学剪映——免费、操作简单、手机电脑都能用，免费内容已经足够做日常短视频。想做更专业的内容再考虑 Pr。B站上 doyoudo、GenJi 等老师两个都有教程，可以先学剪映，有需求再切换。"
+          },
+          {
+            "q": "做 AI 视频时，图片生成好了但一转成视频就「崩了」（角色变形、整容），怎么办？",
+            "a": "这是 AI 漫剧制作最常见的坑。解决方法：①三视图必须做全，不能偷懒；②首帧和尾帧的角度差异不能超过30度；③提示词里一定要写明运镜和节奏；④多参考图建议上传5-7张效果最稳。工具上可以试试 PixVerse C1，对打斗和特效场景理解比通用模型更准。"
+          },
+          {
+            "q": "AI 生成视频的完整流程是什么？",
+            "a": "一套可操作的流程：① 用 ChatGPT/Claude/Deepseek 生成分场景的视频脚本（要包含画面描述）；② 把画面描述丢给 Midjourney 生成图片（用 --sref 参数统一风格）；③ 用 Runway / Veo3 / Midjourney Video 让图片动起来；④ 用剪映完成字幕、配乐、合并剪辑。Veo3 还会自动生成音效，非常省时。"
+          },
+          {
+            "q": "内容创作效率太低，选题和写脚本就要花好几个小时，怎么提速？",
+            "a": "百万粉博主的核心方法是「先验证，再投入」：先把想法压缩成短内容（比如一条微博/小红书）发出去测试反响，反响好再扩展成完整视频脚本，避免花大量时间做出没人看的内容。研究阶段可以让 AI（如 Gemini）直接总结参考视频的要点，原本6小时的研究压缩到1小时以内。"
+          },
+          {
+            "q": "新号发出去没有流量怎么办？",
+            "a": "可以从平台的「笔记灵感」或「活动中心」入口发布，这两个入口有流量扶持，有机会获得额外曝光。此外，起号前几天每天花20-30分钟浏览平台内容，让系统识别账号活跃状态，也有一定帮助。"
+          },
+          {
+            "q": "视频创作学到什么程度可以变现？",
+            "a": "根据素材中的经验，AI 漫剧创作有明确的变现方向（视频中有专门讲「变现方向」章节）；内容博主的路径通常是：积累粉丝 → 接商单/品牌合作。技术层面，能稳定产出有质量内容的阶段就可以开始尝试变现，不必等到「完全学会」。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_690497b0000000000700035c",
+        "xhs_69e5fdb3000000001b02032a",
+        "xhs_68cd667e000000000b01353b",
+        "xhs_68f19e4b00000000070203c1",
+        "xhs_692300c9000000000d00d478"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_68daa6de0000000013035204": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68daa6de0000000013035204?xsec_token=ABZZQLiztT7rJS5tSVvhOAzo-B7NQyo0YBixdMqj2jdQw=&xsec_source=pc_search",
+      "title": "《新手七天学会剪辑》第一期 怎么粗剪",
+      "author": "卡夫ls",
+      "likes": 9820,
+      "snippet": "挑战国庆七天学会剪辑 #剪辑教程[话题]# #新手小白剪辑[话题]# #干货分享[话题]# #剪映教学[话题]# #剪映[话题]# #vlog剪辑[话题]# #粗剪[话题]# #挑战[话题]#",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170543/f959bca8538807f4c3c1e855f3a9019a/spectrum/1040g0k031n17237j52004aelm79lasg4ua3gpuo!nc_n_webp_mw_1"
+    },
+    "xhs_6989bc69000000000d00a7cd": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6989bc69000000000d00a7cd?xsec_token=AB46L-UjNssyQWwOWDSfP6QAfC2RKLE6336RdfW_ZFJ0o=&xsec_source=pc_search",
+      "title": "AI直出治愈系动画vlog教程！无后期配音剪辑！",
+      "author": "骑蜗牛追导弹",
+      "likes": 8386,
+      "snippet": "今天用Ji . .梦 的视频新模型See dance [二R].0，测试了一下治愈系动画vlog的制作，说实话，有被惊讶到！\n距离上一次分享治愈动画vlog的AI制作教程才短短几个月（那时觉得已经很方便了），没想到这次测试下来…提效不是一丁点儿…\n视频开头的vlog案例就是我用【一张分镜脚本图+一张角色图】一键生成的，无需单独制作分镜图！包括音效都是自带的，没有做任何后期剪辑！\n现在把新的制作方法",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170543/0c1d7171ce53aa87e6c221779ae3dd63/1040g2sg31sc64bsc5se05nq4o3808oep33f5u40!nc_n_webp_mw_1"
+    },
+    "xhs_68cd667e000000000b01353b": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68cd667e000000000b01353b?xsec_token=ABnR1v4y6LZ3-DT_zv6g97Tsfj6DaT2aK_g8x2zIkyFr0=&xsec_source=pc_search",
+      "title": "AI视频生产流程，收藏这篇就够！",
+      "author": "可乐王",
+      "likes": 7660,
+      "snippet": "今天给你们上一套完整的AI视频【工业流程】！ 亲测有效，从想法到成片，一条龙直接毕业🎓 想做AI博主或者搞副业的，赶紧把这份作业抄走！\n\t\n1️⃣ 剧本和分镜稿：交给AI大脑🧠\n▪️ 工具：ChatGPT / Claude / Deepseek 别自己苦哈哈想了！直接跟AI说你要啥。\n直接复制这段“咒语”去用： 「写一个60秒视频脚本，主题是[xxx]，风格[xxx]。严格按【场景X】-【画面描述",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170543/14c843e3525743dc1690ec8b02e7dc3b/notes_pre_post/1040g3k831mk8mtv4mm7049k21mth840idbnkcvg!nc_n_webp_mw_1"
+    },
+    "xhs_68f19e4b00000000070203c1": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68f19e4b00000000070203c1?xsec_token=ABKq1Nuzy_kpTcHwG9xKtkHLrsSQnYddWnKpQ1SG0p8LA=&xsec_source=pc_search",
+      "title": "百万粉丝博主2小时内容创作sop",
+      "author": "一只小橘呀",
+      "likes": 6456,
+      "snippet": "今天刷YouTube的时候，偶然看到一个百万粉丝博主Dan分享他的内容创作工作流。说实话，看完之后我有点懵，因为人家每天只花2小时就能完成所有内容创作工作，而我有时候想针对于具体某个话题想选题内容、到处搜集资料就要花2小时，更别说写文章了。真的很想提升内容创作效率。\n\t\nDan是怎么做的？\n他的核心原则是：先验证，再投入。\n1.用Twitter当试验田。\nDan不会一开始就写长文章。他会先把想法压",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170546/4ebca813748b9e0d9d447c8e2aca38d4/notes_pre_post/1040g3k831nnkgmr252705oedackk1snurqpsep0!nc_n_webp_mw_1"
+    },
+    "xhs_692300c9000000000d00d478": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/692300c9000000000d00d478?xsec_token=AB9rwEHIHuWedfjOActtl690NSmIVr3nPrkOmwFWAp4Ec=&xsec_source=pc_search",
+      "title": "一篇笔记讲清楚想做博主需要做哪些准备：",
+      "author": "山山而川",
+      "likes": 5237,
+      "snippet": "-\nHiii！小宝们！\n今天又是一个大产出了\n到很多小宝想尝试做plog\n于是我总结了一些起号前应该做的准备\n想让大家起号更顺一些，不要踩我们踩过的坑\n\t\n：）1️⃣定下名字、头像、简介\n一开始就要先确定下来，这样大家刷到你才会有印象\n相当于给自己的账号，办了一个🆔\n\t\n▫️名字：不建议用太长的，也不建议用太多人用的\n名字肯定是从别人那里知道的直接信息\n所以要取一个大家更能记得住的\n\t\n▫️头像：",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170541/2509af6aa54e113ca05f2af1fe5515fa/notes_pre_post/1040g3k831p7rthi9io705q2lbsg7gu65cl26008!nc_n_webp_mw_1"
+    },
+    "xhs_69338e7d000000001e028542": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69338e7d000000001e028542?xsec_token=ABggbR0ZtKEK3BCZtnqKYsBrK2vL4SAKLcdObEO_orNbs=&xsec_source=pc_search",
+      "title": "建议学剪映的都去小破站死磕这几位老师",
+      "author": "如水般的法律工具人",
+      "likes": 4894,
+      "snippet": "[电影R]doyoudo——“保姆级启蒙师”\n亮点：不管是Pr的轨道操作、AE的特效制作，还是剪映的基础功能，都拆成“一步一截图”的细节教程。复杂的调色参数、蒙版用法，语言直白，完全不怕听不懂。\n去哪学：小破站📺\n[电影R]GenJi是真想教会你——快速上手＋逻辑\n亮点：不想花时间啃基础？他的《90分钟吃透Pr》直接帮你跳过冗余内容，聚焦“剪片子必须会的操作”；不止教按钮，还会说“为什么这段要用特",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170543/1dbd4c7808a4418fb30c8499d375e04b/notes_pre_post/1040g3k031po1ce014u6g5pe3k4gjk6f0s7f95sg!nc_n_webp_mw_1"
+    },
+    "xhs_690497b0000000000700035c": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/690497b0000000000700035c?xsec_token=ABCAtftiQHCll3wC9OUBMacNLUOqOoIvKqm0uXw5Bq4I4=&xsec_source=pc_search",
+      "title": "近5万人看过的AI短片经验分享（上）",
+      "author": "吉某某",
+      "likes": 4740,
+      "snippet": "普通配置电脑可实现\n\t\n没想到在小红书发布的第一条视频就有4000多人点赞，真的惊了，谢谢大家喜欢！\n其实这个AI短片不涉及本地部署的复杂工作流，我是用一台用了6年的笔记本做的。\n这篇分享主要关于制作AI视频，但其中不少方法同样适用于传统拍摄，有兴趣的也可以看看。\n\t\n如果你也在用AI制作内容，希望它能给你一些参考。\n内容较多，建议先码后看～\n\t\n#AI视频创作[话题]# #AI经验分享[话题]#",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170546/e2f330fb5d506bf5cfb8ea19b24dd044/1040g00831obbh8nkku0g5p2a9m1aafe7d9l6eto!nc_n_webp_mw_1"
+    },
+    "xhs_69e5fdb3000000001b02032a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69e5fdb3000000001b02032a?xsec_token=AB8A2f8K0vZb84YOYmM34Flc3gQJAhj8PxE8VOkhV-YWw=&xsec_source=pc_search",
+      "title": "从0体验Ai漫剧从图片到视频，文科生有哪些坑",
+      "author": "梦想家瑶光",
+      "likes": 3924,
+      "snippet": "#00:26[时刻]# 一、素材准备\n#00:55[时刻]# 二、视频生成\n#01:04[时刻]# 1.首尾帧\n#01:26[时刻]# 2.多参考图\n#01:39[时刻]# 3.多宫格分镜直出\n#02:23[时刻]# 三、踩坑避雷\n#02:59[时刻]# 四、变现方向\n\t\n说实话做AI漫剧到第二、三步我差点放弃\n图片做得再好看一生成视频就全崩了……\n角色转个头就整容、特效像是P上去的\n后来踩了一堆",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170548/14f36853bd55dfad432874a98cb5c93b/1040g2sg31v6975f6ii004a70ttu4t8dmj8c3r5o!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}

@@ -1,0 +1,310 @@
+{
+  "hobby_id": "badminton",
+  "hobby_name": "羽毛球",
+  "category": "social_competitive",
+  "neon_color": "#FF3EA5",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "是什么",
+      "content": {
+        "type": "markdown",
+        "text": "## 羽毛球：随时随地都能打的全民运动\n\n羽毛球是一项用球拍击打羽毛球、使其在网两侧来回飞行的隔网运动，可以单打（1v1）或双打（2v2）进行。相比足球、篮球等需要大场地和多人配合的运动，羽毛球**两个人就能开局**，对场地要求低，室内外均可进行。\n\n### 玩法特点\n- **入门门槛低**：基础对打只需掌握发球和高远球，十几分钟就能打起来\n- **技术上限高**：从休闲对拍到专业竞技，技术层次丰富，越练越有成就感\n- **全身有氧运动**：跑动、跳跃、挥臂一气呵成，消耗热量可观，是很多人减脂的首选\n- **社交属性强**：双打模式天然适合朋友、同事、情侣组队，球馆常有陌生人拼场，认识新朋友的机会多\n\n### 与同类运动对比\n- 对比**网球**：场地更小、费用更低、学习曲线更平缓\n- 对比**乒乓球**：对抗感更强，跑动量更大，视觉观赏性更佳\n- 对比**篮球/足球**：人数要求更灵活，2人即可组局\n\n无论是下班后和同事约一场，还是周末去球馆蹭场认识新朋友，羽毛球都是一项老少皆宜、上手快、可持续深入的好运动。"
+      },
+      "citations": [
+        "xhs_66dece660000000026033610",
+        "xhs_6609a086000000001a00f4df"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "budget",
+      "title": "要花多少钱",
+      "content": {
+        "type": "budget_tiers",
+        "tiers": [
+          {
+            "name": "入门",
+            "price_range": "¥100-300",
+            "items": [
+              "借用或购买入门球拍（¥50-150）",
+              "羽毛球一桶（¥30-80）",
+              "场地费单次（¥20-50/人）",
+              "运动鞋（可用现有鞋）"
+            ],
+            "note": "蹭朋友的拍子或买一支入门拍，偶尔打几次体验一下，适合试水阶段"
+          },
+          {
+            "name": "进阶",
+            "price_range": "¥500-1500",
+            "items": [
+              "中端球拍（¥200-600，如尤尼克斯 Nanoflare/Victor 胜利系列）",
+              "专业羽毛球鞋（¥200-400）",
+              "羽毛球若干筒（¥80-200）",
+              "每月固定场地费（¥100-300）"
+            ],
+            "note": "固定每周打1-2次，有自己的拍子和球鞋，开始学技术动作"
+          },
+          {
+            "name": "高阶（组队/长期投入）",
+            "price_range": "¥2000-5000+",
+            "items": [
+              "进阶/高端球拍（¥600-2000+，如尤尼克斯天斧/Victor 蜻蜓系列）",
+              "专业穿线费（¥50-150/次）",
+              "多筒羽毛球（长期消耗品）",
+              "运动服装套装（¥200-500）",
+              "包月/包季场地费"
+            ],
+            "note": "长期固定打球，追求技术提升，甚至参加社区联赛或组织球队"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_67d6a5790000000009014925",
+        "xhs_6855a2b500000000170303da",
+        "xhs_68171ad6000000002203658a"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "gear",
+      "title": "装备 / 道具",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "羽毛球拍",
+            "description": "最核心装备。新手建议选全碳素或碳铝混合的入门拍，拍框偏大、弹性好，容错率高。进阶后可选尤尼克斯（Yonex）或胜利（Victor）中端型号。",
+            "meta": "预算 ¥50-600 · 推荐入门：Victor 胜利 ARS / Yonex Nanoflare 001 · 新手友好度：★★★★★",
+            "url": null
+          },
+          {
+            "title": "羽毛球鞋",
+            "description": "专业羽毛球鞋鞋底有防滑纹路，能支撑频繁的侧向移动，保护脚踝和膝盖。切勿用跑鞋代替，容易扭伤。",
+            "meta": "预算 ¥150-500 · 推荐品牌：Yonex、Victor、李宁 · 新手友好度：★★★★☆",
+            "url": null
+          },
+          {
+            "title": "羽毛球（球筒）",
+            "description": "日常练习可选尼龙球（耐用、便宜），正式打球建议选鹅毛球，手感和飞行轨迹更真实。",
+            "meta": "预算 ¥30-120/筒 · 推荐：尤尼克斯 AS-9 / 红双喜 D60 · 新手友好度：★★★★★",
+            "url": null
+          },
+          {
+            "title": "运动服装",
+            "description": "轻薄速干的运动上衣和短裤即可，无需专门购买羽毛球服。有条件可选带拉链口袋款方便放球。",
+            "meta": "预算 ¥80-300 · 推荐：李宁、安踏、Yonex 运动系列 · 新手友好度：★★★★★",
+            "url": null
+          },
+          {
+            "title": "护腕 / 运动袜",
+            "description": "护腕可减少手腕受伤风险，厚底运动袜能缓冲脚底冲击。新手初期容易忽略，建议一起备上。",
+            "meta": "预算 ¥20-80 · 推荐：李宁/迪卡侬护腕+专业运动袜 · 新手友好度：★★★★★",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_6855a2b500000000170303da",
+        "xhs_68171ad6000000002203658a",
+        "xhs_67d6a5790000000009014925"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "how_to_play",
+      "title": "怎么上手",
+      "content": {
+        "type": "markdown",
+        "text": "## 基础规则速览\n\n- **计分**：每球得分制，单打/双打均以 **21分为一局**，赢两局者胜；若进入 20:20 需领先 2 分，最多打到 30:29 止。\n- **发球**：发球必须在腰部以下击球，球拍拍头不得高于握拍手的腰部；发球区依单双打有所不同。\n- **界内/界外**：落地压线算界内；双打边线比单打宽，但发球时后区比单打短。\n\n---\n\n## 第一次到球馆的流程\n\n1. **提前预订场地**：通过球馆小程序或电话预订，高峰时段（工作日晚上、周末）需提前 1-2 天。\n2. **换装热身**：换上羽毛球鞋，做 5-10 分钟拉伸，重点活动肩关节、膝关节和踝关节。\n3. **熟悉握拍**：先学\"握手式\"正手握拍，拇指和食指形成\"V字\"，拍柄不要握死，保持弹性。\n4. **从高远球开始**：第一次建议先在场地内互相挑高球，找到挥拍节奏和击球甜区，不必急于扣杀。\n5. **学基础步法**：移动到位比挥拍更重要，先练原地垫步和小碎步，再学后退步法。\n6. **正式比赛**：有了基础对打感觉后，可以尝试正式比赛规则，从 11 分短局练起。\n\n---\n\n## 新手最容易忽略的关键点\n\n> **「步法比手法更重要」**\n\n很多新手只顾着练挥拍动作，却忽略了移动到位。击球时如果脚步没有到位，无论挥拍多用力，球的质量都会很差，还容易受伤。**建议前期把 50% 的练习时间放在步法上**——回中心位、判断落点、移动到击球点，这三步做好了，技术提升会快很多。此外，打球后要做充分的拉伸，肩袖肌群和膝盖都是羽毛球运动的高损伤区域。"
+      },
+      "citations": [
+        "xhs_662629ce000000000d032089",
+        "xhs_690331bf0000000007003e21",
+        "xhs_6928241c000000001e032655",
+        "xhs_69203d0b000000001f006dc3"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "find_people",
+      "title": "找人 / 找局",
+      "content": {
+        "type": "cards",
+        "cards": [
+          {
+            "title": "球馆散拼局",
+            "description": "直接去附近羽毛球馆，在前台或公告栏询问是否有散拼场次，很多馆会有固定时间的拼场活动，按人头收费，随到随打。",
+            "meta": "线下 · 全国通用 · 适合：单人、新手 · 注意：高峰时段可能较难拼到位置",
+            "url": null
+          },
+          {
+            "title": "微信运动/同城羽毛球群",
+            "description": "在微信搜索\"[城市名]+羽毛球\"，或加入本地羽毛球爱好者群，群里经常发起约场通知，可以直接报名参与。",
+            "meta": "线上社群 · 全国通用 · 适合：想固定打球的人 · 注意：认准正规群，注意人身和财产安全",
+            "url": null
+          },
+          {
+            "title": "Keep / 运动App找局",
+            "description": "Keep等运动社区App有同城活动功能，可以找到羽毛球约球帖子，也能发布自己的找球需求。",
+            "meta": "App · 全国 · 适合：习惯线上社交的年轻人 · 注意：活跃度因城市而异",
+            "url": null
+          },
+          {
+            "title": "小红书/抖音搜同城约球",
+            "description": "在小红书或抖音搜索\"[城市]+羽毛球约球\"，有不少博主或爱好者会发布约球帖，也可以在评论区留言报名。",
+            "meta": "社交平台 · 全国 · 适合：新手找低压力的入门局 · 注意：注意核实活动真实性",
+            "url": null
+          },
+          {
+            "title": "公司/学校社团",
+            "description": "很多公司有羽毛球兴趣部门，高校几乎都有羽毛球社团或体育课，门槛低、氛围好，是新手最友好的起步环境。",
+            "meta": "线下 · 学校/职场 · 适合：在校生、上班族 · 注意：确认开放时间和场地预约方式",
+            "url": null
+          }
+        ]
+      },
+      "citations": [
+        "xhs_66dece660000000026033610",
+        "xhs_6609a086000000001a00f4df"
+      ],
+      "video_refs": []
+    },
+    {
+      "id": "qa",
+      "title": "常见问题",
+      "content": {
+        "type": "qa",
+        "items": [
+          {
+            "q": "完全没打过，一个人去球馆会很尴尬吗？",
+            "a": "不会。很多球馆都有散拼场，单人去报名就能和陌生人组队打。前台说明自己是新手，馆方通常会帮你安排水平相近的队友。第一次去可以选非高峰时段，人少压力小。"
+          },
+          {
+            "q": "水平太差，会不会拖累队友？",
+            "a": "新手进步很快，打几次就能跟上基础双打节奏。可以提前告知搭档自己是新手，大部分球友都很包容。双打中优先保证自己的发球区域，减少失误比追求进攻更重要。"
+          },
+          {
+            "q": "羽毛球和乒乓球哪个更适合新手？",
+            "a": "两者都适合新手，看个人喜好。羽毛球跑动量更大、全身性更强，对喜欢有氧运动和出汗感的人更友好；乒乓球更考验手感和反应速度，对场地要求更低。"
+          },
+          {
+            "q": "买什么价位的球拍合适？",
+            "a": "入门阶段建议¥100-300的全碳素拍，不必一开始就买高端拍。等打了3-6个月、技术稳定后，再根据自己的打法（力量型/控制型）升级到¥400-800的中端拍。"
+          },
+          {
+            "q": "一定要穿专业羽毛球鞋吗？",
+            "a": "强烈建议。羽毛球有大量急停、侧移动作，跑鞋底部设计不支持侧向发力，容易崴脚甚至韧带拉伤。专业羽毛球鞋¥150起就有质量不错的选择，是最值得优先购买的装备。"
+          },
+          {
+            "q": "新手应该先练哪些动作？",
+            "a": "建议按顺序：①握拍方式→②发高远球→③接高远球（正手）→④步法移动→⑤网前搓球/放网。先把高远球打稳，能持续对打是第一阶段目标，不要急于学扣杀。"
+          },
+          {
+            "q": "打羽毛球容易受伤吗？",
+            "a": "常见损伤是肩袖、膝盖和踝关节。预防方法：打球前充分热身拉伸，打球后做放松拉伸；穿专业球鞋；技术动作正确（错误挥拍容易伤肩）。初学阶段不要强行跳跃扣杀，等肌肉力量练起来再说。"
+          }
+        ]
+      },
+      "citations": [
+        "xhs_69b1353e000000002602cd20",
+        "xhs_6609a086000000001a00f4df",
+        "xhs_6928241c000000001e032655"
+      ],
+      "video_refs": []
+    }
+  ],
+  "evidence": {
+    "xhs_662629ce000000000d032089": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/662629ce000000000d032089?xsec_token=ABv0TWDJFNUulbrM9UYg70bGxztf6D3o54l_7ojQZVW4w=&xsec_source=pc_search",
+      "title": "打羽毛球需要学会的24个基本动作✅",
+      "author": "程圣玮🏸",
+      "likes": 140778,
+      "snippet": "打羽毛球需要学会的24个基本动作✅",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170742/8cdd18fbd157115b466073259bf3511d/1040g008311sur4dfhq004bt9p56a0d1btr02140!nc_n_webp_mw_1"
+    },
+    "xhs_6928241c000000001e032655": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6928241c000000001e032655?xsec_token=ABNYaNmt6lh0Iq5PVMeJuRGKpyMSPq0Tr_MtN5zbOljCk=&xsec_source=pc_search",
+      "title": "羽毛球新手练什么进步快",
+      "author": "羽毛球汤老师",
+      "likes": 20241,
+      "snippet": "羽毛球新手练什么进步快",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170742/dc1f3187d27b9e5bbac4306909f13624/1040g00831pcsjpjmiu004ad0lu7aqj62cg6fi18!nc_n_webp_mw_1"
+    },
+    "xhs_690331bf0000000007003e21": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/690331bf0000000007003e21?xsec_token=ABSB5IkQgv7AL5tJOsXMJjt9e-urbSGub4cnbvpA2I720=&xsec_source=pc_search",
+      "title": "羽毛球初学者学习顺序",
+      "author": "张加帅",
+      "likes": 12697,
+      "snippet": "羽毛球初学者学习顺序",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170742/d7b6c7965f0a605058e2cbe0a57a0fd6/1040g00831o8pbrqo50005nuoh8kg8c9m0ajl500!nc_n_webp_mw_1"
+    },
+    "xhs_69b1353e000000002602cd20": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69b1353e000000002602cd20?xsec_token=ABjMm_hOMRzw788EaNe1uPyfuW1hqrNr7l7qP8HEDyOBY=&xsec_source=pc_search",
+      "title": "羽毛球从0到1教学、小白入门必看",
+      "author": "李纮铭HongMingLi",
+      "likes": 9755,
+      "snippet": "羽毛球从0到1教学、小白入门必看",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170740/bc053d3c228459b3726b9762d76db9e4/1040g2sg31tjfp4p97ol05psv4er1o5bpsttnuf8!nc_n_webp_mw_1"
+    },
+    "xhs_6609a086000000001a00f4df": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6609a086000000001a00f4df?xsec_token=ABJUAnCsmfaCw2QO-JoCzzPOqguc1p0uh-Na-uR5hmmvk=&xsec_source=pc_search",
+      "title": "羽毛球从新手到进阶（喂饭）",
+      "author": "想退休的沐子",
+      "likes": 8981,
+      "snippet": "羽毛球从新手到进阶（喂饭）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170740/07d774eda8eeca3d22ffc97247db0015/1040g2sg311132qq5mg5g5o4qdgog9bfl95m4ki0!nc_n_webp_mw_1"
+    },
+    "xhs_69203d0b000000001f006dc3": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/69203d0b000000001f006dc3?xsec_token=ABmBRAREwWX-G1lhQavR7vajHD2VwLT2TuOzf2pPE921c=&xsec_source=pc_search",
+      "title": "羽毛球初学者学习顺序（基础版）",
+      "author": "锦龙羽毛球",
+      "likes": 4065,
+      "snippet": "羽毛球初学者学习顺序（基础版）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170742/f2e2f7623fc6e440fb94af5bb9c5f707/1040g00831p55l6mfio005peod7bhefi41tu6rqg!nc_n_webp_mw_1"
+    },
+    "xhs_68171ad6000000002203658a": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/68171ad6000000002203658a?xsec_token=ABezj2LuBTzxUP0EZ1_X60h56o76hZCHJq_Zz9QN7ksEE=&xsec_source=pc_search",
+      "title": "国羽男神们的装备库（截至2025苏迪曼杯）",
+      "author": "庭老师别瞎玩了",
+      "likes": 3175,
+      "snippet": "国羽男神们的装备库（截至2025苏迪曼杯）",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170744/355ebd711f86bcb553ab68f5faf252ef/1040g2sg31h280epdjcd05ousspnpi7nlpjcsoeo!nc_n_webp_mw_1"
+    },
+    "xhs_6855a2b500000000170303da": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/6855a2b500000000170303da?xsec_token=AB1iRcWIEJ39D5-WHpYxEThQzgimMV0Cp0rDuzbvzZHS8=&xsec_source=pc_search",
+      "title": "羽毛球拍推荐",
+      "author": "杀球小白牢夏",
+      "likes": 2662,
+      "snippet": "羽毛球拍推荐",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170744/df3b7e0b79cc5d7602f945758164bb14/notes_pre_post/1040g3k031ivabcmg1c605pngn0lne8pkqbskr0g!nc_n_webp_mw_1"
+    },
+    "xhs_67d6a5790000000009014925": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/67d6a5790000000009014925?xsec_token=AB9pJCD5i8E_Wub8zwcyo_0VKJOeh7nlIuadb80QXuvcA=&xsec_source=pc_search",
+      "title": "省钱方法",
+      "author": "Badminton vav⚡",
+      "likes": 2325,
+      "snippet": "省钱方法",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170744/052e782607994a071ecf7180f2b2f8af/1040g00831f39u1vj6ok05nkmkmlg936r5fg6fi8!nc_n_webp_mw_1"
+    },
+    "xhs_66dece660000000026033610": {
+      "platform": "xhs",
+      "url": "https://www.xiaohongshu.com/explore/66dece660000000026033610?xsec_token=AB2ayatmYaDkQdc0z6bgeGrnI1wd_1k1HSWWfXxicrDKI=&xsec_source=pc_search",
+      "title": "你们第一次打羽毛球是什么时候？",
+      "author": "小阿秋",
+      "likes": 1949,
+      "snippet": "你们第一次打羽毛球是什么时候？",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202605170742/40013029adb43f864c20274cb81b3edd/1040g2sg317h8te7s46dg5pm71u0ne2jsv9j10ho!nc_n_webp_mw_1"
+    }
+  },
+  "videos": {}
+}
